@@ -1,13 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.00000.000000",
-  "counter": 0,
+  "version": "1.00559.081426",
+  "counter": 559,
   "major": 1,
-  "date": "",
-  "notes": [],
-  "installerUrl": "",
-  "sha256": "",
-  "sizeBytes": 0,
+  "date": "14 August 2026",
+  "notes": [
+    "New: Cisco Catalyst 9800 WLC report — turn a \"show tech-support wireless\" capture into a branded report",
+    "Path Check now shows honest \"time to first byte\" timings (no more misleading multi-second totals)",
+    "Calendar date pickers on the report's Document Configuration Management fields",
+    "Automatic updates: Wingman now checks for and installs new versions on launch"
+  ],
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00559.081426/Wingman-Setup-1.00559.081426.exe",
+  "sha256": "5503cd05fd639bc6b6780398593946cf62be85546f7361acde0380514c09b51f",
+  "sizeBytes": 318708144,
   "mandatory": false
 }
