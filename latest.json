@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00682.092826",
-  "counter": 682,
+  "version": "1.00685.092826",
+  "counter": 685,
   "major": 1,
   "date": "28 September 2026",
   "notes": [
-    "Secure file shares now expire faster — choose 10 minutes, 45 minutes, or 1 hour (default 45 minutes), so links don't linger.",
-    "Wi-Fi networks show their real security type (WPA2/WPA3-Personal, etc.) instead of a generic \"Secured\".",
-    "Reliability and behind-the-scenes improvements."
+    "Updates now finish cleanly — after installing, Wingman reopens automatically on the new version with all your data intact, instead of just closing.",
+    "Streamlined Settings and reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00682.092826/Wingman-Setup-1.00682.092826.exe",
-  "sha256": "f55974d5415fc850219738dd2b6d87aa6f99b8a948222897d303d7ce08a7b7aa",
-  "sizeBytes": 324436768,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00685.092826/Wingman-Setup-1.00685.092826.exe",
+  "sha256": "48707c53558ce1e7ae7740861a609ace4ec3ba0df5db5e1ca125ddbb190ba001",
+  "sizeBytes": 324420434,
   "mandatory": false
 }
