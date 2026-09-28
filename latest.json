@@ -1,26 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00665.081926",
-  "counter": 665,
+  "version": "1.00673.092826",
+  "counter": 673,
   "major": 1,
-  "date": "21 August 2026",
+  "date": "28 September 2026",
   "notes": [
-    "New: Document viewer — open PDFs and images right inside Wingman, with fast smooth scrolling and mouse-wheel zoom",
-    "New: Search inside any document with Adobe-style highlighting — including text inside images and scans (on-device OCR, nothing leaves your machine)",
-    "New: Measure tool — click two points, type the real distance, and read off any measurement on floor plans and images",
-    "New: Area tool — draw an area to get its real square footage (m²/ft²) once a scale is set, or just to mark a zone",
-    "New: Print your marked-up documents — measurements and areas included",
-    "New: Call Quality analyzer — passively measures Teams / Zoom / Webex call quality (loss, jitter, MOS) and correlates it with your Wi-Fi and path, no admin rights needed",
-    "New: Live interface traffic monitor — real-time up/down throughput for any network adapter",
-    "New: Peripheral throughput meter — live Bluetooth and USB-storage data rates",
-    "New: Cisco Catalyst 9800 report — turn a \"show tech-support wireless\" capture into a branded report",
-    "Improved: branded one-click installer, a Get Started welcome, and sign-in with Google",
-    "Automatic updates: Wingman checks for and installs new versions on launch",
-    "Reliability: many stability and quality fixes across the document tools and live meters"
+    "Wingman now uses your AI credits noticeably more efficiently — the same quality answers for meaningfully lower token spend — through smarter caching and automatic model selection.",
+    "Instant answers for common lookups: your IP, gateway, nearby Wi-Fi, device list, and quick definitions come back immediately, with no round-trip.",
+    "Stability and quality improvements across the app."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00665.081926/Wingman-Setup-1.00665.081926.exe",
-  "sha256": "ad20ab2a141df8c6ae9dfa4044c21e7d1bba222e557fdecbe0e082edd93c6de3",
-  "sizeBytes": 324425375,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00673.092826/Wingman-Setup-1.00673.092826.exe",
+  "sha256": "3fcda34845c2b1258bd2f903d0fe7b918f849c5dd1b69c7d28c8a1d0262c6f23",
+  "sizeBytes": 324429417,
   "mandatory": false
 }
