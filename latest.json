@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00686.092826",
-  "counter": 686,
+  "version": "1.00689.093026",
+  "counter": 689,
   "major": 1,
-  "date": "28 September 2026",
+  "date": "30 September 2026",
   "notes": [
-    "Validates the new seamless auto-update: installing this reopens Wingman automatically on the new version, with your data intact.",
+    "Refreshed Wingman branding — a new tetris-block \"W\" logo now appears across the app, the installer, and the app icon.",
     "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00686.092826/Wingman-Setup-1.00686.092826.exe",
-  "sha256": "86eee4d32b35aa41cbf4b48f01b3afcf337cf20dc1749171ab723c203c33fba8",
-  "sizeBytes": 324425703,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00689.093026/Wingman-Setup-1.00689.093026.exe",
+  "sha256": "5561cccc9035a1437dbd3c9f3d7d4849b06b5cf78093cf0c8013ca12f54f2372",
+  "sizeBytes": 324416833,
   "mandatory": false
 }
