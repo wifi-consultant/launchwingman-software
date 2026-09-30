@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00689.093026",
-  "counter": 689,
+  "version": "1.00691.093026",
+  "counter": 691,
   "major": 1,
   "date": "30 September 2026",
   "notes": [
-    "Refreshed Wingman branding — a new tetris-block \"W\" logo now appears across the app, the installer, and the app icon.",
+    "More branding polish — Wingman's assistant avatar now shows the tetris \"W\", and buttons use the refreshed brand color.",
     "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00689.093026/Wingman-Setup-1.00689.093026.exe",
-  "sha256": "5561cccc9035a1437dbd3c9f3d7d4849b06b5cf78093cf0c8013ca12f54f2372",
-  "sizeBytes": 324416833,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00691.093026/Wingman-Setup-1.00691.093026.exe",
+  "sha256": "9bb65247a1f2064870f08ea8c88933559de6e30d4ab1dac0c2eb255b52752455",
+  "sizeBytes": 324420239,
   "mandatory": false
 }
