@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00696.100826",
-  "counter": 696,
+  "version": "1.00697.100826",
+  "counter": 697,
   "major": 1,
   "date": "8 October 2026",
   "notes": [
-    "Updates now install and reopen Wingman reliably, even on locked-down work machines — no admin, no extra steps.",
+    "Validates the direct auto-update — installing this should finish and reopen Wingman on its own, no admin, no extra tools.",
     "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00696.100826/Wingman-Setup-1.00696.100826.exe",
-  "sha256": "66878a8a80847b1e338f709429d7cfa91da92935c5bae9a9b24a5caa1ace48a8",
-  "sizeBytes": 324414043,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00697.100826/Wingman-Setup-1.00697.100826.exe",
+  "sha256": "da567bac4d074e4de8da252581c7a8ae49ad2293d5b080f50999a0ae1e93c33f",
+  "sizeBytes": 324408493,
   "mandatory": false
 }
