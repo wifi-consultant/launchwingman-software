@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00691.093026",
-  "counter": 691,
+  "version": "1.00692.100826",
+  "counter": 692,
   "major": 1,
-  "date": "30 September 2026",
+  "date": "8 October 2026",
   "notes": [
-    "More branding polish — Wingman's assistant avatar now shows the tetris \"W\", and buttons use the refreshed brand color.",
+    "Fixed the updater so Wingman reliably reopens itself after installing an update, instead of closing and staying closed.",
     "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00691.093026/Wingman-Setup-1.00691.093026.exe",
-  "sha256": "9bb65247a1f2064870f08ea8c88933559de6e30d4ab1dac0c2eb255b52752455",
-  "sizeBytes": 324420239,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00692.100826/Wingman-Setup-1.00692.100826.exe",
+  "sha256": "753d143ce115cb46150c60ada4787a67de4fe1069d0d2b47353e996542e7413e",
+  "sizeBytes": 324424325,
   "mandatory": false
 }
