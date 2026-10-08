@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00693.100826",
-  "counter": 693,
+  "version": "1.00694.100826",
+  "counter": 694,
   "major": 1,
   "date": "8 October 2026",
   "notes": [
-    "Updates now install and reopen Wingman reliably — the app comes back on the new version on its own instead of staying closed.",
-    "Reliability improvements."
+    "Wingman now installs per-user (no admin/UAC needed) so it installs and updates reliably on managed work machines — and it now shows in Windows \"Apps\" so it can be uninstalled.",
+    "Updates install and reopen Wingman on their own."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00693.100826/Wingman-Setup-1.00693.100826.exe",
-  "sha256": "b87712318eeb6e9dd45621680726623b998112999a47bbbddac28dc47f6d1e6b",
-  "sizeBytes": 324421950,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00694.100826/Wingman-Setup-1.00694.100826.exe",
+  "sha256": "c075b79fc7be77d6a138086aa985e66ab44127bc6b64196835a037eae667a74e",
+  "sizeBytes": 324412636,
   "mandatory": false
 }
