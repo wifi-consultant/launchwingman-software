@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00703.100926",
-  "counter": 703,
+  "version": "1.00705.100926",
+  "counter": 705,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "Fixed updates failing with a \"file busy\" error when antivirus briefly locks the downloaded installer — Wingman now waits for the lock to clear and installs cleanly.",
-    "A failed SSH connection now stays on screen and shows exactly why it failed.",
-    "Reliability improvements."
+    "Your AI key is now checked the moment you save it: if it's invalid, Wingman tells you right away instead of accepting it and silently falling back to offline answers.",
+    "A verified key shows \"✓ Key verified and saved\"; a key that can't be reached to test (corporate proxy) is saved with a clear warning."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00703.100926/Wingman-Setup-1.00703.100926.exe",
-  "sha256": "cdbf478ee2fa5aa805862f7ca50fda02a93d814e349b97aebe68967e404a340f",
-  "sizeBytes": 324410486,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00705.100926/Wingman-Setup-1.00705.100926.exe",
+  "sha256": "97c59833b928c2e4a82ff594a6a09a6ece4c5af2d5cee72fa02229f3350c1e47",
+  "sizeBytes": 324416347,
   "mandatory": false
 }
