@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00699.100926",
-  "counter": 699,
+  "version": "1.00701.100926",
+  "counter": 701,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "New Terminal (SSH): a show/hide eye on the password field so you can check what you typed.",
+    "Ask Wingman to \"save this terminal as a device\" and it saves your open SSH/Telnet session to your devices — silently when it can, or a pre-filled form if it needs anything.",
+    "New Terminal (SSH): show/hide eye on the password field.",
     "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00699.100926/Wingman-Setup-1.00699.100926.exe",
-  "sha256": "99c0ddaa6787e47275c18bdbb33368bc9caf3d0efaabd9f0e49f575daca09425",
-  "sizeBytes": 324405871,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00701.100926/Wingman-Setup-1.00701.100926.exe",
+  "sha256": "e658423904ba3d8c1dab0a76a032c2fdc9ae3e93258718558b6b97fab21fdeb4",
+  "sizeBytes": 324406276,
   "mandatory": false
 }
