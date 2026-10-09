@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00705.100926",
-  "counter": 705,
+  "version": "1.00706.100926",
+  "counter": 706,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "Your AI key is now checked the moment you save it: if it's invalid, Wingman tells you right away instead of accepting it and silently falling back to offline answers.",
-    "A verified key shows \"✓ Key verified and saved\"; a key that can't be reached to test (corporate proxy) is saved with a clear warning."
+    "Fixed the \"spawn EBUSY\" error when installing an update: Wingman no longer holds the downloaded file open, and falls back to opening the installer the same way a double-click does, so it installs cleanly even with antivirus scanning.",
+    "Your AI key is checked the moment you save it — an invalid key is rejected with a clear reason instead of being accepted and silently failing."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00705.100926/Wingman-Setup-1.00705.100926.exe",
-  "sha256": "97c59833b928c2e4a82ff594a6a09a6ece4c5af2d5cee72fa02229f3350c1e47",
-  "sizeBytes": 324416347,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00706.100926/Wingman-Setup-1.00706.100926.exe",
+  "sha256": "529137c747e6e1ec17f3d943ea54873b77fbb35bd72d25d1cf8567fc93474cc6",
+  "sizeBytes": 324415575,
   "mandatory": false
 }
