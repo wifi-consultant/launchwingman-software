@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00709.100926",
-  "counter": 709,
+  "version": "1.00710.100926",
+  "counter": 710,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "Saving a terminal as a network device now always opens the pre-filled Add Device form for review — you pick the device type (defaults to \"Other\") and it's only saved when you click Save, instead of being created automatically."
+    "New \"Save Terminal\" button in the terminal toolbar — one click opens the pre-filled Add Device form for the session you're on, so you can save it as a network device without asking the assistant."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00709.100926/Wingman-Setup-1.00709.100926.exe",
-  "sha256": "3542ee06ccbae0b6a38782fd76f72cdeb9047eb9bc66db57b36d7c368dba5e03",
-  "sizeBytes": 324413056,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00710.100926/Wingman-Setup-1.00710.100926.exe",
+  "sha256": "bacf9756b5b8f5b1851931ff6ede529f4146816845ea2e33feb63ef1cf04adc8",
+  "sizeBytes": 324412405,
   "mandatory": false
 }
