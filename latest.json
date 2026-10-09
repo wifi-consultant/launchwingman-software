@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00702.100926",
-  "counter": 702,
+  "version": "1.00703.100926",
+  "counter": 703,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "A failed SSH connection now stays on screen and shows exactly why it failed, instead of the tab closing silently.",
-    "Ask Wingman to \"save this terminal as a device\" to save your open SSH/Telnet session.",
-    "New Terminal (SSH): show/hide eye on the password field."
+    "Fixed updates failing with a \"file busy\" error when antivirus briefly locks the downloaded installer — Wingman now waits for the lock to clear and installs cleanly.",
+    "A failed SSH connection now stays on screen and shows exactly why it failed.",
+    "Reliability improvements."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00702.100926/Wingman-Setup-1.00702.100926.exe",
-  "sha256": "feacfbdca8bdb2741cce7f3ed9a8c28b60b50f429bd593bf0f127867d6cbb373",
-  "sizeBytes": 324410205,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00703.100926/Wingman-Setup-1.00703.100926.exe",
+  "sha256": "cdbf478ee2fa5aa805862f7ca50fda02a93d814e349b97aebe68967e404a340f",
+  "sizeBytes": 324410486,
   "mandatory": false
 }
