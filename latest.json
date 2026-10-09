@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00708.100926",
-  "counter": 708,
+  "version": "1.00709.100926",
+  "counter": 709,
   "major": 1,
   "date": "9 October 2026",
   "notes": [
-    "Major fix: when a terminal session was open, every chat message (even \"hello\") wrongly replied \"I have no saved network devices in the vault yet.\" The assistant now answers normally again — this was a text-matching bug, not your API key.",
-    "\"Save the terminal as a network device\" now reliably opens the pre-filled Add Device form."
+    "Saving a terminal as a network device now always opens the pre-filled Add Device form for review — you pick the device type (defaults to \"Other\") and it's only saved when you click Save, instead of being created automatically."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00708.100926/Wingman-Setup-1.00708.100926.exe",
-  "sha256": "a7abf1a26ff3b373bee3a879e614c3c1bf7bc1b2349368f840ca977047d5e687",
-  "sizeBytes": 324416286,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00709.100926/Wingman-Setup-1.00709.100926.exe",
+  "sha256": "3542ee06ccbae0b6a38782fd76f72cdeb9047eb9bc66db57b36d7c368dba5e03",
+  "sizeBytes": 324413056,
   "mandatory": false
 }
