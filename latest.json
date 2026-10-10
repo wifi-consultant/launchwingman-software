@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00712.100926",
-  "counter": 712,
+  "version": "1.00713.101026",
+  "counter": 713,
   "major": 1,
-  "date": "9 October 2026",
+  "date": "10 October 2026",
   "notes": [
-    "Terminal tabs now show a close (X) button at all times, so you can easily close any session — including a failed one — without having to hover to find it."
+    "The terminal right-click menu (Copy / Paste / Select all / Clear) now always stays fully on screen — clicking near the bottom or right edge no longer hides any options."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00712.100926/Wingman-Setup-1.00712.100926.exe",
-  "sha256": "9c09c63af668089d25689b4681fa26568f537450f4be6b6e74cdd2518a8c3357",
-  "sizeBytes": 324412077,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00713.101026/Wingman-Setup-1.00713.101026.exe",
+  "sha256": "2bf40bfe28130adc12e636e5600bad9c55ff53a64d9bc927690a0ec77dc67a93",
+  "sizeBytes": 324416523,
   "mandatory": false
 }
