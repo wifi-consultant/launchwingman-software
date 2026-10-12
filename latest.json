@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00716.101226",
-  "counter": 716,
+  "version": "1.00717.101226",
+  "counter": 717,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "Upgrade safety: Wingman now waits for a firmware image to finish copying before checking its hash. It will no longer verify an MD5/SHA on a file that's still downloading (which always looks like a mismatch) — it confirms the copy is complete first, then compares."
+    "SSH sessions are now far more stable: Wingman sends keepalives (like PuTTY), so a long or idle session — e.g. a big image hash during a WLC upgrade — no longer gets dropped by a firewall/VPN with \"read ECONNRESET\".",
+    "Firmware hash checks are now read cleanly: Wingman filters `verify /md5` to its one verdict line instead of drowning in thousands of progress dots, so it reports the match/mismatch the first time instead of re-running."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00716.101226/Wingman-Setup-1.00716.101226.exe",
-  "sha256": "f3ee97cd2f22402a03c9745151db6bb7576588f0a6bb3d99e9dd74ac72530be0",
-  "sizeBytes": 324372600,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00717.101226/Wingman-Setup-1.00717.101226.exe",
+  "sha256": "401c584f1c17ea12f7651ea7b43e1d8cf58c8351d48695f5277c01ac2598c423",
+  "sizeBytes": 324368768,
   "mandatory": false
 }
