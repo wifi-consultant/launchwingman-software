@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00719.101226",
-  "counter": 719,
+  "version": "1.00720.101226",
+  "counter": 720,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "When a device reboots (e.g. after \"install activate\" or a reload), Wingman now actively watches it come back — showing the boot progress — then reconnects on its own and runs the post-reboot checks, instead of asking you to watch for the login banner."
+    "When Wingman pushes a file to a device over SCP, it now shows you what it's doing: the equivalent scp command, live transfer progress, and an on-device \"dir\" confirmation that the file landed — instead of a silent transfer."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00719.101226/Wingman-Setup-1.00719.101226.exe",
-  "sha256": "59a9564cd65d57582e0a43f349ebd8ab898fb912c81354a5b1a9a11c385de803",
-  "sizeBytes": 324360242,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00720.101226/Wingman-Setup-1.00720.101226.exe",
+  "sha256": "3c1d8aec69cb204620582c1b0c9186f66e0d8a7da180888cb225a03564293750",
+  "sizeBytes": 324369174,
   "mandatory": false
 }
