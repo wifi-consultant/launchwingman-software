@@ -1,15 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00721.101226",
-  "counter": 721,
+  "version": "1.00722.101226",
+  "counter": 722,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "You can now paste (Ctrl-V) a screenshot or image straight into the chat — including a Windows snip (Win+Shift+S) — and Wingman attaches it to your next message. Plain-text paste works as before."
+    "Safety hardening from an expert code audit: destructive device actions (reload, erase, install activate/commit, shut) now ALWAYS ask for confirmation — one earlier \"yes\" can no longer silently green-light a reload later in the same task.",
+    "Wingman now answers \"how is this WLC connected?\", \"why is WPA3 better?\", \"what is a gateway?\" correctly instead of describing your own PC; and it won't claim an upgrade is \"committed\" unless it actually read that from the device.",
+    "MagicPing graph now has labeled axes (latency in ms on the left, time along the bottom). Plus the boot-watcher's ping phase and a post-upgrade cleanup offer."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00721.101226/Wingman-Setup-1.00721.101226.exe",
-  "sha256": "5e88308f4c57ca2ffe2cc50ce99347f48f9d857a3d44002ab343f43ccc99a20c",
-  "sizeBytes": 324369248,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00722.101226/Wingman-Setup-1.00722.101226.exe",
+  "sha256": "ed150eadd36e494b91352f8c1886aaa9637e7ca1339802cd63894811feb8f41d",
+  "sizeBytes": 324373685,
   "mandatory": false
 }
