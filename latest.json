@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00717.101226",
-  "counter": 717,
+  "version": "1.00718.101226",
+  "counter": 718,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "SSH sessions are now far more stable: Wingman sends keepalives (like PuTTY), so a long or idle session — e.g. a big image hash during a WLC upgrade — no longer gets dropped by a firewall/VPN with \"read ECONNRESET\".",
-    "Firmware hash checks are now read cleanly: Wingman filters `verify /md5` to its one verdict line instead of drowning in thousands of progress dots, so it reports the match/mismatch the first time instead of re-running."
+    "Important upgrade-safety fix: Wingman will never again report a firmware upgrade as \"committed/done\" unless it has just read that live from the device. After \"install activate\" it now clearly tells you the box is still UNCOMMITTED with the auto-rollback timer counting down, and that \"install commit\" is required — so an upgrade can't look finished while it's hours from silently rolling back.",
+    "Clearer SSH drop messages (idle-timeout vs reset vs device-closed) and no more duplicate \"disconnected\" lines."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00717.101226/Wingman-Setup-1.00717.101226.exe",
-  "sha256": "401c584f1c17ea12f7651ea7b43e1d8cf58c8351d48695f5277c01ac2598c423",
-  "sizeBytes": 324368768,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00718.101226/Wingman-Setup-1.00718.101226.exe",
+  "sha256": "d2438572586844a2c630d7072d1f04440fab1c81405a5c8fe186ee891d7f4295",
+  "sizeBytes": 324375343,
   "mandatory": false
 }
