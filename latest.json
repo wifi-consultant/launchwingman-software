@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00715.101226",
-  "counter": 715,
+  "version": "1.00716.101226",
+  "counter": 716,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "New: Wingman can run its own FTP, SFTP, and TFTP server so a device uploads files straight to your computer (e.g. \"copy running-config tftp://<wingman-ip>/\"). Received files land in your Downloads folder.",
-    "Start each server from Settings → File servers, or just ask Wingman. They're off by default, open a firewall hole only while running, and auto-stop after 24 hours."
+    "Upgrade safety: Wingman now waits for a firmware image to finish copying before checking its hash. It will no longer verify an MD5/SHA on a file that's still downloading (which always looks like a mismatch) — it confirms the copy is complete first, then compares."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00715.101226/Wingman-Setup-1.00715.101226.exe",
-  "sha256": "ac92078e669feb7c3c0989c12ea4553985358c0823d7033a561612eb612f869a",
-  "sizeBytes": 324368124,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00716.101226/Wingman-Setup-1.00716.101226.exe",
+  "sha256": "f3ee97cd2f22402a03c9745151db6bb7576588f0a6bb3d99e9dd74ac72530be0",
+  "sizeBytes": 324372600,
   "mandatory": false
 }
