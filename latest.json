@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00720.101226",
-  "counter": 720,
+  "version": "1.00721.101226",
+  "counter": 721,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "When Wingman pushes a file to a device over SCP, it now shows you what it's doing: the equivalent scp command, live transfer progress, and an on-device \"dir\" confirmation that the file landed — instead of a silent transfer."
+    "You can now paste (Ctrl-V) a screenshot or image straight into the chat — including a Windows snip (Win+Shift+S) — and Wingman attaches it to your next message. Plain-text paste works as before."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00720.101226/Wingman-Setup-1.00720.101226.exe",
-  "sha256": "3c1d8aec69cb204620582c1b0c9186f66e0d8a7da180888cb225a03564293750",
-  "sizeBytes": 324369174,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00721.101226/Wingman-Setup-1.00721.101226.exe",
+  "sha256": "5e88308f4c57ca2ffe2cc50ce99347f48f9d857a3d44002ab343f43ccc99a20c",
+  "sizeBytes": 324369248,
   "mandatory": false
 }
