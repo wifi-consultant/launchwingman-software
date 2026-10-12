@@ -1,17 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00725.101226",
-  "counter": 725,
+  "version": "1.00726.101226",
+  "counter": 726,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "Important upgrade-safety fix: Wingman will no longer send a command (like \"show install summary\") into a device session while another command — such as an install add — is still running. A terminal session is a single channel, and interleaving commands into a live install can corrupt it. Commands on a session are now strictly one-at-a-time.",
-    "Install steps now wait for the device's real completion signal (its SUCCESS/FAILED line) instead of a brief prompt that can flash mid-operation, so Wingman knows an install is truly done before it reads status or moves on.",
-    "If you ask Wingman something while a device is mid-install, it now tells you the device is still running that step and waits, rather than poking the busy session."
+    "Settings tidy-up: the Credits (balance / spend tracking) section now sits directly under your AI API key, so the two AI-engine settings read together."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00725.101226/Wingman-Setup-1.00725.101226.exe",
-  "sha256": "3b009ca1db770b5ebffc0f2bcc169f2e4148db0f391b1a8bdd835f2d31b1b422",
-  "sizeBytes": 324375178,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00726.101226/Wingman-Setup-1.00726.101226.exe",
+  "sha256": "5e4c41b4682c899a85550fe34e8e661fd7c3118ae434da9ab832285c4a4337b0",
+  "sizeBytes": 324374394,
   "mandatory": false
 }
