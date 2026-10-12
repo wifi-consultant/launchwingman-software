@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00731.101226",
-  "counter": 731,
+  "version": "1.00732.101226",
+  "counter": 732,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "Network Interfaces: the horizontal scrollbar now sits directly under the table so you can actually reach the right-hand columns (DHCP server, lease times). Before, it was scrollable but the scrollbar was parked at the far bottom of the pane where you couldn't see it."
+    "Wingman now reads your conversational cues much better. When you say you're done (\"ok thanks\", \"that's all\", \"we're good\") it gives a short acknowledgement and stops, instead of producing another full write-up and asking yet another question — and this now holds even in Auto Mode.",
+    "Short replies are understood as what they are: \"stop\"/\"wait\" halts immediately, \"no\" is a decline or correction (not a new task), \"yes\"/\"do it\" runs the thing just proposed. Answers are also sized to the question, so a quick \"thanks\" gets a quick reply."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00731.101226/Wingman-Setup-1.00731.101226.exe",
-  "sha256": "f929c581655d91b4844165626a14ebf39310e6c73257f8e891c58bebaad3ce14",
-  "sizeBytes": 324378890,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00732.101226/Wingman-Setup-1.00732.101226.exe",
+  "sha256": "ea54ef61f917edbdd4d4870f383fbdd698b66d7aceb4b50988cb7ac2136d503d",
+  "sizeBytes": 324386389,
   "mandatory": false
 }
