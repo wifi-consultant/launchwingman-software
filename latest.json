@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00726.101226",
-  "counter": 726,
+  "version": "1.00727.101226",
+  "counter": 727,
   "major": 1,
   "date": "12 October 2026",
   "notes": [
-    "Settings tidy-up: the Credits (balance / spend tracking) section now sits directly under your AI API key, so the two AI-engine settings read together."
+    "Wingman now gives authoritative 6 GHz regulatory answers per country: the legal channel list, Preferred Scanning Channels, how many channels you get at each width (20/40/80/160/320 MHz), the power modes (LPI / VLP / Standard-Power), and whether AFC is available — all from a built-in per-country database rather than guessed.",
+    "Ask \"what 6 GHz channels and power can I use in Germany / Japan / the US?\" (or any band, any country) and Wingman reads it from the database with a confidence level and a reminder to confirm with the local regulator — it no longer answers these from memory, since 6 GHz rules differ sharply by country."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00726.101226/Wingman-Setup-1.00726.101226.exe",
-  "sha256": "5e4c41b4682c899a85550fe34e8e661fd7c3118ae434da9ab832285c4a4337b0",
-  "sizeBytes": 324374394,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00727.101226/Wingman-Setup-1.00727.101226.exe",
+  "sha256": "ebf3a8862b32745c4fb687a75ac464a43c11f3e2e00e130cc276ebbde6b9397a",
+  "sizeBytes": 324373725,
   "mandatory": false
 }
