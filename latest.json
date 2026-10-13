@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00738.101326",
-  "counter": 738,
+  "version": "1.00739.101326",
+  "counter": 739,
   "major": 1,
   "date": "13 October 2026",
   "notes": [
-    "You can now paste a Snipping Tool screenshot straight into the chat box. That tool puts a raw bitmap on the clipboard with no file attached, which the previous paste couldn't see; Wingman now reads the image from the native clipboard and attaches it."
+    "Ctrl+V now actually pastes a screenshot into the chat. The app's clipboard shortcut was only handling pasted text and quietly dropping images; it now attaches an image from the clipboard (Snipping Tool, Win+Shift+S, or any copied picture)."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00738.101326/Wingman-Setup-1.00738.101326.exe",
-  "sha256": "eb12009f88e861cb8eb16d1d73084364249ed804d47e182b97f1ce9a62e50fad",
-  "sizeBytes": 324389217,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00739.101326/Wingman-Setup-1.00739.101326.exe",
+  "sha256": "3d12facf996c222bb008c5075e29d02fcaa5ee4b1ae4fe4a84ef8174ab7a37e9",
+  "sizeBytes": 324380736,
   "mandatory": false
 }
