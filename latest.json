@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00732.101226",
-  "counter": 732,
+  "version": "1.00733.101326",
+  "counter": 733,
   "major": 1,
-  "date": "12 October 2026",
+  "date": "13 October 2026",
   "notes": [
-    "Wingman now reads your conversational cues much better. When you say you're done (\"ok thanks\", \"that's all\", \"we're good\") it gives a short acknowledgement and stops, instead of producing another full write-up and asking yet another question — and this now holds even in Auto Mode.",
-    "Short replies are understood as what they are: \"stop\"/\"wait\" halts immediately, \"no\" is a decline or correction (not a new task), \"yes\"/\"do it\" runs the thing just proposed. Answers are also sized to the question, so a quick \"thanks\" gets a quick reply."
+    "Credentials now work more like a password manager: each entry in the Credentials list has an eye to reveal its password inline and one-click Copy for the username and the password — no more opening the edit box just to grab a login. The same copy buttons are on the sidebar credential rows too.",
+    "Secrets stay local and encrypted: the password is only decrypted the moment you click reveal/copy, and it's never sent to the AI or logged."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00732.101226/Wingman-Setup-1.00732.101226.exe",
-  "sha256": "ea54ef61f917edbdd4d4870f383fbdd698b66d7aceb4b50988cb7ac2136d503d",
-  "sizeBytes": 324386389,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00733.101326/Wingman-Setup-1.00733.101326.exe",
+  "sha256": "92d05b23e90b818cbc2f2de5b0b7db66d5fef6ce6cd0daea89c9c3103e0caec3",
+  "sizeBytes": 324382682,
   "mandatory": false
 }
