@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00734.101326",
-  "counter": 734,
+  "version": "1.00735.101326",
+  "counter": 735,
   "major": 1,
   "date": "13 October 2026",
   "notes": [
-    "Credentials now have a Description field — jot down what each login is for (a system, a portal URL, a scope, a note). It shows as a column in the Credentials list and is searchable, so you can tell your logins apart at a glance. Stored locally and encrypted like the rest of the entry."
+    "Adding a device no longer makes you re-type a login you already saved. The Add Device screen now lets you \"Use existing\" — pick a saved credential from a dropdown (name · username · description) — or \"Create new\" as before.",
+    "Reuse means one shared login is stored once: change that password in one place and every device using it is updated. The password is never shown in the dialog; it stays encrypted and is only used at connect time."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00734.101326/Wingman-Setup-1.00734.101326.exe",
-  "sha256": "cbef2d211f8eba0207580b130690837bdb761e84efe14e27253af14f3731cd9f",
-  "sizeBytes": 324385983,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00735.101326/Wingman-Setup-1.00735.101326.exe",
+  "sha256": "0cd49e6c534e0ada7d8acbb8a5724c5720d2d7a5fcce29f12131e06066e8b07d",
+  "sizeBytes": 324381004,
   "mandatory": false
 }
