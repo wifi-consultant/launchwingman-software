@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00736.101326",
-  "counter": 736,
+  "version": "1.00737.101326",
+  "counter": 737,
   "major": 1,
   "date": "13 October 2026",
   "notes": [
-    "Wingman is now aware of your saved logins and can act on them. Say \"log into this switch with core-admin\" (or any saved credential) and it links that login to the device and connects for you.",
-    "Your passwords stay private: Wingman knows the credential name, username and description, but never sees the password itself — it's decrypted locally only at connect time and never goes to the AI. It can offer a saved login by name, never a secret."
+    "Fixed Wingman's at-a-glance snapshot wrongly reporting \"no default gateway\" (especially on a VPN). It was giving the routing check only 3 seconds and caching the empty result for a minute; now it waits long enough, never caches a slow/failed read, and says \"unknown\" instead of \"none\" when it couldn't confirm."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00736.101326/Wingman-Setup-1.00736.101326.exe",
-  "sha256": "0edc9ef43cf055a2291519fdcf5f72affbd573c6617e714ab2b41ac481b0fbb4",
-  "sizeBytes": 324382518,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00737.101326/Wingman-Setup-1.00737.101326.exe",
+  "sha256": "9ff417f7dbf40f2dfa0473a99d8354715ceef9344cf3f82e2d68d750cd4444c2",
+  "sizeBytes": 324390731,
   "mandatory": false
 }
