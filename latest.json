@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00733.101326",
-  "counter": 733,
+  "version": "1.00734.101326",
+  "counter": 734,
   "major": 1,
   "date": "13 October 2026",
   "notes": [
-    "Credentials now work more like a password manager: each entry in the Credentials list has an eye to reveal its password inline and one-click Copy for the username and the password — no more opening the edit box just to grab a login. The same copy buttons are on the sidebar credential rows too.",
-    "Secrets stay local and encrypted: the password is only decrypted the moment you click reveal/copy, and it's never sent to the AI or logged."
+    "Credentials now have a Description field — jot down what each login is for (a system, a portal URL, a scope, a note). It shows as a column in the Credentials list and is searchable, so you can tell your logins apart at a glance. Stored locally and encrypted like the rest of the entry."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00733.101326/Wingman-Setup-1.00733.101326.exe",
-  "sha256": "92d05b23e90b818cbc2f2de5b0b7db66d5fef6ce6cd0daea89c9c3103e0caec3",
-  "sizeBytes": 324382682,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00734.101326/Wingman-Setup-1.00734.101326.exe",
+  "sha256": "cbef2d211f8eba0207580b130690837bdb761e84efe14e27253af14f3731cd9f",
+  "sizeBytes": 324385983,
   "mandatory": false
 }
