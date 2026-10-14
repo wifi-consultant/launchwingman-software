@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00749.101426",
-  "counter": 749,
+  "version": "1.00750.101426",
+  "counter": 750,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "Credential auto-fill popup now carries the Wingman logo, drops the confusing \"Fill into\" line, and reliably re-offers every time you reopen a VPN login (it no longer offers just once)."
+    "Credential auto-fill now works in any app or browser, not just VPN clients: when you reach a real password field, Wingman offers to fill it. Precise by design — it keys off an actual password box, so it won't pop up on unrelated windows."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00749.101426/Wingman-Setup-1.00749.101426.exe",
-  "sha256": "d1cb010c9fcb9c5916a41aef2e4e4e42d3dd188b5bb59e21fe264d6693047cc2",
-  "sizeBytes": 324382106,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00750.101426/Wingman-Setup-1.00750.101426.exe",
+  "sha256": "51fb91787a93bff17f05e0227398b046ce975c00cde6579d9760d1640f28faf0",
+  "sizeBytes": 324382068,
   "mandatory": false
 }
