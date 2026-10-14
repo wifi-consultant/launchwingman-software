@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00750.101426",
-  "counter": 750,
+  "version": "1.00751.101426",
+  "counter": 751,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "Credential auto-fill now works in any app or browser, not just VPN clients: when you reach a real password field, Wingman offers to fill it. Precise by design — it keys off an actual password box, so it won't pop up on unrelated windows."
+    "Cleaner MagicBoard: removed the top toolbar strip (layout / Broadcast / Capture / session count) for a simpler terminal view."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00750.101426/Wingman-Setup-1.00750.101426.exe",
-  "sha256": "51fb91787a93bff17f05e0227398b046ce975c00cde6579d9760d1640f28faf0",
-  "sizeBytes": 324382068,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00751.101426/Wingman-Setup-1.00751.101426.exe",
+  "sha256": "cdab3584678cbe61fff16e91d5b3fcbabbbb2c8ff5325cd7a73cbe3a4a31ab28",
+  "sizeBytes": 324378043,
   "mandatory": false
 }
