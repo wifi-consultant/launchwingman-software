@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00739.101326",
-  "counter": 739,
+  "version": "1.00742.101426",
+  "counter": 742,
   "major": 1,
-  "date": "13 October 2026",
+  "date": "14 October 2026",
   "notes": [
-    "Ctrl+V now actually pastes a screenshot into the chat. The app's clipboard shortcut was only handling pasted text and quietly dropping images; it now attaches an image from the clipboard (Snipping Tool, Win+Shift+S, or any copied picture)."
+    "Share files: once you create a link, the file list now clears automatically. Before, your already-shared files stayed in the list, so adding another file lumped it together with the ones you'd already sent. Each new share now starts clean (your link stays on screen to copy)."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00739.101326/Wingman-Setup-1.00739.101326.exe",
-  "sha256": "3d12facf996c222bb008c5075e29d02fcaa5ee4b1ae4fe4a84ef8174ab7a37e9",
-  "sizeBytes": 324380736,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00742.101426/Wingman-Setup-1.00742.101426.exe",
+  "sha256": "78462b3d27f92d635fafc2bab2e0dba7be21d54b16b2de7074760bfbe599e06b",
+  "sizeBytes": 324383324,
   "mandatory": false
 }
