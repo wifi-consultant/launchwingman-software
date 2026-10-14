@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00748.101426",
-  "counter": 748,
+  "version": "1.00749.101426",
+  "counter": 749,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "The main terminal screen is now the MagicBoard — new magician-Wingman icon in the sidebar and on the screen, reflecting how much Wingman now does there."
+    "Credential auto-fill popup now carries the Wingman logo, drops the confusing \"Fill into\" line, and reliably re-offers every time you reopen a VPN login (it no longer offers just once)."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00748.101426/Wingman-Setup-1.00748.101426.exe",
-  "sha256": "4ae613196cfdeff0c8248c35b4e60b7e84201e4c4f74e4666f7d7100576dfc98",
-  "sizeBytes": 324377538,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00749.101426/Wingman-Setup-1.00749.101426.exe",
+  "sha256": "d1cb010c9fcb9c5916a41aef2e4e4e42d3dd188b5bb59e21fe264d6693047cc2",
+  "sizeBytes": 324382106,
   "mandatory": false
 }
