@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00742.101426",
-  "counter": 742,
+  "version": "1.00743.101426",
+  "counter": 743,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "Share files: once you create a link, the file list now clears automatically. Before, your already-shared files stayed in the list, so adding another file lumped it together with the ones you'd already sent. Each new share now starts clean (your link stays on screen to copy)."
+    "You can now get files and images into the chat three ways: paste a copied file from Explorer (Ctrl+V), paste a screenshot/image (Ctrl+V), or drag a file onto the window. Before, only the paperclip button worked and pasted images were silently dropped.",
+    "Drag-and-drop now works anywhere in the window (not just exactly on the chat box), and a stray drop no longer breaks the app by navigating away. Note: if you run Wingman as Administrator, Windows blocks drag-and-drop from Explorer — use paste or the paperclip there."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00742.101426/Wingman-Setup-1.00742.101426.exe",
-  "sha256": "78462b3d27f92d635fafc2bab2e0dba7be21d54b16b2de7074760bfbe599e06b",
-  "sizeBytes": 324383324,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00743.101426/Wingman-Setup-1.00743.101426.exe",
+  "sha256": "a41c7f1a58eed017b57463fae0bbc7784fb45771b7dafd9cdda93f7dcd9c3b4a",
+  "sizeBytes": 324381752,
   "mandatory": false
 }
