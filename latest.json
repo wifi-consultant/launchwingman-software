@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00746.101426",
-  "counter": 746,
+  "version": "1.00747.101426",
+  "counter": 747,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "New: call a stored credential into another app's login with a hotkey. Focus a login field (e.g. your VPN password box), press Ctrl+Alt+\\ , pick a credential, and Wingman types it in for you — or copies it (auto-clearing) if the dialog won't accept typing."
+    "Credential fill now offers itself automatically: when a VPN login window (GlobalProtect / Cisco AnyConnect) appears, Wingman pops the credential picker for it — no hotkey. You stay in control: a \"Stop auto-offering\" link turns it off anytime."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00746.101426/Wingman-Setup-1.00746.101426.exe",
-  "sha256": "b549b247d1bd853d22fffea430289c47c4525a28e98e6e8b8e71e29171ababa9",
-  "sizeBytes": 324383420,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00747.101426/Wingman-Setup-1.00747.101426.exe",
+  "sha256": "d3c5734e7e9005dee3f5cb37950474236c01f4448a320b89c16ffe2e1723ecce",
+  "sizeBytes": 324384409,
   "mandatory": false
 }
