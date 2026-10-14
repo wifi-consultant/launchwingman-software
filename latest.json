@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00745.101426",
-  "counter": 745,
+  "version": "1.00746.101426",
+  "counter": 746,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "Device status dots are now honest: a device shows green only when its actual management service (e.g. SSH) is genuinely reachable — no more green on a device whose SSH is down just because something answered a ping or another port."
+    "New: call a stored credential into another app's login with a hotkey. Focus a login field (e.g. your VPN password box), press Ctrl+Alt+\\ , pick a credential, and Wingman types it in for you — or copies it (auto-clearing) if the dialog won't accept typing."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00745.101426/Wingman-Setup-1.00745.101426.exe",
-  "sha256": "fa47e90e0fd5146e5c7c39fb9e632adcd28bb67079ee8910a143437f67c71cef",
-  "sizeBytes": 324381689,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00746.101426/Wingman-Setup-1.00746.101426.exe",
+  "sha256": "b549b247d1bd853d22fffea430289c47c4525a28e98e6e8b8e71e29171ababa9",
+  "sizeBytes": 324383420,
   "mandatory": false
 }
