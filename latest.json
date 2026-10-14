@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00743.101426",
-  "counter": 743,
+  "version": "1.00744.101426",
+  "counter": 744,
   "major": 1,
   "date": "14 October 2026",
   "notes": [
-    "You can now get files and images into the chat three ways: paste a copied file from Explorer (Ctrl+V), paste a screenshot/image (Ctrl+V), or drag a file onto the window. Before, only the paperclip button worked and pasted images were silently dropped.",
-    "Drag-and-drop now works anywhere in the window (not just exactly on the chat box), and a stray drop no longer breaks the app by navigating away. Note: if you run Wingman as Administrator, Windows blocks drag-and-drop from Explorer — use paste or the paperclip there."
+    "More resilient to brief cloud hiccups — Wingman now quietly retries momentary network/service blips instead of surfacing an error, and when one does slip through the message is calm and accurate."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00743.101426/Wingman-Setup-1.00743.101426.exe",
-  "sha256": "a41c7f1a58eed017b57463fae0bbc7784fb45771b7dafd9cdda93f7dcd9c3b4a",
-  "sizeBytes": 324381752,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00744.101426/Wingman-Setup-1.00744.101426.exe",
+  "sha256": "f9628e9704eafcd5f9da4dc1092d91b8d31b5dba1e785e20c492c71e990be4e8",
+  "sizeBytes": 324380455,
   "mandatory": false
 }
