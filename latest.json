@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00762.101526",
-  "counter": 762,
+  "version": "1.00763.101526",
+  "counter": 763,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "-"
+    "Credential fill on browser logins is now safe by design: it focuses and verifies the real fields before typing, and will never type onto the page (so it can't navigate/close the browser) — if it can't place the credential it tells you to use Copy instead."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00762.101526/Wingman-Setup-1.00762.101526.exe",
-  "sha256": "05b374c6798958cd5813842fb14b990e1d3b1cf874e8e517618b072fc03f6f39",
-  "sizeBytes": 324384209,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00763.101526/Wingman-Setup-1.00763.101526.exe",
+  "sha256": "752b83533f6f1b3dba856640d02b7ad2eaa8b272174319e28bd7e1c6f60a64b0",
+  "sizeBytes": 324382834,
   "mandatory": false
 }
