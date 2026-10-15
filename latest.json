@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00760.101526",
-  "counter": 760,
+  "version": "1.00761.101526",
+  "counter": 761,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Credential auto-fill now works on browser logins: it focuses the actual username/password fields (via accessibility) instead of typing blindly, and never auto-submits a browser — so it no longer types onto the page or navigates it away."
+    "Credential auto-offer is lighter on the browser (less background scanning) and more resilient; internal cleanup removed a dead code path."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00760.101526/Wingman-Setup-1.00760.101526.exe",
-  "sha256": "ef57561ba049f421ece78a8387c0a7c44b14b460189668275271d26d9ceaa0f8",
-  "sizeBytes": 324384610,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00761.101526/Wingman-Setup-1.00761.101526.exe",
+  "sha256": "b391c1dac29749ff0bc038283d8e9758b2371ac8d857c54084dc1ff144018bb5",
+  "sizeBytes": 324382703,
   "mandatory": false
 }
