@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00754.101526",
-  "counter": 754,
+  "version": "1.00756.101526",
+  "counter": 756,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Friendlier offline message on the update check, in Wingman's own voice."
+    "Credential offers now pop up on their own even when Wingman is minimized or in the background — the picker is now a small floating window that appears right over the login, so you no longer have to open Wingman for it to work.",
+    "MagicBoard: once a session is open, a \"+\" appears in the tab bar to quickly start another session or connect to a device."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00754.101526/Wingman-Setup-1.00754.101526.exe",
-  "sha256": "2afbee4dd7811c75f31ad10c6b5183d0cfb2b41268777ee053d5c7c7f9b8cf47",
-  "sizeBytes": 324379624,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00756.101526/Wingman-Setup-1.00756.101526.exe",
+  "sha256": "8dd8bbc23fd1f6562566536a9683b3bd79dfc5d1f3086f232c91cbc6808003d8",
+  "sizeBytes": 324378656,
   "mandatory": false
 }
