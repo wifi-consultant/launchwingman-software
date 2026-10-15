@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00751.101426",
-  "counter": 751,
+  "version": "1.00752.101526",
+  "counter": 752,
   "major": 1,
-  "date": "14 October 2026",
+  "date": "15 October 2026",
   "notes": [
-    "Cleaner MagicBoard: removed the top toolbar strip (layout / Broadcast / Capture / session count) for a simpler terminal view."
+    "Credential auto-fill now offers on full login forms (clicking the Username field counts, not just Password) and takes an experimental run at browser logins by waking the page's accessibility so it can see the password box."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00751.101426/Wingman-Setup-1.00751.101426.exe",
-  "sha256": "cdab3584678cbe61fff16e91d5b3fcbabbbb2c8ff5325cd7a73cbe3a4a31ab28",
-  "sizeBytes": 324378043,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00752.101526/Wingman-Setup-1.00752.101526.exe",
+  "sha256": "550709d1e47ad8d030b17eddb7967fb78a7bbb68f439c6a2073e564884f5ae5a",
+  "sizeBytes": 324378254,
   "mandatory": false
 }
