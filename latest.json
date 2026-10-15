@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00753.101526",
-  "counter": 753,
+  "version": "1.00754.101526",
+  "counter": 754,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Update checks no longer flash a scary error over a momentary network/DNS blip — Wingman quietly retries, and if you're genuinely offline it says so calmly instead of showing a raw error code."
+    "Friendlier offline message on the update check, in Wingman's own voice."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00753.101526/Wingman-Setup-1.00753.101526.exe",
-  "sha256": "8cbc1e530640e34c9cba8193dfc87d3cb6e7577e507dd43410d1e4945dd89a56",
-  "sizeBytes": 324374248,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00754.101526/Wingman-Setup-1.00754.101526.exe",
+  "sha256": "2afbee4dd7811c75f31ad10c6b5183d0cfb2b41268777ee053d5c7c7f9b8cf47",
+  "sizeBytes": 324379624,
   "mandatory": false
 }
