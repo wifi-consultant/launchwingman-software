@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00761.101526",
-  "counter": 761,
+  "version": "1.00762.101526",
+  "counter": 762,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Credential auto-offer is lighter on the browser (less background scanning) and more resilient; internal cleanup removed a dead code path."
+    "-"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00761.101526/Wingman-Setup-1.00761.101526.exe",
-  "sha256": "b391c1dac29749ff0bc038283d8e9758b2371ac8d857c54084dc1ff144018bb5",
-  "sizeBytes": 324382703,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00762.101526/Wingman-Setup-1.00762.101526.exe",
+  "sha256": "05b374c6798958cd5813842fb14b990e1d3b1cf874e8e517618b072fc03f6f39",
+  "sizeBytes": 324384209,
   "mandatory": false
 }
