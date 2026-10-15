@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00765.101526",
-  "counter": 765,
+  "version": "1.00768.101526",
+  "counter": 768,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Fixed the browser login fill so it cleanly copies the password for you (it was showing an internal error instead)."
+    "Update check now rides out a momentary \"low memory\" hiccup (it retries), and if your machine is genuinely low on memory it says so plainly and suggests closing a few apps — no more raw technical error."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00765.101526/Wingman-Setup-1.00765.101526.exe",
-  "sha256": "3b328c082f80d2e4255c54a4406def6e0bf820e85de6c1120631a3b4bfd66552",
-  "sizeBytes": 324387455,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00768.101526/Wingman-Setup-1.00768.101526.exe",
+  "sha256": "f6c8194bc999b797b53577cb4726c3cc20f21d2531be804029cc806b5df237fc",
+  "sizeBytes": 324389993,
   "mandatory": false
 }
