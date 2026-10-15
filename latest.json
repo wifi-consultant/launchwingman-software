@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00752.101526",
-  "counter": 752,
+  "version": "1.00753.101526",
+  "counter": 753,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Credential auto-fill now offers on full login forms (clicking the Username field counts, not just Password) and takes an experimental run at browser logins by waking the page's accessibility so it can see the password box."
+    "Update checks no longer flash a scary error over a momentary network/DNS blip — Wingman quietly retries, and if you're genuinely offline it says so calmly instead of showing a raw error code."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00752.101526/Wingman-Setup-1.00752.101526.exe",
-  "sha256": "550709d1e47ad8d030b17eddb7967fb78a7bbb68f439c6a2073e564884f5ae5a",
-  "sizeBytes": 324378254,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00753.101526/Wingman-Setup-1.00753.101526.exe",
+  "sha256": "8cbc1e530640e34c9cba8193dfc87d3cb6e7577e507dd43410d1e4945dd89a56",
+  "sizeBytes": 324374248,
   "mandatory": false
 }
