@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00757.101526",
-  "counter": 757,
+  "version": "1.00758.101526",
+  "counter": 758,
   "major": 1,
   "date": "15 October 2026",
   "notes": [
-    "Wingman is now aware of an open Catalyst Center or ISE session, not just your vault devices — and knows a WLC can't report an AP's PoE draw, so it routes power questions to Catalyst Center or the AP's upstream switch (and asks when unsure)."
+    "Opening a device terminal now shows it even when the Catalyst Center live console is up — no need to close the console first.",
+    "Credential-fill errors are now readable instead of showing raw PowerShell markup, and the picker reminds you to click into the login field first so typing lands."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00757.101526/Wingman-Setup-1.00757.101526.exe",
-  "sha256": "9a608c79c6805149448a3ee6e48cca5022b52850d34785f83f0205c91c7619a9",
-  "sizeBytes": 324380936,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00758.101526/Wingman-Setup-1.00758.101526.exe",
+  "sha256": "8f3850a1a3cacf34a2144e11f96296e36232ece4b25c329ec39d6247209488f6",
+  "sizeBytes": 324384231,
   "mandatory": false
 }
