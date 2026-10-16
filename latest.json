@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00783.101626",
-  "counter": 783,
+  "version": "1.00784.101626",
+  "counter": 784,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Fixed a double right-click menu in the chat: selecting text and choosing Copy no longer pops a second menu. Only one Copy / Highlight menu shows now."
+    "MagicBoard login now completes: after filling your username and password it waits for the page to validate, then clicks the Next / Sign in button, instead of clicking it before it was ready. So auto-login actually finishes and takes you in."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00783.101626/Wingman-Setup-1.00783.101626.exe",
-  "sha256": "14dfe4fa2cab288204c4ff6a6aaf1a2303fb70c41cea0ff745b01752fcddccde",
-  "sizeBytes": 324384548,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00784.101626/Wingman-Setup-1.00784.101626.exe",
+  "sha256": "f945a1b4a2d69430ebacc2a6f1145d7f31bf9411508cd8aecb717f7303d8eb3d",
+  "sizeBytes": 324389482,
   "mandatory": false
 }
