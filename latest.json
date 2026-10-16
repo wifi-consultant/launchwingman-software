@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00782.101626",
-  "counter": 782,
+  "version": "1.00783.101626",
+  "counter": 783,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "MagicBoard now finds and fills login forms that hide their fields inside custom components (like Catalyst Center), so auto-login actually works, and it no longer falsely claims you're logged in when the login page is still showing.",
-    "Handles two-step logins (username, then password), and if it genuinely can't find the password box it tells you what it sees and that you should log in manually, instead of pretending it worked."
+    "Fixed a double right-click menu in the chat: selecting text and choosing Copy no longer pops a second menu. Only one Copy / Highlight menu shows now."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00782.101626/Wingman-Setup-1.00782.101626.exe",
-  "sha256": "5373d528f5548e48b5eb38e0661331db8c7e021afd51d99bee05bef687e16b46",
-  "sizeBytes": 324399547,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00783.101626/Wingman-Setup-1.00783.101626.exe",
+  "sha256": "14dfe4fa2cab288204c4ff6a6aaf1a2303fb70c41cea0ff745b01752fcddccde",
+  "sizeBytes": 324384548,
   "mandatory": false
 }
