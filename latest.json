@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00777.101626",
-  "counter": 777,
+  "version": "1.00779.101626",
+  "counter": 779,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Fixed a crash: when the MagicBoard opened a device login page, the credential pop-up could appear over Wingman's own window and close the app. Wingman now leaves its own windows alone — the MagicBoard logs you in by itself.",
-    "MagicBoard auto-login now waits for the login form to finish rendering (Catalyst Center and other single-page apps draw it a moment after the page loads), so it reliably fills and submits your saved credential."
+    "MagicBoard is now honest about what's on screen: Wingman waits for the real login result and tells you the truth (logged in, still on the login page, or needs MFA) instead of assuming — and it recognizes a 404 / wrong page / access-denied and says so.",
+    "It opens the device's main GUI reliably instead of guessing a deep-link that could 404. Login filling is more robust for Catalyst Center's form."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00777.101626/Wingman-Setup-1.00777.101626.exe",
-  "sha256": "84e16c401df6c7ae26c4b24a2c6401aeefa791823d3bfd961bf8ab66daf52312",
-  "sizeBytes": 324394352,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00779.101626/Wingman-Setup-1.00779.101626.exe",
+  "sha256": "08c61c071dc435735e4cd7391596535bf41c966aea350fc1d8b8af34b7691fc9",
+  "sizeBytes": 324397330,
   "mandatory": false
 }
