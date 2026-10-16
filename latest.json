@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00773.101626",
-  "counter": 773,
+  "version": "1.00774.101626",
+  "counter": 774,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Filling credentials into a browser login no longer disturbs the page — Wingman copies the password for you to paste (Ctrl+V) instead of reaching into the browser. Native app and VPN login dialogs still fill automatically."
+    "Wingman now recognizes itself in device output: when an IP or MAC in a WLC/switch log, ARP table, neighbor list, DHCP lease, or SSH login source belongs to one of this machine's own interfaces, it says so (\"that source is this machine — it's you\") instead of treating you as an unknown third party."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00773.101626/Wingman-Setup-1.00773.101626.exe",
-  "sha256": "c13b476eb552dfbe9b58ea0518bb4a6532c2eb7b825ef69a6a8e12d24fed6e4c",
-  "sizeBytes": 324399027,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00774.101626/Wingman-Setup-1.00774.101626.exe",
+  "sha256": "f1105d4e07b387026d60c2d652baba637870689321d2f8b109ff075014e979e8",
+  "sizeBytes": 324397130,
   "mandatory": false
 }
