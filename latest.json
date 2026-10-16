@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00776.101626",
-  "counter": 776,
+  "version": "1.00777.101626",
+  "counter": 777,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "New: the MagicBoard can open a device's web GUI and log you in. Ask Wingman \"open <device> and show me its dashboard\" (e.g. Catalyst Center) — it opens the page in an embedded browser, trusts the device's self-signed cert, signs in with your saved credential, and shows a live step log. Read-only and crash-free (it drives its own view, not your external browser). First slice of a bigger \"drive the page for you\" capability."
+    "Fixed a crash: when the MagicBoard opened a device login page, the credential pop-up could appear over Wingman's own window and close the app. Wingman now leaves its own windows alone — the MagicBoard logs you in by itself.",
+    "MagicBoard auto-login now waits for the login form to finish rendering (Catalyst Center and other single-page apps draw it a moment after the page loads), so it reliably fills and submits your saved credential."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00776.101626/Wingman-Setup-1.00776.101626.exe",
-  "sha256": "0b3b3f8f40d5d3b4c08ed1fe8dd98e055323fa4d56276b656f0bcce7dce162f7",
-  "sizeBytes": 324397520,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00777.101626/Wingman-Setup-1.00777.101626.exe",
+  "sha256": "84e16c401df6c7ae26c4b24a2c6401aeefa791823d3bfd961bf8ab66daf52312",
+  "sizeBytes": 324394352,
   "mandatory": false
 }
