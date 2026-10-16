@@ -1,15 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00786.101626",
-  "counter": 786,
+  "version": "1.00788.101626",
+  "counter": 788,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Fixed the \"unsupported browser\" warning on device web UIs (like the Cisco 9800 controller) when opened in the MagicBoard. Wingman now presents a standard Chrome browser identity, so those pages load without the warning."
+    "Wingman can now navigate a device web page by clicking its real menu (for example \"Assurance\" then \"Health\"), instead of guessing a URL that returns a 404 — and it stays in the browser instead of jumping to a terminal view. Ask it to take you to a page and it clicks its way there, then tells you where it actually landed.",
+    "Wingman is now held to a \"verify before you confirm\" rule: it won't say you're logged in or on a page unless it has actually checked, and it calls out a 404 / error honestly instead of pretending it worked."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00786.101626/Wingman-Setup-1.00786.101626.exe",
-  "sha256": "e6d801c6966047cb68344378fd298a3320dda033053c3d4de9d34abaa1cc5303",
-  "sizeBytes": 324393862,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00788.101626/Wingman-Setup-1.00788.101626.exe",
+  "sha256": "d27f6d2e304f41a97f9ec39e50aec48ab5c75e1155b6c60fc37ea00f719a028a",
+  "sizeBytes": 324395129,
   "mandatory": false
 }
