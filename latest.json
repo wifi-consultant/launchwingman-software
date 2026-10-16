@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00774.101626",
-  "counter": 774,
+  "version": "1.00775.101626",
+  "counter": 775,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Wingman now recognizes itself in device output: when an IP or MAC in a WLC/switch log, ARP table, neighbor list, DHCP lease, or SSH login source belongs to one of this machine's own interfaces, it says so (\"that source is this machine — it's you\") instead of treating you as an unknown third party."
+    "Browser logins now actually fill. Click your login field first, then choose Fill — Wingman types the credential with keystrokes only, so it no longer disturbs or closes the tab. Click the username field → \"Fill user + password\"; click the password field → \"Password only\". No Enter is sent (submit it yourself). Copy & paste stays as a fallback."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00774.101626/Wingman-Setup-1.00774.101626.exe",
-  "sha256": "f1105d4e07b387026d60c2d652baba637870689321d2f8b109ff075014e979e8",
-  "sizeBytes": 324397130,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00775.101626/Wingman-Setup-1.00775.101626.exe",
+  "sha256": "0cafd6e9ea438f1c84ae02897259fe4b852b62f4fbf3f334818e49124755135e",
+  "sizeBytes": 324394114,
   "mandatory": false
 }
