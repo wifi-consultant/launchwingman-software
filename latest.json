@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00784.101626",
-  "counter": 784,
+  "version": "1.00785.101626",
+  "counter": 785,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "MagicBoard login now completes: after filling your username and password it waits for the page to validate, then clicks the Next / Sign in button, instead of clicking it before it was ready. So auto-login actually finishes and takes you in."
+    "The MagicBoard can now open any web page, not just your saved devices. Ask Wingman to open a website or URL (for example a vendor's support site) and it opens there; if it's one of your saved devices it still auto-logs you in."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00784.101626/Wingman-Setup-1.00784.101626.exe",
-  "sha256": "f945a1b4a2d69430ebacc2a6f1145d7f31bf9411508cd8aecb717f7303d8eb3d",
-  "sizeBytes": 324389482,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00785.101626/Wingman-Setup-1.00785.101626.exe",
+  "sha256": "70a461d61748def1f753f88667f6824a285dd0ba806678eca7652cce13bccc2d",
+  "sizeBytes": 324394742,
   "mandatory": false
 }
