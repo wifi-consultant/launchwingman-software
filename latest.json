@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00775.101626",
-  "counter": 775,
+  "version": "1.00776.101626",
+  "counter": 776,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "Browser logins now actually fill. Click your login field first, then choose Fill — Wingman types the credential with keystrokes only, so it no longer disturbs or closes the tab. Click the username field → \"Fill user + password\"; click the password field → \"Password only\". No Enter is sent (submit it yourself). Copy & paste stays as a fallback."
+    "New: the MagicBoard can open a device's web GUI and log you in. Ask Wingman \"open <device> and show me its dashboard\" (e.g. Catalyst Center) — it opens the page in an embedded browser, trusts the device's self-signed cert, signs in with your saved credential, and shows a live step log. Read-only and crash-free (it drives its own view, not your external browser). First slice of a bigger \"drive the page for you\" capability."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00775.101626/Wingman-Setup-1.00775.101626.exe",
-  "sha256": "0cafd6e9ea438f1c84ae02897259fe4b852b62f4fbf3f334818e49124755135e",
-  "sizeBytes": 324394114,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00776.101626/Wingman-Setup-1.00776.101626.exe",
+  "sha256": "0b3b3f8f40d5d3b4c08ed1fe8dd98e055323fa4d56276b656f0bcce7dce162f7",
+  "sizeBytes": 324397520,
   "mandatory": false
 }
