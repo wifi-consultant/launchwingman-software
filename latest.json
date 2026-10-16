@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00779.101626",
-  "counter": 779,
+  "version": "1.00780.101626",
+  "counter": 780,
   "major": 1,
   "date": "16 October 2026",
   "notes": [
-    "MagicBoard is now honest about what's on screen: Wingman waits for the real login result and tells you the truth (logged in, still on the login page, or needs MFA) instead of assuming — and it recognizes a 404 / wrong page / access-denied and says so.",
-    "It opens the device's main GUI reliably instead of guessing a deep-link that could 404. Login filling is more robust for Catalyst Center's form."
+    "Wingman now narrates what the MagicBoard is doing, live in the chat, as it happens — \"okay, signing you in… you're in, the dashboard is up…\" — and calls out errors honestly (\"oops, that's a 404, wrong page\"). No more guessing whether it worked."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00779.101626/Wingman-Setup-1.00779.101626.exe",
-  "sha256": "08c61c071dc435735e4cd7391596535bf41c966aea350fc1d8b8af34b7691fc9",
-  "sizeBytes": 324397330,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00780.101626/Wingman-Setup-1.00780.101626.exe",
+  "sha256": "4b9d114159c616400219dfe74bb6109807c52e610e8c832cd233185fbaf09d5a",
+  "sizeBytes": 324392438,
   "mandatory": false
 }
