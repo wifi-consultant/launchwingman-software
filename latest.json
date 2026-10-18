@@ -1,16 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00789.101626",
-  "counter": 789,
+  "version": "1.00790.101826",
+  "counter": 790,
   "major": 1,
-  "date": "16 October 2026",
+  "date": "18 October 2026",
   "notes": [
-    "New: Web logins. Save a website's login (domain, username, password, and an optional authenticator-app 2FA code) under the Credentials section, and the MagicBoard signs you in automatically when you open that site. Your secrets are encrypted on your machine and never shown to the AI.",
-    "Honest note built in: authenticator-app (TOTP) 2FA is entered for you; push, SMS, and security-key 2FA you finish yourself. Some sites (notably Google) block sign-in inside embedded views, so those may still require their own browser."
+    "You can now open sites and devices in the MagicBoard directly, no AI needed. The empty MagicBoard has an \"open\" box (type a website or device IP), and once a page is open there's a real address bar with back / forward / reload. It still signs you in automatically for saved devices and web logins. Ask the AI only when you want it to actually do something on the page."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00789.101626/Wingman-Setup-1.00789.101626.exe",
-  "sha256": "8d4d8fc3d59c1c9602bcdb6a35c9a53c64671dbb6b78b425d9ed07f8b5b69dad",
-  "sizeBytes": 324404800,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00790.101826/Wingman-Setup-1.00790.101826.exe",
+  "sha256": "45570b7ff822aabf651a3e764758055a719653b3600dce345408160a2e262be3",
+  "sizeBytes": 324402942,
   "mandatory": false
 }
