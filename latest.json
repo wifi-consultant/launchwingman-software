@@ -1,18 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00803.101926",
-  "counter": 803,
+  "version": "1.00805.101926",
+  "counter": 805,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "The MagicBoard now holds multiple tabs: open several device GUIs or sites at once and switch between them without reloading.",
-    "Open a device's Web GUI straight from the sidebar globe and it lands in the MagicBoard, signed in from your vault.",
-    "\"Open gmail\", \"open youtube\", a device name, or a full URL all open reliably in the MagicBoard, and pop-out links stay in the pane.",
-    "Sidebar tidied up: Catalyst Center and ISE now have their own groups, the Web GUI icon shows for every web device, and the cellular modem's duplicate interfaces collapse to one."
+    "Big memory fix: viewing large floor-plan PDFs now uses far less memory, so Wingman stays fast and stable on big documents.",
+    "The device Web GUI window now shows the Wingman icon instead of the default one."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00803.101926/Wingman-Setup-1.00803.101926.exe",
-  "sha256": "d4aab291ec6461b0842458d02c3e75b321d4ab12d6b8f3424a3d21e94d728d8f",
-  "sizeBytes": 324397226,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00805.101926/Wingman-Setup-1.00805.101926.exe",
+  "sha256": "17b9979e40d36aaee7e4e726cc8522082d10aa6fd2a773c88ac6d1e195d72626",
+  "sizeBytes": 324404114,
   "mandatory": false
 }
