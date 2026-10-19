@@ -1,15 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00792.101926",
-  "counter": 792,
+  "version": "1.00795.101926",
+  "counter": 795,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "If the update download drops partway (a brief connection hiccup), Wingman now retries it automatically and shows a plain message instead of a raw technical error code."
+    "New Light theme, now the default: a clean, bright look based on the WingmanOne brand.",
+    "Prefer the original dark look? Dark mode is still here and completely unchanged.",
+    "Switch anytime from File > Appearance. Your choice is remembered across restarts.",
+    "The terminal, charts, status colors, and world clocks all follow the theme you pick."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00792.101926/Wingman-Setup-1.00792.101926.exe",
-  "sha256": "681bedade09f015377a33f643a429896c1562ba96e4211a3330a6ac6835795f0",
-  "sizeBytes": 324397636,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00795.101926/Wingman-Setup-1.00795.101926.exe",
+  "sha256": "087061dde6db2d96b7258526c7d1b903846fa9ab5468e20c07df450b6d016699",
+  "sizeBytes": 324399573,
   "mandatory": false
 }
