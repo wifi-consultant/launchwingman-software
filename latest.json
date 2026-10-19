@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00795.101926",
-  "counter": 795,
+  "version": "1.00798.101926",
+  "counter": 798,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "New Light theme, now the default: a clean, bright look based on the WingmanOne brand.",
-    "Prefer the original dark look? Dark mode is still here and completely unchanged.",
-    "Switch anytime from File > Appearance. Your choice is remembered across restarts.",
-    "The terminal, charts, status colors, and world clocks all follow the theme you pick."
+    "Opening a site or device in the MagicBoard now works reliably, straight from the chat: just say \"open <site or device>\".",
+    "Web pages open inside Wingman's own MagicBoard, not an external browser, so Wingman keeps control of the session.",
+    "Open a saved network device and Wingman loads its web GUI and signs you in from your vault.",
+    "Open a website with a saved login and Wingman asks first before using it; with no saved login it opens the page for you to sign in."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00795.101926/Wingman-Setup-1.00795.101926.exe",
-  "sha256": "087061dde6db2d96b7258526c7d1b903846fa9ab5468e20c07df450b6d016699",
-  "sizeBytes": 324399573,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00798.101926/Wingman-Setup-1.00798.101926.exe",
+  "sha256": "0645b6a7f97e5887c2d5cd4fa7c68476f8caf712134007782c82ee146ef96a42",
+  "sizeBytes": 324396268,
   "mandatory": false
 }
