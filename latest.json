@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00791.101926",
-  "counter": 791,
+  "version": "1.00792.101926",
+  "counter": 792,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "Removed the open box and address bar from the MagicBoard. It's now a clean display surface with no browser controls — everything flows from the chat box, so the MagicBoard stays transparent to you."
+    "If the update download drops partway (a brief connection hiccup), Wingman now retries it automatically and shows a plain message instead of a raw technical error code."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00791.101926/Wingman-Setup-1.00791.101926.exe",
-  "sha256": "1eda67c189c02380369d6dd6a128e460e0ab5b44fe14e50de67ea97966a09cee",
-  "sizeBytes": 324404089,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00792.101926/Wingman-Setup-1.00792.101926.exe",
+  "sha256": "681bedade09f015377a33f643a429896c1562ba96e4211a3330a6ac6835795f0",
+  "sizeBytes": 324397636,
   "mandatory": false
 }
