@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00790.101826",
-  "counter": 790,
+  "version": "1.00791.101926",
+  "counter": 791,
   "major": 1,
-  "date": "18 October 2026",
+  "date": "19 October 2026",
   "notes": [
-    "You can now open sites and devices in the MagicBoard directly, no AI needed. The empty MagicBoard has an \"open\" box (type a website or device IP), and once a page is open there's a real address bar with back / forward / reload. It still signs you in automatically for saved devices and web logins. Ask the AI only when you want it to actually do something on the page."
+    "Removed the open box and address bar from the MagicBoard. It's now a clean display surface with no browser controls — everything flows from the chat box, so the MagicBoard stays transparent to you."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00790.101826/Wingman-Setup-1.00790.101826.exe",
-  "sha256": "45570b7ff822aabf651a3e764758055a719653b3600dce345408160a2e262be3",
-  "sizeBytes": 324402942,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00791.101926/Wingman-Setup-1.00791.101926.exe",
+  "sha256": "1eda67c189c02380369d6dd6a128e460e0ab5b44fe14e50de67ea97966a09cee",
+  "sizeBytes": 324404089,
   "mandatory": false
 }
