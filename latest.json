@@ -1,18 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00798.101926",
-  "counter": 798,
+  "version": "1.00801.101926",
+  "counter": 801,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "Opening a site or device in the MagicBoard now works reliably, straight from the chat: just say \"open <site or device>\".",
-    "Web pages open inside Wingman's own MagicBoard, not an external browser, so Wingman keeps control of the session.",
-    "Open a saved network device and Wingman loads its web GUI and signs you in from your vault.",
-    "Open a website with a saved login and Wingman asks first before using it; with no saved login it opens the page for you to sign in."
+    "Watch Wingman drive: a visible pointer now glides across MagicBoard pages, with a click ripple, as Wingman navigates menus and signs in.",
+    "Those clicks are real browser input at the pointer's landing spot, so even stubborn menus that ignored automation now respond.",
+    "The pointer is pure overlay: it never blocks the page, fades when idle, and if an animation ever fails the action still runs as before."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00798.101926/Wingman-Setup-1.00798.101926.exe",
-  "sha256": "0645b6a7f97e5887c2d5cd4fa7c68476f8caf712134007782c82ee146ef96a42",
-  "sizeBytes": 324396268,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00801.101926/Wingman-Setup-1.00801.101926.exe",
+  "sha256": "81d38277155784993aa46694eaa84cce924542dc9528f32785b1266e69dfb6c6",
+  "sizeBytes": 324401132,
   "mandatory": false
 }
