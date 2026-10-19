@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00805.101926",
-  "counter": 805,
+  "version": "1.00806.101926",
+  "counter": 806,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "Big memory fix: viewing large floor-plan PDFs now uses far less memory, so Wingman stays fast and stable on big documents.",
-    "The device Web GUI window now shows the Wingman icon instead of the default one."
+    "New: find wireless points on a floor-plan PDF. Open a plan, click \"Find wireless points (APs)\", and Wingman pins every access-point symbol with a count.",
+    "It reads the AP icon from the plan's legend automatically; if a plan is unusual, use \"Pick icon\" to draw a box around one symbol and it matches the rest.",
+    "Detection runs locally, page by page, so it stays fast and light on large plans."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00805.101926/Wingman-Setup-1.00805.101926.exe",
-  "sha256": "17b9979e40d36aaee7e4e726cc8522082d10aa6fd2a773c88ac6d1e195d72626",
-  "sizeBytes": 324404114,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00806.101926/Wingman-Setup-1.00806.101926.exe",
+  "sha256": "9a9ebd3d7b41eecd7aacfcd2efbec90bf95ee09a81ca0df41545f7dd2828f83b",
+  "sizeBytes": 324410091,
   "mandatory": false
 }
