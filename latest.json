@@ -1,17 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00801.101926",
-  "counter": 801,
+  "version": "1.00803.101926",
+  "counter": 803,
   "major": 1,
   "date": "19 October 2026",
   "notes": [
-    "Watch Wingman drive: a visible pointer now glides across MagicBoard pages, with a click ripple, as Wingman navigates menus and signs in.",
-    "Those clicks are real browser input at the pointer's landing spot, so even stubborn menus that ignored automation now respond.",
-    "The pointer is pure overlay: it never blocks the page, fades when idle, and if an animation ever fails the action still runs as before."
+    "The MagicBoard now holds multiple tabs: open several device GUIs or sites at once and switch between them without reloading.",
+    "Open a device's Web GUI straight from the sidebar globe and it lands in the MagicBoard, signed in from your vault.",
+    "\"Open gmail\", \"open youtube\", a device name, or a full URL all open reliably in the MagicBoard, and pop-out links stay in the pane.",
+    "Sidebar tidied up: Catalyst Center and ISE now have their own groups, the Web GUI icon shows for every web device, and the cellular modem's duplicate interfaces collapse to one."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00801.101926/Wingman-Setup-1.00801.101926.exe",
-  "sha256": "81d38277155784993aa46694eaa84cce924542dc9528f32785b1266e69dfb6c6",
-  "sizeBytes": 324401132,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00803.101926/Wingman-Setup-1.00803.101926.exe",
+  "sha256": "d4aab291ec6461b0842458d02c3e75b321d4ab12d6b8f3424a3d21e94d728d8f",
+  "sizeBytes": 324397226,
   "mandatory": false
 }
