@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "0.00",
+  "major": 0,
+  "minor": 0,
+  "counter": 0,
+  "date": "",
+  "notes": [],
+  "installerUrl": "",
+  "sha256": "",
+  "sizeBytes": 0,
+  "mandatory": false
+}
