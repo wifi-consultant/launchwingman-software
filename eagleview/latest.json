@@ -1,14 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.00",
-  "major": 0,
-  "minor": 0,
-  "counter": 0,
-  "date": "",
-  "notes": [],
-  "installerUrl": "",
-  "sha256": "",
-  "sizeBytes": 0,
+  "version": "4.54",
+  "major": 4,
+  "minor": 54,
+  "counter": 454,
+  "date": "9 November 2026",
+  "notes": [
+    "Eagleview now updates itself: it checks for a newer version when it opens and offers to download and install it.",
+    "Help > Check for Updates checks on demand.",
+    "Installs per user, no administrator rights needed."
+  ],
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.54/Eagleview-Setup-4.54.exe",
+  "sha256": "84d81601dcc68dca8ee3f02dfc1c4205b0917e6c7c855f519960eeba263b3fa0",
+  "sizeBytes": 72274968,
   "mandatory": false
 }
