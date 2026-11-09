@@ -1,18 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.54",
+  "version": "4.58",
   "major": 4,
-  "minor": 54,
-  "counter": 454,
+  "minor": 58,
+  "counter": 458,
   "date": "9 November 2026",
   "notes": [
-    "Eagleview now updates itself: it checks for a newer version when it opens and offers to download and install it.",
-    "Help > Check for Updates checks on demand.",
-    "Installs per user, no administrator rights needed."
+    "New Wingman Eagleview icon in the Wingman family style, on the window, taskbar, Start menu and installer.",
+    "Running the setup again when this version is already installed simply opens Eagleview.",
+    "Uninstall now removes all Eagleview files from your profile; your project files are never touched.",
+    "Update offers now appear before the Welcome screen, never over it."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.54/Eagleview-Setup-4.54.exe",
-  "sha256": "84d81601dcc68dca8ee3f02dfc1c4205b0917e6c7c855f519960eeba263b3fa0",
-  "sizeBytes": 72274968,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.58/Eagleview-Setup-4.58.exe",
+  "sha256": "8a00e29626f18fce86ef585fe74a6b47eeb12cc589df9da23dc093169447377a",
+  "sizeBytes": 72389548,
   "mandatory": false
 }
