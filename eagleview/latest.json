@@ -1,22 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.79",
+  "version": "4.83",
   "major": 4,
-  "minor": 79,
-  "counter": 479,
+  "minor": 83,
+  "counter": 483,
   "date": "10 November 2026",
   "notes": [
-    "Auto Cable: right-click an Access Point, IP Telephone, Printer, TV, switch or UPS to draw its cable to the nearest rack by route, the way you draw them by hand",
-    "View > Wall and Obstacle Map shows walls, doors, roads and obstacles the cable router uses",
-    "Object Library: hundreds of plan objects recognised, from seats and toilets to trucks, benches and boats",
-    "Cables connect only their two ends, plus racks, switches, splice boxes and manholes they run through, so the Excel export lists clean connections",
-    "Draw a Cable releases once a cable is finished",
-    "Cables and measurements inside an area can be right-clicked and deleted again",
-    "Saving retries when the file is briefly locked by another program"
+    "Scale check: a calibration that disagrees with the sheet's own scale bar asks before lengths and areas follow it",
+    "The sheet's graphic scale bar is read more reliably",
+    "Updates wait for Eagleview to close fully, so the app reopens after every update",
+    "The Welcome and search progress popups no longer stay on top of other programs",
+    "Help > About shows www.launchwingman.com"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.79/Eagleview-Setup-4.79.exe",
-  "sha256": "3947d9511a44b2ce4fe2fe46ad09f903d815da645940d7faf64a0a7ecdc049c8",
-  "sizeBytes": 110713299,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.83/Eagleview-Setup-4.83.exe",
+  "sha256": "b73d2e13f6370b2fef28473db28f98d513461dc0b23cb3de84a28183cf1cd5c0",
+  "sizeBytes": 110712604,
   "mandatory": false
 }
