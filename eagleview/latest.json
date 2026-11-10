@@ -1,20 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.83",
+  "version": "4.88",
   "major": 4,
-  "minor": 83,
-  "counter": 483,
+  "minor": 88,
+  "counter": 488,
   "date": "10 November 2026",
   "notes": [
-    "Scale check: a calibration that disagrees with the sheet's own scale bar asks before lengths and areas follow it",
-    "The sheet's graphic scale bar is read more reliably",
-    "Updates wait for Eagleview to close fully, so the app reopens after every update",
-    "The Welcome and search progress popups no longer stay on top of other programs",
-    "Help > About shows www.launchwingman.com"
+    "Delete all on this page / Delete all now works for cables, areas, exclusion areas, measurements, notes and lines",
+    "Auto Cable goes around areas instead of cutting through them",
+    "Drag points along every cable: press-hold and drag to bend the cable around anything",
+    "A second cable between the same two objects asks before keeping it",
+    "Double-click an object in the Detailed View to edit it",
+    "Auto Cable stays responsive while it searches, and the scale bar reader is back to its reliable version"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.83/Eagleview-Setup-4.83.exe",
-  "sha256": "b73d2e13f6370b2fef28473db28f98d513461dc0b23cb3de84a28183cf1cd5c0",
-  "sizeBytes": 110712604,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.88/Eagleview-Setup-4.88.exe",
+  "sha256": "1bd6edf8aed0c60e16a83cc26ad13b9f9515b58df2996cfea00f362dae5b6ce5",
+  "sizeBytes": 110738682,
   "mandatory": false
 }
