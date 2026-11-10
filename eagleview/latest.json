@@ -1,22 +1,22 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.70",
+  "version": "4.72",
   "major": 4,
-  "minor": 70,
-  "counter": 470,
+  "minor": 72,
+  "counter": 472,
   "date": "10 November 2026",
   "notes": [
-    "Switch and UPS objects can be placed into the Detailed Rack: the item dialog's Object dropdown lists the switches and UPS assigned to the rack, locks the name and takes the size from their Rack Units; the object's popup shows its Rack position and the Excel tabs a Rack Position column",
+    "Detailed Rack: a new item now takes both faces by default, so occupying a unit on the front mirrors it on the back and vice versa; Front only or Back only remain a choice",
+    "Switch and UPS objects can be placed into the Detailed Rack from the item dialog's Object dropdown, with their Rack Units and a Rack position shown in their popup and in Excel",
     "Network Rack Detailed View: front and back of the rack at its unit count, items of 1 to N units, per-slot notes, drag items to move or swap them",
     "The rack elevation prints on each rack's Excel tab and, under the PDF layer Network Rack Detailed View, on an appendix page per rack",
     "A cable drawn between a rack and a device fills its Nearest Net Rack automatically",
     "New UPS object with its own icon, popup, PDF layer and Excel tab",
-    "Excel: Ethernet Cables and Fiber Cables are separate tabs",
-    "Rack Units on Network Switch and UPS"
+    "Excel: Ethernet Cables and Fiber Cables are separate tabs"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.70/Eagleview-Setup-4.70.exe",
-  "sha256": "f2705cbdc4deac8b0418cc7e57ddfe76a42cc396329dc78061b387f23eb87ca5",
-  "sizeBytes": 110600910,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.72/Eagleview-Setup-4.72.exe",
+  "sha256": "9285098c504095bbdf0f132aaa802a84b20199d15f2ef48d1f80ddf6de3262b5",
+  "sizeBytes": 110616263,
   "mandatory": false
 }
