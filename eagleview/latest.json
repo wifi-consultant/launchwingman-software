@@ -1,17 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.09",
+  "version": "5.14",
   "major": 5,
-  "minor": 9,
-  "counter": 509,
+  "minor": 14,
+  "counter": 514,
   "date": "11 November 2026",
   "notes": [
-    "Excel rack tab: the rack drawing now lines up with the U, Front and Back columns",
-    "The duplicate cable alert asks between racks too"
+    "New object: Access Controller (door + card reader icon, own Excel tab and PDF layers)",
+    "Ambulances, golf carts, trucks and charging stations are obstacles for Auto Cable",
+    "Access Controller prefix defaults to ACC"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.09/Eagleview-Setup-5.09.exe",
-  "sha256": "22aca4c387238acec41155d9af1a13f4508e15d68a41240f55443a696dbb32aa",
-  "sizeBytes": 110853981,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.14/Eagleview-Setup-5.14.exe",
+  "sha256": "abc643069fd9eab110ed279a0d93faf268d025e6844157f604a6b5069bcd5bb2",
+  "sizeBytes": 110852387,
   "mandatory": false
 }
