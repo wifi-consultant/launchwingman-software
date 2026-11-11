@@ -1,21 +1,22 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.88",
+  "version": "4.96",
   "major": 4,
-  "minor": 88,
-  "counter": 488,
-  "date": "10 November 2026",
+  "minor": 96,
+  "counter": 496,
+  "date": "11 November 2026",
   "notes": [
-    "Delete all on this page / Delete all now works for cables, areas, exclusion areas, measurements, notes and lines",
-    "Auto Cable goes around areas instead of cutting through them",
-    "Drag points along every cable: press-hold and drag to bend the cable around anything",
-    "A second cable between the same two objects asks before keeping it",
-    "Double-click an object in the Detailed View to edit it",
-    "Auto Cable stays responsive while it searches, and the scale bar reader is back to its reliable version"
+    "Auto Cable picks the rack with the shortest cable, and moving an object brings its cables along",
+    "Office floor plans that are pictures now get walls, doors and the building core",
+    "Office cables run square along corridors, never through lifts, stairs or outside, with installed length and a 90 m warning",
+    "Lifts, stairs, desks and workstation clusters are found on office pictures; the lift size checks your scale",
+    "Water and roads: seas, pools, streets and cart paths are read better",
+    "Every popup can be resized; the Detailed Rack shows the rack details on top",
+    "Fixed: Auto Cable could freeze the window"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.88/Eagleview-Setup-4.88.exe",
-  "sha256": "1bd6edf8aed0c60e16a83cc26ad13b9f9515b58df2996cfea00f362dae5b6ce5",
-  "sizeBytes": 110738682,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.96/Eagleview-Setup-4.96.exe",
+  "sha256": "ee75358f94c39c3d8b56d60f5d8a3aa620910543550912489aeefcb88e1fb0c6",
+  "sizeBytes": 110783046,
   "mandatory": false
 }
