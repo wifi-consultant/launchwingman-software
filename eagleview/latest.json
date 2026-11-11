@@ -1,18 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.07",
+  "version": "5.09",
   "major": 5,
-  "minor": 7,
-  "counter": 507,
+  "minor": 9,
+  "counter": 509,
   "date": "11 November 2026",
   "notes": [
-    "Auto Cable to a chosen rack, from the rack menu or the Detailed Rack window",
-    "Ethernet and Fiber together between racks",
-    "Parallel cables are drawn side by side in lanes"
+    "Excel rack tab: the rack drawing now lines up with the U, Front and Back columns",
+    "The duplicate cable alert asks between racks too"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.07/Eagleview-Setup-5.07.exe",
-  "sha256": "430e8aeac677afa697d38cf11052cd5f85a6a752bb33c0897ada77b191ca6323",
-  "sizeBytes": 110835078,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.09/Eagleview-Setup-5.09.exe",
+  "sha256": "22aca4c387238acec41155d9af1a13f4508e15d68a41240f55443a696dbb32aa",
+  "sizeBytes": 110853981,
   "mandatory": false
 }
