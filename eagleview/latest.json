@@ -1,22 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.96",
+  "version": "4.99",
   "major": 4,
-  "minor": 96,
-  "counter": 496,
+  "minor": 99,
+  "counter": 499,
   "date": "11 November 2026",
   "notes": [
-    "Auto Cable picks the rack with the shortest cable, and moving an object brings its cables along",
-    "Office floor plans that are pictures now get walls, doors and the building core",
-    "Office cables run square along corridors, never through lifts, stairs or outside, with installed length and a 90 m warning",
-    "Lifts, stairs, desks and workstation clusters are found on office pictures; the lift size checks your scale",
-    "Water and roads: seas, pools, streets and cart paths are read better",
-    "Every popup can be resized; the Detailed Rack shows the rack details on top",
-    "Fixed: Auto Cable could freeze the window"
+    "New object: IP Camera, with brand, model, IP, MAC, PoE, Wired or Wireless with SSID, its own PDF layers and Excel tab",
+    "Lifts and stairs on office plans are found far more reliably, so cables keep out of them",
+    "Stairs are protected as whole stairwells, landings included",
+    "A blinking Please wait message shows while walls and obstacles are analysed",
+    "The tool buttons sit in their own row, centred over the drawing",
+    "New About text"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.96/Eagleview-Setup-4.96.exe",
-  "sha256": "ee75358f94c39c3d8b56d60f5d8a3aa620910543550912489aeefcb88e1fb0c6",
-  "sizeBytes": 110783046,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.99/Eagleview-Setup-4.99.exe",
+  "sha256": "fc242b645c1cb0edeeb86390d8a2fe63d19ffc72b29c128a2c3ed06325bd3891",
+  "sizeBytes": 110856051,
   "mandatory": false
 }
