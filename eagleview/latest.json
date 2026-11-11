@@ -1,21 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "4.99",
-  "major": 4,
-  "minor": 99,
-  "counter": 499,
+  "version": "5.01",
+  "major": 5,
+  "minor": 1,
+  "counter": 501,
   "date": "11 November 2026",
   "notes": [
-    "New object: IP Camera, with brand, model, IP, MAC, PoE, Wired or Wireless with SSID, its own PDF layers and Excel tab",
-    "Lifts and stairs on office plans are found far more reliably, so cables keep out of them",
-    "Stairs are protected as whole stairwells, landings included",
-    "A blinking Please wait message shows while walls and obstacles are analysed",
-    "The tool buttons sit in their own row, centred over the drawing",
-    "New About text"
+    "The cable-too-long alert now offers Keep Cable or Delete Cable"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v4.99/Eagleview-Setup-4.99.exe",
-  "sha256": "fc242b645c1cb0edeeb86390d8a2fe63d19ffc72b29c128a2c3ed06325bd3891",
-  "sizeBytes": 110856051,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.01/Eagleview-Setup-5.01.exe",
+  "sha256": "9670c431b7feb44d4ac2a287561800bfb5738228daaf69a1f7b8646ea03f95ad",
+  "sizeBytes": 110850606,
   "mandatory": false
 }
