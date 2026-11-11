@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.03",
+  "version": "5.05",
   "major": 5,
-  "minor": 3,
-  "counter": 503,
+  "minor": 5,
+  "counter": 505,
   "date": "11 November 2026",
   "notes": [
-    "Zooming with the Wall and Obstacle Map on is now smooth"
+    "Racks interconnect by Auto Cable to the nearest rack (by route), Ethernet or Fiber",
+    "Moving a rack keeps its cables connected"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.03/Eagleview-Setup-5.03.exe",
-  "sha256": "403bc5612a8bacf4a52a7efce16e26f0f71e173f2a19e63c4fa606127e505a4a",
-  "sizeBytes": 110859216,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.05/Eagleview-Setup-5.05.exe",
+  "sha256": "88df350080dabae978adb46aefc27cbe8359a822fdd2b0e530d13a32299d5589",
+  "sizeBytes": 110830889,
   "mandatory": false
 }
