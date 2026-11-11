@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.01",
+  "version": "5.03",
   "major": 5,
-  "minor": 1,
-  "counter": 501,
+  "minor": 3,
+  "counter": 503,
   "date": "11 November 2026",
   "notes": [
-    "The cable-too-long alert now offers Keep Cable or Delete Cable"
+    "Zooming with the Wall and Obstacle Map on is now smooth"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.01/Eagleview-Setup-5.01.exe",
-  "sha256": "9670c431b7feb44d4ac2a287561800bfb5738228daaf69a1f7b8646ea03f95ad",
-  "sizeBytes": 110850606,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.03/Eagleview-Setup-5.03.exe",
+  "sha256": "403bc5612a8bacf4a52a7efce16e26f0f71e173f2a19e63c4fa606127e505a4a",
+  "sizeBytes": 110859216,
   "mandatory": false
 }
