@@ -1,18 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.14",
+  "version": "5.22",
   "major": 5,
-  "minor": 14,
-  "counter": 514,
-  "date": "11 November 2026",
+  "minor": 22,
+  "counter": 522,
+  "date": "12 November 2026",
   "notes": [
-    "New object: Access Controller (door + card reader icon, own Excel tab and PDF layers)",
-    "Ambulances, golf carts, trucks and charging stations are obstacles for Auto Cable",
-    "Access Controller prefix defaults to ACC"
+    "Office chairs, tables, workstations and cubicles found on picture floor plans, with average heights",
+    "Small round huddle tables with chairs recognised",
+    "Folding (zigzag) doors recognised on picture plans",
+    "Stairs on drawings detected more carefully (no parking rows or hatches)",
+    "DWG floor plans open with nothing to install"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.14/Eagleview-Setup-5.14.exe",
-  "sha256": "abc643069fd9eab110ed279a0d93faf268d025e6844157f604a6b5069bcd5bb2",
-  "sizeBytes": 110852387,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.22/Eagleview-Setup-5.22.exe",
+  "sha256": "ec0be051b40edfdea746290e65d52759aa3e1861cd5acf79f4d09cfa9bd2cb5b",
+  "sizeBytes": 120476209,
   "mandatory": false
 }
