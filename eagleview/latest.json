@@ -1,18 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.32",
+  "version": "5.33",
   "major": 5,
-  "minor": 32,
-  "counter": 532,
+  "minor": 33,
+  "counter": 533,
   "date": "12 November 2026",
   "notes": [
-    "Sign in with your Wingman account: email, Google or Apple.",
-    "A new page after a Google or Apple sign-in.",
-    "Picture plans: office chairs, tables, workstations, offices and meeting rooms are found as objects."
+    "New Share button: send files, folders or the project to anyone with a one-time, end-to-end encrypted link.",
+    "Optional 6-digit PIN, and the link stops after one download or the time you pick."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.32/Eagleview-Setup-5.32.exe",
-  "sha256": "620f885ac00ba1094f95d77f30c21d19ac4c6251349acc7e4785a155546a2638",
-  "sizeBytes": 147212262,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.33/Eagleview-Setup-5.33.exe",
+  "sha256": "63ddad300d3f05d33bb6227f60589645ef7a6eba701da3dbdda6e4c8aef4c9f6",
+  "sizeBytes": 149983902,
   "mandatory": false
 }
