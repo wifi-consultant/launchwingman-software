@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00806.101926",
-  "counter": 806,
+  "version": "1.00810.111226",
+  "counter": 810,
   "major": 1,
-  "date": "19 October 2026",
+  "date": "12 November 2026",
   "notes": [
-    "New: find wireless points on a floor-plan PDF. Open a plan, click \"Find wireless points (APs)\", and Wingman pins every access-point symbol with a count.",
-    "It reads the AP icon from the plan's legend automatically; if a plan is unusual, use \"Pick icon\" to draw a box around one symbol and it matches the rest.",
-    "Detection runs locally, page by page, so it stays fast and light on large plans."
+    "New: log in or create your Wingman account with Google or Apple, as well as with your work email.",
+    "One Wingman account now also signs you in to Wingman Eagleview.",
+    "File sharing: files up to 1 GB."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00806.101926/Wingman-Setup-1.00806.101926.exe",
-  "sha256": "9a9ebd3d7b41eecd7aacfcd2efbec90bf95ee09a81ca0df41545f7dd2828f83b",
-  "sizeBytes": 324410091,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00810.111226/Wingman-Setup-1.00810.111226.exe",
+  "sha256": "053b4d882609014387ed756b860b34200511920bc57f3216507ef6729bb47437",
+  "sizeBytes": 302781937,
   "mandatory": false
 }
