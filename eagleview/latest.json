@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.37",
+  "version": "5.40",
   "major": 5,
-  "minor": 37,
-  "counter": 537,
+  "minor": 40,
+  "counter": 540,
   "date": "12 November 2026",
   "notes": [
-    "Cables: grab a cable anywhere along its line and bend it smoothly in one drag.",
-    "IP Cameras: an angle of view you can turn, widen and extend; the camera icon turns with it.",
-    "Serial Number field for every object except PINs and Manholes, also in Excel.",
-    "Access Points: four RF colour schemes, and the RF moves with an AP while you drag it."
+    "OK and Cancel are always visible in the object edit window",
+    "RF colour scheme rows sit on the window grey, no frame (AP window and AP Template)",
+    "RF stays inside the Area that holds its Access Point",
+    "Letters and words on picture plans are no longer taken for walls or objects"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.37/Eagleview-Setup-5.37.exe",
-  "sha256": "73e2c4cfd7cb3f68f2cc1ab2d97689a898f7f0e1727f7df2a4e0b51364ebe30c",
-  "sizeBytes": 150032580,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.40/Eagleview-Setup-5.40.exe",
+  "sha256": "135fa68697b79a2b2edac8debecf714bcd42f3853654f8d112f7f2445ac17a9d",
+  "sizeBytes": 150076621,
   "mandatory": false
 }
