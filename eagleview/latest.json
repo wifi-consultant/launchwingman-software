@@ -1,20 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.22",
+  "version": "5.30",
   "major": 5,
-  "minor": 22,
-  "counter": 522,
+  "minor": 30,
+  "counter": 530,
   "date": "12 November 2026",
   "notes": [
-    "Office chairs, tables, workstations and cubicles found on picture floor plans, with average heights",
-    "Small round huddle tables with chairs recognised",
-    "Folding (zigzag) doors recognised on picture plans",
-    "Stairs on drawings detected more carefully (no parking rows or hatches)",
-    "DWG floor plans open with nothing to install"
+    "Sign in with your Wingman account: email, Google or Apple.",
+    "Picture plans: office chairs, tables, workstations, offices and meeting rooms are found as objects.",
+    "Picture plans: room names are read, and text is no longer mistaken for furniture."
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.22/Eagleview-Setup-5.22.exe",
-  "sha256": "ec0be051b40edfdea746290e65d52759aa3e1861cd5acf79f4d09cfa9bd2cb5b",
-  "sizeBytes": 120476209,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.30/Eagleview-Setup-5.30.exe",
+  "sha256": "ac2bef619f3b20dfdf73437cef012af5b45b84b2bfec73d895ded20c9bdfd175",
+  "sizeBytes": 147212549,
   "mandatory": false
 }
