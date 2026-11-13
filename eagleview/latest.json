@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.52",
+  "version": "5.53",
   "major": 5,
-  "minor": 52,
-  "counter": 552,
+  "minor": 53,
+  "counter": 553,
   "date": "13 November 2026",
   "notes": [
-    "Switchports: the Network Switch window draws the switch's front panel live (Port speed, Uplink speed, Stack member, 12 ports, blue chassis); Connect to Switchport picks the port when a cable reaches a switch or a rack holding switches; Excel Switch Port Map tab and Start / Finish Port columns",
-    "4 Points Area: click four points on a room's outline and Eagleview draws the edges along the plan's lines (walls, curves, the room outline); Draw now offers Free Style Area, 4 Points Area and Exclusion Area"
+    "Switch ports can now be 10M and 100M: Port speed adds Ethernet (10M) beside FastEthernet (100M), with Cisco port names Et1/0/n and Fa1/0/n; a faster device on them shows the speed warning"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.52/Eagleview-Setup-5.52.exe",
-  "sha256": "731bcfc3c0af8748e67eaf82fb6dfd2be4795690cf6141903f3bed7494d274ac",
-  "sizeBytes": 151472577,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.53/Eagleview-Setup-5.53.exe",
+  "sha256": "753acff3d9bb78c0ed7c6ef0446bce6e3a6af43c05a4093c079012a5dd3bc6d3",
+  "sizeBytes": 151461279,
   "mandatory": false
 }
