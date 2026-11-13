@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.46",
+  "version": "5.47",
   "major": 5,
-  "minor": 46,
-  "counter": 546,
+  "minor": 47,
+  "counter": 547,
   "date": "13 November 2026",
   "notes": [
-    "Chairs, tables, sofas, desks and box seats are marked on CAD venue plans (5.45)",
-    "Lounge armchair backs no longer cut false doors into walls (5.45)",
-    "More stairs found: stair cores, flights round a landing, steps drawn as filled shapes, wide curved concourse steps (5.46)",
-    "Different floors are never the same place; automatic areas; racks placed one by one (earlier)"
+    "Escalators are found and outlined on CAD venue plans",
+    "Lifts are found (car boxes beside a second car, a lift badge or a LIFT label)",
+    "Basketball courts, pools and football fields are recognised by official size and markings",
+    "Gym equipment is identified in gym rooms; desks and chairs drawn in thin black lines are marked, also in enclosed halls"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.46/Eagleview-Setup-5.46.exe",
-  "sha256": "d306791aecdf5a0c741ba63797bf1efd3dbbc51267fb9d4204d8bf88769e14ee",
-  "sizeBytes": 150074366,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.47/Eagleview-Setup-5.47.exe",
+  "sha256": "dab5a28a6ec43e86d0b0826a648f654420d414a2c79b404419eab612c0009699",
+  "sizeBytes": 150104830,
   "mandatory": false
 }
