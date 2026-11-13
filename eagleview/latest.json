@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.48",
+  "version": "5.49",
   "major": 5,
-  "minor": 48,
-  "counter": 548,
+  "minor": 49,
+  "counter": 549,
   "date": "13 November 2026",
   "notes": [
-    "Network Switches: new Extra/Uplink Module Ports field (1-12) after Ports, on the label and in Excel",
-    "Mount a switch or UPS in a rack: drop or drag it onto a placed rack and pick its rack unit; Unmount from the switch or UPS window; the rack's Detailed Rack and the Excel rack layout follow"
+    "Mount in Rack now looks like the Detailed Rack: the rack's front and back with its items, the switch or UPS previewed at its height, a card with its details, the rack inventory and the free space"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.48/Eagleview-Setup-5.48.exe",
-  "sha256": "2eb9b9e41709accd2a725dc7167398545cbe5ed66f7988b8dd448adee31d4401",
-  "sizeBytes": 151386719,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.49/Eagleview-Setup-5.49.exe",
+  "sha256": "bd696fc9e3a090d3cc3dbd7b090870ab3da5e1ba9171c9d05e9d65da92bf2b9c",
+  "sizeBytes": 151397873,
   "mandatory": false
 }
