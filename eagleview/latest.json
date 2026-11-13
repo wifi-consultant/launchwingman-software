@@ -1,16 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.53",
+  "version": "5.55",
   "major": 5,
-  "minor": 53,
-  "counter": 553,
+  "minor": 55,
+  "counter": 555,
   "date": "13 November 2026",
   "notes": [
-    "Switch ports can now be 10M and 100M: Port speed adds Ethernet (10M) beside FastEthernet (100M), with Cisco port names Et1/0/n and Fa1/0/n; a faster device on them shows the speed warning"
+    "Points Area: click as many points as you like around a room and close on the first point; the edges follow the plan's lines and an outline that is another shape (a zone around the room) is no longer taken",
+    "New areas fill their Area name and Location from the room labels printed inside them (one room: its name and code; several rooms: each name once and their codes, within 100 characters)",
+    "Switch uplinks can be 10M (RJ45) and 100M (SFP); switch ports can be 10M and 100M"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.53/Eagleview-Setup-5.53.exe",
-  "sha256": "753acff3d9bb78c0ed7c6ef0446bce6e3a6af43c05a4093c079012a5dd3bc6d3",
-  "sizeBytes": 151461279,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.55/Eagleview-Setup-5.55.exe",
+  "sha256": "26824ec74d178f58e16f862562005e391f2525cb70668791f133e4b629fd5428",
+  "sizeBytes": 151512989,
   "mandatory": false
 }
