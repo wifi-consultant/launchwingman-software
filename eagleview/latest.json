@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.43",
+  "version": "5.44",
   "major": 5,
-  "minor": 43,
-  "counter": 543,
+  "minor": 44,
+  "counter": 544,
   "date": "13 November 2026",
   "notes": [
-    "Different floors are never the same place: a rack on Level 2 no longer blocks the same spot on Level 4",
-    "Automatic areas: Place Objects at Found can draw an area around each placed object, named from the plan's room tag and code",
-    "Rack count matches in Preferences and the Rack Roster; the roster list scrolls"
+    "Found racks placed one by one: Eagleview takes you to each found rack symbol and you pick which of your racks it is (the printed label pre-selects it), a new rack, or Skip",
+    "Different floors are never the same place (5.43)",
+    "Automatic areas around placed objects (5.42)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.43/Eagleview-Setup-5.43.exe",
-  "sha256": "883f89c0521b4ec19eaeb172ef6d9140f98954ae6a69259cc72ef3bd3b9f0ae8",
-  "sizeBytes": 150078065,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.44/Eagleview-Setup-5.44.exe",
+  "sha256": "fcb838a028481814987aebf3885c87d99a305aa453b57b7e947ef77ca2a908e5",
+  "sizeBytes": 150081774,
   "mandatory": false
 }
