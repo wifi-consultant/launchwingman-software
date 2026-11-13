@@ -1,18 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.44",
+  "version": "5.46",
   "major": 5,
-  "minor": 44,
-  "counter": 544,
+  "minor": 46,
+  "counter": 546,
   "date": "13 November 2026",
   "notes": [
-    "Found racks placed one by one: Eagleview takes you to each found rack symbol and you pick which of your racks it is (the printed label pre-selects it), a new rack, or Skip",
-    "Different floors are never the same place (5.43)",
-    "Automatic areas around placed objects (5.42)"
+    "Chairs, tables, sofas, desks and box seats are marked on CAD venue plans (5.45)",
+    "Lounge armchair backs no longer cut false doors into walls (5.45)",
+    "More stairs found: stair cores, flights round a landing, steps drawn as filled shapes, wide curved concourse steps (5.46)",
+    "Different floors are never the same place; automatic areas; racks placed one by one (earlier)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.44/Eagleview-Setup-5.44.exe",
-  "sha256": "fcb838a028481814987aebf3885c87d99a305aa453b57b7e947ef77ca2a908e5",
-  "sizeBytes": 150081774,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.46/Eagleview-Setup-5.46.exe",
+  "sha256": "d306791aecdf5a0c741ba63797bf1efd3dbbc51267fb9d4204d8bf88769e14ee",
+  "sizeBytes": 150074366,
   "mandatory": false
 }
