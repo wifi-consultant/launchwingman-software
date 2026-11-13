@@ -1,19 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.40",
+  "version": "5.43",
   "major": 5,
-  "minor": 40,
-  "counter": 540,
-  "date": "12 November 2026",
+  "minor": 43,
+  "counter": 543,
+  "date": "13 November 2026",
   "notes": [
-    "OK and Cancel are always visible in the object edit window",
-    "RF colour scheme rows sit on the window grey, no frame (AP window and AP Template)",
-    "RF stays inside the Area that holds its Access Point",
-    "Letters and words on picture plans are no longer taken for walls or objects"
+    "Different floors are never the same place: a rack on Level 2 no longer blocks the same spot on Level 4",
+    "Automatic areas: Place Objects at Found can draw an area around each placed object, named from the plan's room tag and code",
+    "Rack count matches in Preferences and the Rack Roster; the roster list scrolls"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.40/Eagleview-Setup-5.40.exe",
-  "sha256": "135fa68697b79a2b2edac8debecf714bcd42f3853654f8d112f7f2445ac17a9d",
-  "sizeBytes": 150076621,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.43/Eagleview-Setup-5.43.exe",
+  "sha256": "883f89c0521b4ec19eaeb172ef6d9140f98954ae6a69259cc72ef3bd3b9f0ae8",
+  "sizeBytes": 150078065,
   "mandatory": false
 }
