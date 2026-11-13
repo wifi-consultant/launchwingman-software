@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.49",
+  "version": "5.50",
   "major": 5,
-  "minor": 49,
-  "counter": 549,
+  "minor": 50,
+  "counter": 550,
   "date": "13 November 2026",
   "notes": [
-    "Mount in Rack now looks like the Detailed Rack: the rack's front and back with its items, the switch or UPS previewed at its height, a card with its details, the rack inventory and the free space"
+    "Changing a rack's Rack Units no longer hides its items: choose to move them into the free units or remove them, with the rack shown before and after; a full rack names the size that keeps everything; the Excel rack layout follows"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.49/Eagleview-Setup-5.49.exe",
-  "sha256": "bd696fc9e3a090d3cc3dbd7b090870ab3da5e1ba9171c9d05e9d65da92bf2b9c",
-  "sizeBytes": 151397873,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.50/Eagleview-Setup-5.50.exe",
+  "sha256": "4af3c34777b38bf7886afce58ff6b67deba6e886818a64e9892d90d42f117d71",
+  "sizeBytes": 151420869,
   "mandatory": false
 }
