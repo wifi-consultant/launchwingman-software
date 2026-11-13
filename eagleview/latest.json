@@ -1,19 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.47",
+  "version": "5.48",
   "major": 5,
-  "minor": 47,
-  "counter": 547,
+  "minor": 48,
+  "counter": 548,
   "date": "13 November 2026",
   "notes": [
-    "Escalators are found and outlined on CAD venue plans",
-    "Lifts are found (car boxes beside a second car, a lift badge or a LIFT label)",
-    "Basketball courts, pools and football fields are recognised by official size and markings",
-    "Gym equipment is identified in gym rooms; desks and chairs drawn in thin black lines are marked, also in enclosed halls"
+    "Network Switches: new Extra/Uplink Module Ports field (1-12) after Ports, on the label and in Excel",
+    "Mount a switch or UPS in a rack: drop or drag it onto a placed rack and pick its rack unit; Unmount from the switch or UPS window; the rack's Detailed Rack and the Excel rack layout follow"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.47/Eagleview-Setup-5.47.exe",
-  "sha256": "dab5a28a6ec43e86d0b0826a648f654420d414a2c79b404419eab612c0009699",
-  "sizeBytes": 150104830,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.48/Eagleview-Setup-5.48.exe",
+  "sha256": "2eb9b9e41709accd2a725dc7167398545cbe5ed66f7988b8dd448adee31d4401",
+  "sizeBytes": 151386719,
   "mandatory": false
 }
