@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.58",
+  "version": "5.59",
   "major": 5,
-  "minor": 58,
-  "counter": 558,
+  "minor": 59,
+  "counter": 559,
   "date": "16 November 2026",
   "notes": [
-    "Floor levels now cascade: a page's level flows onto every object placed and to be placed on it, with a notice naming any object whose own level was overridden",
-    "Align Floors redesigned: both panes zoom to 900% with pan and Fit for exact point placement, plus a Building stack panel showing every level and its alignment state"
+    "Every placed object now shows its 3D position (X, Y, Z metres in the building frame), with unaligned sheets framed automatically from the page registration graph",
+    "Align Floors now predicts the matching sheet of the level below or above (you can still pick any page), and draws numbered points on both sheets with step-by-step guidance so point 1 matches point 1"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.58/Eagleview-Setup-5.58.exe",
-  "sha256": "dcdf1a66a02be7de6c2a2a71e86bddc9910464f0b923bdae77b50ea2c1dfed79",
-  "sizeBytes": 151655921,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.59/Eagleview-Setup-5.59.exe",
+  "sha256": "82ffd14810a5962afdb7eda34100ee812007742af68e724fb9d34bd573135af3",
+  "sizeBytes": 151644001,
   "mandatory": false
 }
