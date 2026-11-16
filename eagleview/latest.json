@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.60",
+  "version": "5.61",
   "major": 5,
-  "minor": 60,
-  "counter": 560,
+  "minor": 61,
+  "counter": 561,
   "date": "16 November 2026",
   "notes": [
-    "Align Floors: the mouse wheel now zooms the pane under your cursor and holding the left button drags the view smoothly (a still click places the numbered point)",
-    "Auto Naming now follows the floor: when a rack's level changes, its access points' names re-mint the level token (re-assign a page's level to heal older L0 names)"
+    "Every object now has a Level/Floor dropdown (under its Location field) that follows the page hierarchy, projects heal their levels automatically on open, and each Excel tab's Level column shows the object's own floor",
+    "Identical sheets (the same area drawn per event configuration) now show each other's objects as grey read-only ghosts at the same spot, updating live as you move, add or delete the real object"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.60/Eagleview-Setup-5.60.exe",
-  "sha256": "690fb9c7bee897ab4b3aa1f522eb1621735e3a7aaaff5aa7928903a4e82ea5e7",
-  "sizeBytes": 151647217,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.61/Eagleview-Setup-5.61.exe",
+  "sha256": "4fd35e0c37e9af64574fa8d04fa5541e14bfa102d0d800a9cef4e45593a015b3",
+  "sizeBytes": 151657002,
   "mandatory": false
 }
