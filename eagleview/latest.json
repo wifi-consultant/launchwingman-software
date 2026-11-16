@@ -1,22 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.57",
+  "version": "5.58",
   "major": 5,
-  "minor": 57,
-  "counter": 557,
+  "minor": 58,
+  "counter": 558,
   "date": "16 November 2026",
   "notes": [
-    "Assign Level: every page knows its floor, read from the sheet itself; set per-level heights",
-    "Align Floors: stack a building's sheets into one frame, risers align them for you",
-    "Riser objects: one cable can run across floors, with the riser length in every total",
-    "Toilets, urinal rows and freight lifts now detected and marked",
-    "Grey walls and compound fences found on sheets that missed them",
-    "Rulers now read from the view corner, switching to cm or inches as you zoom",
-    "Connected objects list vertically, one per line"
+    "Floor levels now cascade: a page's level flows onto every object placed and to be placed on it, with a notice naming any object whose own level was overridden",
+    "Align Floors redesigned: both panes zoom to 900% with pan and Fit for exact point placement, plus a Building stack panel showing every level and its alignment state"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.57/Eagleview-Setup-5.57.exe",
-  "sha256": "559a1405bbdc67ea1ee2e6de0fa0481e4a8501c1fc89a8984e864a5410957750",
-  "sizeBytes": 151628411,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.58/Eagleview-Setup-5.58.exe",
+  "sha256": "dcdf1a66a02be7de6c2a2a71e86bddc9910464f0b923bdae77b50ea2c1dfed79",
+  "sizeBytes": 151655921,
   "mandatory": false
 }
