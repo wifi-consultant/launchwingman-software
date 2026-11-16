@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.61",
+  "version": "5.63",
   "major": 5,
-  "minor": 61,
-  "counter": 561,
+  "minor": 63,
+  "counter": 563,
   "date": "16 November 2026",
   "notes": [
-    "Every object now has a Level/Floor dropdown (under its Location field) that follows the page hierarchy, projects heal their levels automatically on open, and each Excel tab's Level column shows the object's own floor",
-    "Identical sheets (the same area drawn per event configuration) now show each other's objects as grey read-only ghosts at the same spot, updating live as you move, add or delete the real object"
+    "The Level/Floor dropdown now sits directly under the Location field in every object editor (it had landed at the bottom of the Access Point and some other editors)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.61/Eagleview-Setup-5.61.exe",
-  "sha256": "4fd35e0c37e9af64574fa8d04fa5541e14bfa102d0d800a9cef4e45593a015b3",
-  "sizeBytes": 151657002,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.63/Eagleview-Setup-5.63.exe",
+  "sha256": "cfdbedeaa55687d2469fc0250aeb1f184a2fa966bc767ed51a270e693e7df437",
+  "sizeBytes": 151680406,
   "mandatory": false
 }
