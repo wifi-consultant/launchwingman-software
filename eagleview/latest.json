@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.63",
+  "version": "5.64",
   "major": 5,
-  "minor": 63,
-  "counter": 563,
+  "minor": 64,
+  "counter": 564,
   "date": "16 November 2026",
   "notes": [
-    "The Level/Floor dropdown now sits directly under the Location field in every object editor (it had landed at the bottom of the Access Point and some other editors)"
+    "AP Placement and Areas now carry a Floor/Level column right where it belongs, and AP Coverage lists every placed access point",
+    "Typing a found object's exact label in the AP's Related fields now creates the relationship even when the marker is far away or on another sheet"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.63/Eagleview-Setup-5.63.exe",
-  "sha256": "cfdbedeaa55687d2469fc0250aeb1f184a2fa966bc767ed51a270e693e7df437",
-  "sizeBytes": 151680406,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.64/Eagleview-Setup-5.64.exe",
+  "sha256": "14c8c0a155c2a157abba097a4bc5df0a480bf444db601be4578cdb71d3382fb0",
+  "sizeBytes": 151679031,
   "mandatory": false
 }
