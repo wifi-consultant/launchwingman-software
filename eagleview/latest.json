@@ -1,18 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.55",
+  "version": "5.56",
   "major": 5,
-  "minor": 55,
-  "counter": 555,
-  "date": "13 November 2026",
+  "minor": 56,
+  "counter": 556,
+  "date": "16 November 2026",
   "notes": [
-    "Points Area: click as many points as you like around a room and close on the first point; the edges follow the plan's lines and an outline that is another shape (a zone around the room) is no longer taken",
-    "New areas fill their Area name and Location from the room labels printed inside them (one room: its name and code; several rooms: each name once and their codes, within 100 characters)",
-    "Switch uplinks can be 10M (RJ45) and 100M (SFP); switch ports can be 10M and 100M"
+    "Auto menu: wall and object detection now types every unique wall with its material colour (drywall yellow) - right-click a wall to set material, thickness and dB for every matching wall, or mark it Not a Wall",
+    "Windows detected on drawings, CAD imports and picture plans",
+    "Edge rulers with the RF Ruler: zoom-exact down to centimeters or inches",
+    "Points Area hugs the wall you clicked",
+    "Every connected rack lists its cable count"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.55/Eagleview-Setup-5.55.exe",
-  "sha256": "26824ec74d178f58e16f862562005e391f2525cb70668791f133e4b629fd5428",
-  "sizeBytes": 151512989,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.56/Eagleview-Setup-5.56.exe",
+  "sha256": "1a08f5d5d098ca2ad072ac8b78072f3e674a40b28f6629f0975ceebd407d7405",
+  "sizeBytes": 151558499,
   "mandatory": false
 }
