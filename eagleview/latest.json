@@ -1,20 +1,22 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.56",
+  "version": "5.57",
   "major": 5,
-  "minor": 56,
-  "counter": 556,
+  "minor": 57,
+  "counter": 557,
   "date": "16 November 2026",
   "notes": [
-    "Auto menu: wall and object detection now types every unique wall with its material colour (drywall yellow) - right-click a wall to set material, thickness and dB for every matching wall, or mark it Not a Wall",
-    "Windows detected on drawings, CAD imports and picture plans",
-    "Edge rulers with the RF Ruler: zoom-exact down to centimeters or inches",
-    "Points Area hugs the wall you clicked",
-    "Every connected rack lists its cable count"
+    "Assign Level: every page knows its floor, read from the sheet itself; set per-level heights",
+    "Align Floors: stack a building's sheets into one frame, risers align them for you",
+    "Riser objects: one cable can run across floors, with the riser length in every total",
+    "Toilets, urinal rows and freight lifts now detected and marked",
+    "Grey walls and compound fences found on sheets that missed them",
+    "Rulers now read from the view corner, switching to cm or inches as you zoom",
+    "Connected objects list vertically, one per line"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.56/Eagleview-Setup-5.56.exe",
-  "sha256": "1a08f5d5d098ca2ad072ac8b78072f3e674a40b28f6629f0975ceebd407d7405",
-  "sizeBytes": 151558499,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.57/Eagleview-Setup-5.57.exe",
+  "sha256": "559a1405bbdc67ea1ee2e6de0fa0481e4a8501c1fc89a8984e864a5410957750",
+  "sizeBytes": 151628411,
   "mandatory": false
 }
