@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.59",
+  "version": "5.60",
   "major": 5,
-  "minor": 59,
-  "counter": 559,
+  "minor": 60,
+  "counter": 560,
   "date": "16 November 2026",
   "notes": [
-    "Every placed object now shows its 3D position (X, Y, Z metres in the building frame), with unaligned sheets framed automatically from the page registration graph",
-    "Align Floors now predicts the matching sheet of the level below or above (you can still pick any page), and draws numbered points on both sheets with step-by-step guidance so point 1 matches point 1"
+    "Align Floors: the mouse wheel now zooms the pane under your cursor and holding the left button drags the view smoothly (a still click places the numbered point)",
+    "Auto Naming now follows the floor: when a rack's level changes, its access points' names re-mint the level token (re-assign a page's level to heal older L0 names)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.59/Eagleview-Setup-5.59.exe",
-  "sha256": "82ffd14810a5962afdb7eda34100ee812007742af68e724fb9d34bd573135af3",
-  "sizeBytes": 151644001,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.60/Eagleview-Setup-5.60.exe",
+  "sha256": "690fb9c7bee897ab4b3aa1f522eb1621735e3a7aaaff5aa7928903a4e82ea5e7",
+  "sizeBytes": 151647217,
   "mandatory": false
 }
