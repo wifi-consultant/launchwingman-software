@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.74",
+  "version": "5.75",
   "major": 5,
-  "minor": 74,
-  "counter": 574,
+  "minor": 75,
+  "counter": 575,
   "date": "17 November 2026",
   "notes": [
-    "The 3D stack now shows real floor heights in metres and feet with Ekahau-style floor types, objects stand as pins with a Names toggle, and the switch viewer shows power capacity, used and free",
-    "Popups now always open on the monitor Eagleview is on"
+    "Auto Cable to a Switch: right-click any object to cable it to the nearest or a chosen switch - the ports dialog opens with the free ports and checks, and the object links at a specific port, feeding the panels and the Excel tabs",
+    "Areas now ghost on structurally identical sister pages, like objects do"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.74/Eagleview-Setup-5.74.exe",
-  "sha256": "d68648376d039ab21b427049b0ccdd46c960f0869d4e0150f4437cc5a70df67b",
-  "sizeBytes": 151750414,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.75/Eagleview-Setup-5.75.exe",
+  "sha256": "bf91bfc46531cc39f391dca87d07eccba74504cd08447d937e7a6f7581d0e7d9",
+  "sizeBytes": 151727970,
   "mandatory": false
 }
