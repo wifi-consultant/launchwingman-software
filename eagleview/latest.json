@@ -1,17 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.89",
+  "version": "5.90",
   "major": 5,
-  "minor": 89,
-  "counter": 589,
+  "minor": 90,
+  "counter": 590,
   "date": "17 November 2026",
   "notes": [
-    "Moving from page to page no longer freezes Eagleview (the identical-sheet check now runs in the background)",
-    "Auto Align also reads each sheet's north arrow to decide which way it is turned"
+    "The 3D Stacked View opens at once; floors fill in without the window freezing",
+    "Maximize button (or F11)",
+    "Drag to orbit, right-drag to pan, wheel zooms toward the cursor, double-click centres, Home resets; buttons glide",
+    "Opening view keeps the floors apart",
+    "Share 3D (HTML) button removed"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.89/Eagleview-Setup-5.89.exe",
-  "sha256": "9addceb814612941ecb1440b560913edb4c29fe602d7c2ec0da3ec1f7a3b6440",
-  "sizeBytes": 153821450,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.90/Eagleview-Setup-5.90.exe",
+  "sha256": "17cef483fb5c549e4cf86299ab937524d58df29e250621b8979863f55854995f",
+  "sizeBytes": 153840630,
   "mandatory": false
 }
