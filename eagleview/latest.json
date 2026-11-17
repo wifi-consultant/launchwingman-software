@@ -1,17 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.80",
+  "version": "5.81",
   "major": 5,
-  "minor": 80,
-  "counter": 580,
+  "minor": 81,
+  "counter": 581,
   "date": "17 November 2026",
   "notes": [
-    "The 3D stack now uses each level's sheet covering the most floor, so objects from every section stand on their floor instead of floating",
-    "Eagleview recognises enlarged section sheets and finds the nearest rack of the same level on another sheet; aligning one sheet now frames its whole linked group"
+    "Sheets & Links: which sheets are in each building's frame, per level",
+    "One-click Align of an unframed sheet against its level's widest framed sheet",
+    "Re-check sheet links retries refused pairs",
+    "Building panel shows N of M sheets in the frame"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.80/Eagleview-Setup-5.80.exe",
-  "sha256": "4c7939e966dc3369d0cde693847d12b80d5258d3855b2433d1540c020c44ea6b",
-  "sizeBytes": 153795277,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.81/Eagleview-Setup-5.81.exe",
+  "sha256": "632b4a6c627d2aafffb0d652a2c18904e0399fb2ab2aaac105945b19acaa81c8",
+  "sizeBytes": 153802289,
   "mandatory": false
 }
