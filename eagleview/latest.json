@@ -1,20 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.86",
+  "version": "5.87",
   "major": 5,
-  "minor": 86,
-  "counter": 586,
+  "minor": 87,
+  "counter": 587,
   "date": "17 November 2026",
   "notes": [
-    "Opening a project now aligns its sheets through the key plans automatically, in the background (Undo takes it back)",
-    "A site key plan also places the other buildings it draws; false automatic sheet links are dropped",
-    "Auto Cable on a sheet without a rack cables to the nearest rack of the same floor on another sheet, counting the metres beyond",
-    "Underground levels understood (-1, UG, sous-sol, sotano, cellar, sub-basement, PLAN - BASEMENT)",
-    "The 3D view never drops an object; key plans no longer printed over the floors"
+    "Stacked View: black background; level titles on solid plates, always readable",
+    "Hovering an object in 3D shows its name, level and sheet, Names on or off",
+    "Building panel scrolls when there are many floors; help text removed"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.86/Eagleview-Setup-5.86.exe",
-  "sha256": "a516f011d829c80c8414484c63a467533312a64734d59115ce10c950ce4b4b5d",
-  "sizeBytes": 153809132,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.87/Eagleview-Setup-5.87.exe",
+  "sha256": "788064ff5c167bf82a20aba5d98470d5677c244cecf5a542fb7838c9da9dcfef",
+  "sizeBytes": 153816987,
   "mandatory": false
 }
