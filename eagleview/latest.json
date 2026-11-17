@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.68",
+  "version": "5.70",
   "major": 5,
-  "minor": 68,
-  "counter": 568,
+  "minor": 70,
+  "counter": 570,
   "date": "17 November 2026",
   "notes": [
-    "The right panel now has Objects, Building and Areas buttons - Objects shows the found and placed lists as before, Building and Areas are ready for their coming views",
-    "The panel reopens on the mode your project was saved in"
+    "Stacked View: the Building panel now opens your aligned floors in 3D - translucent slabs at their true heights, clickable objects, riser shafts, rotate/tilt/zoom",
+    "New projects start with every naming prefix filled in (L, TER, NER, SWI, WAP and the rest)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.68/Eagleview-Setup-5.68.exe",
-  "sha256": "f0cbc1482b0fb9c0dabe536d8c2c1c4d5da8364ac2561e308ca2830ef04bbd04",
-  "sizeBytes": 151735219,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.70/Eagleview-Setup-5.70.exe",
+  "sha256": "c937525cf0a77d8e338b6aec11ccd77bb648fdb7cdb82f4b5051bde3e0d25de2",
+  "sizeBytes": 151767730,
   "mandatory": false
 }
