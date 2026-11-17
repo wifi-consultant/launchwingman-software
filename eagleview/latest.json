@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.81",
+  "version": "5.84",
   "major": 5,
-  "minor": 81,
-  "counter": 581,
+  "minor": 84,
+  "counter": 584,
   "date": "17 November 2026",
   "notes": [
-    "Sheets & Links: which sheets are in each building's frame, per level",
-    "One-click Align of an unframed sheet against its level's widest framed sheet",
-    "Re-check sheet links retries refused pairs",
-    "Building panel shows N of M sheets in the frame"
+    "Stacked View stitches every framed sheet of a level into one floor: no more missing sections",
+    "Key plans become background; detailed sections drawn over them",
+    "Align Floors: this sheet on the left, the sheet it aligns against on the right; pairs may start on either sheet",
+    "Release build no longer depends on gnu.org"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.81/Eagleview-Setup-5.81.exe",
-  "sha256": "632b4a6c627d2aafffb0d652a2c18904e0399fb2ab2aaac105945b19acaa81c8",
-  "sizeBytes": 153802289,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.84/Eagleview-Setup-5.84.exe",
+  "sha256": "f56de88cc426191d627dc42dc5de151af3eeb1f10fa578be8c154b39938fa7f7",
+  "sizeBytes": 153827405,
   "mandatory": false
 }
