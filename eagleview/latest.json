@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.77",
+  "version": "5.78",
   "major": 5,
-  "minor": 77,
-  "counter": 577,
+  "minor": 78,
+  "counter": 578,
   "date": "17 November 2026",
   "notes": [
-    "Automatic areas now stay in their rooms - coloured room boundaries and room fills count as walls, doors are sealed, corners land exactly on the walls and curved walls are followed",
-    "Measured on the Peacock plan: every room found, average match to the true room 72% to 96%"
+    "The 3D Stacked View now shows every object from every sheet of each floor at its true position - one pin per object, on the floor of its own level"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.77/Eagleview-Setup-5.77.exe",
-  "sha256": "ac678cad31f9f9823c9df96281197f109be0d4d7abc81b445ea08cebebc7d795",
-  "sizeBytes": 151781998,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.78/Eagleview-Setup-5.78.exe",
+  "sha256": "0e69c4826022545f9400728a4f4ad50d5d9e2509761ab9b48d43b31541a3bdcf",
+  "sizeBytes": 153792725,
   "mandatory": false
 }
