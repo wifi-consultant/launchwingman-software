@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.78",
+  "version": "5.79",
   "major": 5,
-  "minor": 78,
-  "counter": 578,
+  "minor": 79,
+  "counter": 579,
   "date": "17 November 2026",
   "notes": [
-    "The 3D Stacked View now shows every object from every sheet of each floor at its true position - one pin per object, on the floor of its own level"
+    "Level Audit (Auto menu): find sheets whose assigned level contradicts their own title, and objects placed on sheets of different levels - double-click to jump and fix",
+    "Opening a project now mentions level problems on the status line"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.78/Eagleview-Setup-5.78.exe",
-  "sha256": "0e69c4826022545f9400728a4f4ad50d5d9e2509761ab9b48d43b31541a3bdcf",
-  "sizeBytes": 153792725,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.79/Eagleview-Setup-5.79.exe",
+  "sha256": "948615fdb6d77941c7230ffb522033d841670ce9cb9f95a955bca3a28849a794",
+  "sizeBytes": 153772926,
   "mandatory": false
 }
