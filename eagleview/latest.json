@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.66",
+  "version": "5.67",
   "major": 5,
-  "minor": 66,
-  "counter": 566,
-  "date": "16 November 2026",
+  "minor": 67,
+  "counter": 567,
+  "date": "17 November 2026",
   "notes": [
-    "Floor levels now read correctly from far more title conventions (including German, Spanish, French and Italian sheets), from CAD imports, and from scanned pages via OCR",
-    "Object detection, the obstacle grid, riser math and floor-frame alignment are all measurably more precise - groundwork for the coming 3D floor views"
+    "Align Floors point verdicts: matching points turn green with a checkmark, mismatches red, 4 points required, floors-aligned confirmation",
+    "Objects on aligned floors see racks on other levels with the full priced run (across + riser); Auto Cable entry names the nearest cross-level rack"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.66/Eagleview-Setup-5.66.exe",
-  "sha256": "81e575f363fb835f764e1357825b86339ed014f10c95b0010a883e5ecd50a521",
-  "sizeBytes": 151669414,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.67/Eagleview-Setup-5.67.exe",
+  "sha256": "d39dec2a4b36109b2b083472365ceefca0d25b801980f1e953acb0e738fccdbe",
+  "sizeBytes": 151689272,
   "mandatory": false
 }
