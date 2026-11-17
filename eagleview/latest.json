@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.71",
+  "version": "5.72",
   "major": 5,
-  "minor": 71,
-  "counter": 571,
+  "minor": 72,
+  "counter": 572,
   "date": "17 November 2026",
   "notes": [
-    "The 3D Stacked View now reads like an exploded model - floors spread apart on light decks, free mouse orbit (drag turns, Ctrl/Shift+wheel tilt and rotate), always opens fitted",
-    "Share 3D (HTML): save the stack as one offline page with true free orbit - send it to a client, opens in any browser"
+    "Switches now show their back panel - the blue rear with Power Supply 1 and 2 as fitted - and every switch gets its own Excel tab with the live front panel, back panel and full port table",
+    "The Building panel stacks your floors as cards, top floor first - click one to open that sheet"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.71/Eagleview-Setup-5.71.exe",
-  "sha256": "df03daee71e7b41aacd3cf1e0bb6e2fca62bd7731b9304c2b7c40049e8527e0e",
-  "sizeBytes": 151742628,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.72/Eagleview-Setup-5.72.exe",
+  "sha256": "5f1841e240f06237fbd81b99f81b020d7c6b301971b7baa62e575b9444f19391",
+  "sizeBytes": 151744650,
   "mandatory": false
 }
