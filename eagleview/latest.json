@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.70",
+  "version": "5.71",
   "major": 5,
-  "minor": 70,
-  "counter": 570,
+  "minor": 71,
+  "counter": 571,
   "date": "17 November 2026",
   "notes": [
-    "Stacked View: the Building panel now opens your aligned floors in 3D - translucent slabs at their true heights, clickable objects, riser shafts, rotate/tilt/zoom",
-    "New projects start with every naming prefix filled in (L, TER, NER, SWI, WAP and the rest)"
+    "The 3D Stacked View now reads like an exploded model - floors spread apart on light decks, free mouse orbit (drag turns, Ctrl/Shift+wheel tilt and rotate), always opens fitted",
+    "Share 3D (HTML): save the stack as one offline page with true free orbit - send it to a client, opens in any browser"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.70/Eagleview-Setup-5.70.exe",
-  "sha256": "c937525cf0a77d8e338b6aec11ccd77bb648fdb7cdb82f4b5051bde3e0d25de2",
-  "sizeBytes": 151767730,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.71/Eagleview-Setup-5.71.exe",
+  "sha256": "df03daee71e7b41aacd3cf1e0bb6e2fca62bd7731b9304c2b7c40049e8527e0e",
+  "sizeBytes": 151742628,
   "mandatory": false
 }
