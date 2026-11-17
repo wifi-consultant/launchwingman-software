@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.79",
+  "version": "5.80",
   "major": 5,
-  "minor": 79,
-  "counter": 579,
+  "minor": 80,
+  "counter": 580,
   "date": "17 November 2026",
   "notes": [
-    "Level Audit (Auto menu): find sheets whose assigned level contradicts their own title, and objects placed on sheets of different levels - double-click to jump and fix",
-    "Opening a project now mentions level problems on the status line"
+    "The 3D stack now uses each level's sheet covering the most floor, so objects from every section stand on their floor instead of floating",
+    "Eagleview recognises enlarged section sheets and finds the nearest rack of the same level on another sheet; aligning one sheet now frames its whole linked group"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.79/Eagleview-Setup-5.79.exe",
-  "sha256": "948615fdb6d77941c7230ffb522033d841670ce9cb9f95a955bca3a28849a794",
-  "sizeBytes": 153772926,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.80/Eagleview-Setup-5.80.exe",
+  "sha256": "4c7939e966dc3369d0cde693847d12b80d5258d3855b2433d1540c020c44ea6b",
+  "sizeBytes": 153795277,
   "mandatory": false
 }
