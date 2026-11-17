@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.88",
+  "version": "5.89",
   "major": 5,
-  "minor": 88,
-  "counter": 588,
+  "minor": 89,
+  "counter": 589,
   "date": "17 November 2026",
   "notes": [
-    "Cables to a rack on another sheet of the same floor now name that rack and its sheet in the Detailed View and the Excel tabs",
-    "They stop on the sheet's matchline (the tile edge) instead of running into the title strip"
+    "Moving from page to page no longer freezes Eagleview (the identical-sheet check now runs in the background)",
+    "Auto Align also reads each sheet's north arrow to decide which way it is turned"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.88/Eagleview-Setup-5.88.exe",
-  "sha256": "60d4e563200271f630abe938637dcb86b442353f9157e2df037416a93555d781",
-  "sizeBytes": 153879739,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.89/Eagleview-Setup-5.89.exe",
+  "sha256": "9addceb814612941ecb1440b560913edb4c29fe602d7c2ec0da3ec1f7a3b6440",
+  "sizeBytes": 153821450,
   "mandatory": false
 }
