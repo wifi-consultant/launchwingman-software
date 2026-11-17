@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.75",
+  "version": "5.76",
   "major": 5,
-  "minor": 75,
-  "counter": 575,
+  "minor": 76,
+  "counter": 576,
   "date": "17 November 2026",
   "notes": [
-    "Auto Cable to a Switch: right-click any object to cable it to the nearest or a chosen switch - the ports dialog opens with the free ports and checks, and the object links at a specific port, feeding the panels and the Excel tabs",
-    "Areas now ghost on structurally identical sister pages, like objects do"
+    "Auto Cable now re-checks its choices when a page's map is rebuilt - stale cables are flagged with a one-click re-route",
+    "Flag found objects red or blue with a color bar beside the yellow and green row logic"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.75/Eagleview-Setup-5.75.exe",
-  "sha256": "bf91bfc46531cc39f391dca87d07eccba74504cd08447d937e7a6f7581d0e7d9",
-  "sizeBytes": 151727970,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.76/Eagleview-Setup-5.76.exe",
+  "sha256": "813bacbd96014b2ae8cb070d9f2daa7fc7a8bc4084803a1cef17693679807681",
+  "sizeBytes": 151766202,
   "mandatory": false
 }
