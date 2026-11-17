@@ -1,18 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.87",
+  "version": "5.88",
   "major": 5,
-  "minor": 87,
-  "counter": 587,
+  "minor": 88,
+  "counter": 588,
   "date": "17 November 2026",
   "notes": [
-    "Stacked View: black background; level titles on solid plates, always readable",
-    "Hovering an object in 3D shows its name, level and sheet, Names on or off",
-    "Building panel scrolls when there are many floors; help text removed"
+    "Cables to a rack on another sheet of the same floor now name that rack and its sheet in the Detailed View and the Excel tabs",
+    "They stop on the sheet's matchline (the tile edge) instead of running into the title strip"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.87/Eagleview-Setup-5.87.exe",
-  "sha256": "788064ff5c167bf82a20aba5d98470d5677c244cecf5a542fb7838c9da9dcfef",
-  "sizeBytes": 153816987,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.88/Eagleview-Setup-5.88.exe",
+  "sha256": "60d4e563200271f630abe938637dcb86b442353f9157e2df037416a93555d781",
+  "sizeBytes": 153879739,
   "mandatory": false
 }
