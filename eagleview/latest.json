@@ -1,19 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.85",
+  "version": "5.86",
   "major": 5,
-  "minor": 85,
-  "counter": 585,
+  "minor": 86,
+  "counter": 586,
   "date": "17 November 2026",
   "notes": [
-    "Auto Align (Auto menu, or Sheets & Links): every sheet placed into the building automatically through the book's key plan",
-    "Each sheet found by its key-plan tile, checked by the sheets' scales, turned by the neighbour sheet numbers on its matchlines",
-    "Sheets you aligned yourself are kept; one Undo takes the run back",
-    "The summary names any sheet left over and why"
+    "Opening a project now aligns its sheets through the key plans automatically, in the background (Undo takes it back)",
+    "A site key plan also places the other buildings it draws; false automatic sheet links are dropped",
+    "Auto Cable on a sheet without a rack cables to the nearest rack of the same floor on another sheet, counting the metres beyond",
+    "Underground levels understood (-1, UG, sous-sol, sotano, cellar, sub-basement, PLAN - BASEMENT)",
+    "The 3D view never drops an object; key plans no longer printed over the floors"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.85/Eagleview-Setup-5.85.exe",
-  "sha256": "11a34f31f0ead5352d86944f5fc014b833add470f24c1b0db81e5cefdc22f0dd",
-  "sizeBytes": 153819396,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.86/Eagleview-Setup-5.86.exe",
+  "sha256": "a516f011d829c80c8414484c63a467533312a64734d59115ce10c950ce4b4b5d",
+  "sizeBytes": 153809132,
   "mandatory": false
 }
