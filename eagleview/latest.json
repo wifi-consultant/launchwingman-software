@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.67",
+  "version": "5.68",
   "major": 5,
-  "minor": 67,
-  "counter": 567,
+  "minor": 68,
+  "counter": 568,
   "date": "17 November 2026",
   "notes": [
-    "Align Floors point verdicts: matching points turn green with a checkmark, mismatches red, 4 points required, floors-aligned confirmation",
-    "Objects on aligned floors see racks on other levels with the full priced run (across + riser); Auto Cable entry names the nearest cross-level rack"
+    "The right panel now has Objects, Building and Areas buttons - Objects shows the found and placed lists as before, Building and Areas are ready for their coming views",
+    "The panel reopens on the mode your project was saved in"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.67/Eagleview-Setup-5.67.exe",
-  "sha256": "d39dec2a4b36109b2b083472365ceefca0d25b801980f1e953acb0e738fccdbe",
-  "sizeBytes": 151689272,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.68/Eagleview-Setup-5.68.exe",
+  "sha256": "f0cbc1482b0fb9c0dabe536d8c2c1c4d5da8364ac2561e308ca2830ef04bbd04",
+  "sizeBytes": 151735219,
   "mandatory": false
 }
