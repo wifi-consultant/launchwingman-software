@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.76",
+  "version": "5.77",
   "major": 5,
-  "minor": 76,
-  "counter": 576,
+  "minor": 77,
+  "counter": 577,
   "date": "17 November 2026",
   "notes": [
-    "Auto Cable now re-checks its choices when a page's map is rebuilt - stale cables are flagged with a one-click re-route",
-    "Flag found objects red or blue with a color bar beside the yellow and green row logic"
+    "Automatic areas now stay in their rooms - coloured room boundaries and room fills count as walls, doors are sealed, corners land exactly on the walls and curved walls are followed",
+    "Measured on the Peacock plan: every room found, average match to the true room 72% to 96%"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.76/Eagleview-Setup-5.76.exe",
-  "sha256": "813bacbd96014b2ae8cb070d9f2daa7fc7a8bc4084803a1cef17693679807681",
-  "sizeBytes": 151766202,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.77/Eagleview-Setup-5.77.exe",
+  "sha256": "ac678cad31f9f9823c9df96281197f109be0d4d7abc81b445ea08cebebc7d795",
+  "sizeBytes": 151781998,
   "mandatory": false
 }
