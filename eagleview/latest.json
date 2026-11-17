@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.73",
+  "version": "5.74",
   "major": 5,
-  "minor": 73,
-  "counter": 573,
+  "minor": 74,
+  "counter": 574,
   "date": "17 November 2026",
   "notes": [
-    "Right-click a rack for View Detailed Rack Layout, or a switch for View Switch Front/Back Panels - the live panels and used-port count in one look"
+    "The 3D stack now shows real floor heights in metres and feet with Ekahau-style floor types, objects stand as pins with a Names toggle, and the switch viewer shows power capacity, used and free",
+    "Popups now always open on the monitor Eagleview is on"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.73/Eagleview-Setup-5.73.exe",
-  "sha256": "f07a8733c8025a781a8fcb92cfe1d1ec5d8f0274be54e19a340725ea0b241a8c",
-  "sizeBytes": 151750795,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.74/Eagleview-Setup-5.74.exe",
+  "sha256": "d68648376d039ab21b427049b0ccdd46c960f0869d4e0150f4437cc5a70df67b",
+  "sizeBytes": 151750414,
   "mandatory": false
 }
