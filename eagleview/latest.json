@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.84",
+  "version": "5.85",
   "major": 5,
-  "minor": 84,
-  "counter": 584,
+  "minor": 85,
+  "counter": 585,
   "date": "17 November 2026",
   "notes": [
-    "Stacked View stitches every framed sheet of a level into one floor: no more missing sections",
-    "Key plans become background; detailed sections drawn over them",
-    "Align Floors: this sheet on the left, the sheet it aligns against on the right; pairs may start on either sheet",
-    "Release build no longer depends on gnu.org"
+    "Auto Align (Auto menu, or Sheets & Links): every sheet placed into the building automatically through the book's key plan",
+    "Each sheet found by its key-plan tile, checked by the sheets' scales, turned by the neighbour sheet numbers on its matchlines",
+    "Sheets you aligned yourself are kept; one Undo takes the run back",
+    "The summary names any sheet left over and why"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.84/Eagleview-Setup-5.84.exe",
-  "sha256": "f56de88cc426191d627dc42dc5de151af3eeb1f10fa578be8c154b39938fa7f7",
-  "sizeBytes": 153827405,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.85/Eagleview-Setup-5.85.exe",
+  "sha256": "11a34f31f0ead5352d86944f5fc014b833add470f24c1b0db81e5cefdc22f0dd",
+  "sizeBytes": 153819396,
   "mandatory": false
 }
