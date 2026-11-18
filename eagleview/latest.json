@@ -1,19 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.95",
+  "version": "5.96",
   "major": 5,
-  "minor": 95,
-  "counter": 595,
+  "minor": 96,
+  "counter": 596,
   "date": "18 November 2026",
   "notes": [
-    "Your Wingman administrator can now put your access on hold or end it; Eagleview always saves your project first, then tells you",
-    "Eagleview opens normally again as soon as access is back",
-    "Address and coordinate lookups go through Wingman (your administrator enables Maps for your account)",
-    "The sign-in window explains what Wingman records for licence control"
+    "Level/Floor fields take up to 3 characters; existing values are kept",
+    "The button shows the assigned level, for example Level 3 Assigned!",
+    "Levels read Level/Floor everywhere, including the 3D view",
+    "Rack level fix: racks on B1 or named levels are no longer saved as L1",
+    "3D view: Show Object Names and Show Cables, including cables that run between floors",
+    "3D switch buttons turn green while on"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.95/Eagleview-Setup-5.95.exe",
-  "sha256": "e59f5c3f1151439335ebec5e611d844363f60f6e3a811f0f24d5fa23e23a326d",
-  "sizeBytes": 153979208,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.96/Eagleview-Setup-5.96.exe",
+  "sha256": "25633283c24344bb5175ed6fd6fc7e8c9b7f541333c04b748a5d0d9b4c7bfa4f",
+  "sizeBytes": 153949333,
   "mandatory": false
 }
