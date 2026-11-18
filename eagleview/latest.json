@@ -1,18 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.01",
+  "version": "6.02",
   "major": 6,
-  "minor": 1,
-  "counter": 601,
+  "minor": 2,
+  "counter": 602,
   "date": "18 November 2026",
   "notes": [
-    "Sharper 3D walls on picture plans: they follow the drawing to a few centimetres, with outlined tops",
-    "Legend panels are never drawn as walls",
-    "Plain, simpler icons on the 3D gesture bar"
+    "Fixed: the 3D Heights... and objects error in the installed 6.00-6.01 (a data file was missing from the installer)",
+    "Sharper 3D walls on drawings",
+    "PDF Layers export and Access Point windows laid out in columns",
+    "Smoother 3D while walls are still loading"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.01/Eagleview-Setup-6.01.exe",
-  "sha256": "423ee60221d6c671cff2f080bfa2042bcff1cc905cac36a945a561d8aec8e669",
-  "sizeBytes": 154103981,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.02/Eagleview-Setup-6.02.exe",
+  "sha256": "b61394dd9e69a596c0d3ffa3c3bb49467c1d0617db27ea51f159281a8613f652",
+  "sizeBytes": 154067350,
   "mandatory": false
 }
