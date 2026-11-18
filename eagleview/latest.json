@@ -1,17 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.91",
+  "version": "5.92",
   "major": 5,
-  "minor": 91,
-  "counter": 591,
-  "date": "17 November 2026",
+  "minor": 92,
+  "counter": 592,
+  "date": "18 November 2026",
   "notes": [
-    "Opening a project no longer makes Eagleview stop responding: the sheets' levels are read in the background and saved with the project, so later opens read nothing",
-    "The Building panel's floor thumbnails fill in without blocking the window"
+    "3D view never stops responding: the hover loop that froze the window is gone, floors and floor pictures are prepared in the background",
+    "A click on a 3D marker opens its sheet; a drag that starts on a marker turns the stack",
+    "View menu: Display All Labels, Do Not Display All Labels, Display All Names, Do Not Display All Names",
+    "3D buttons centred on top, gesture bar centred at the bottom with Eagleview icons"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.91/Eagleview-Setup-5.91.exe",
-  "sha256": "204671bc61d8edd029658d67c6257f83071d4741f7489f5f4bc2bae5ba7ce5cd",
-  "sizeBytes": 153884917,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.92/Eagleview-Setup-5.92.exe",
+  "sha256": "053a00216a2714c180f5f3cdacdd917e05727943a03b4229435ffc6547ad789f",
+  "sizeBytes": 153873281,
   "mandatory": false
 }
