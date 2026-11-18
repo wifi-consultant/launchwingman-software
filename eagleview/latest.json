@@ -1,20 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.94",
+  "version": "5.95",
   "major": 5,
-  "minor": 94,
-  "counter": 594,
+  "minor": 95,
+  "counter": 595,
   "date": "18 November 2026",
   "notes": [
-    "Object connectivity: every networked object (Access Point, IP Telephone, Printer, TV, IP Camera, Access Controller, UPS) has the same Network section: Interface, Port speed and Connected to",
-    "Access Points: 1G, 2.5G, 5G or 10G; every object defaults to Ethernet RJ45 at Gigabit (1G)",
-    "Connected to names the switch port and warns about speed or copper / fiber mismatches",
-    "Printer, TV and IP Camera: Wired or Wireless; the cable fields show only when Wired",
-    "Excel adds Interface and Port Speed columns"
+    "Your Wingman administrator can now put your access on hold or end it; Eagleview always saves your project first, then tells you",
+    "Eagleview opens normally again as soon as access is back",
+    "Address and coordinate lookups go through Wingman (your administrator enables Maps for your account)",
+    "The sign-in window explains what Wingman records for licence control"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.94/Eagleview-Setup-5.94.exe",
-  "sha256": "c20a502c53291c355f62481449728998468167cc1cd7223392bcb6524bc6213e",
-  "sizeBytes": 153948293,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.95/Eagleview-Setup-5.95.exe",
+  "sha256": "e59f5c3f1151439335ebec5e611d844363f60f6e3a811f0f24d5fa23e23a326d",
+  "sizeBytes": 153979208,
   "mandatory": false
 }
