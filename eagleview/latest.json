@@ -1,20 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.97",
-  "major": 5,
-  "minor": 97,
-  "counter": 597,
+  "version": "6.00",
+  "major": 6,
+  "minor": 0,
+  "counter": 600,
   "date": "18 November 2026",
   "notes": [
-    "Walls have an Upper and a Lower edge height, in your project's unit (m or ft)",
-    "Leave the Upper edge empty to follow the floor's height",
-    "Windows and doors can keep the wall above and below them",
-    "3D view: Show Walls stands every wall, window and door up at its height, like Hamina",
-    "Walls of sheets without a wall map are read in the background; the 3D view stays smooth at every zoom"
+    "One site: buildings that share a key plan show together in the 3D view, their shared floor at one height",
+    "3D objects: furniture, seats, cabins, tents, trucks and vehicles stand at their heights (Heights...)",
+    "Tribunes step up row by row; stairs climb from their UP / DN label; lift shafts run through the floors",
+    "Below grade: hatched ground is solid ground, walls against it are retaining walls, tunnels are named",
+    "Risers labelled with their cable count and rack",
+    "Preferences in two columns; Access Points tab shows Related Objects Found after Placements"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.97/Eagleview-Setup-5.97.exe",
-  "sha256": "91c4df4c63c55f89cad38d0c688eeb631dd64381f05841661715b582febcf50a",
-  "sizeBytes": 154047878,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.00/Eagleview-Setup-6.00.exe",
+  "sha256": "97ca7d6c8e3bd3334ea2cb7d2702739684718e59a2911fd631efa82c84e17230",
+  "sizeBytes": 154053165,
   "mandatory": false
 }
