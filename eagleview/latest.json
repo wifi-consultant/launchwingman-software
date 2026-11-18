@@ -1,21 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.96",
+  "version": "5.97",
   "major": 5,
-  "minor": 96,
-  "counter": 596,
+  "minor": 97,
+  "counter": 597,
   "date": "18 November 2026",
   "notes": [
-    "Level/Floor fields take up to 3 characters; existing values are kept",
-    "The button shows the assigned level, for example Level 3 Assigned!",
-    "Levels read Level/Floor everywhere, including the 3D view",
-    "Rack level fix: racks on B1 or named levels are no longer saved as L1",
-    "3D view: Show Object Names and Show Cables, including cables that run between floors",
-    "3D switch buttons turn green while on"
+    "Walls have an Upper and a Lower edge height, in your project's unit (m or ft)",
+    "Leave the Upper edge empty to follow the floor's height",
+    "Windows and doors can keep the wall above and below them",
+    "3D view: Show Walls stands every wall, window and door up at its height, like Hamina",
+    "Walls of sheets without a wall map are read in the background; the 3D view stays smooth at every zoom"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.96/Eagleview-Setup-5.96.exe",
-  "sha256": "25633283c24344bb5175ed6fd6fc7e8c9b7f541333c04b748a5d0d9b4c7bfa4f",
-  "sizeBytes": 153949333,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.97/Eagleview-Setup-5.97.exe",
+  "sha256": "91c4df4c63c55f89cad38d0c688eeb631dd64381f05841661715b582febcf50a",
+  "sizeBytes": 154047878,
   "mandatory": false
 }
