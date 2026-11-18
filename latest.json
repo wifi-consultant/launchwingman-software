@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.00811.111226",
-  "counter": 811,
+  "version": "1.00814.111826",
+  "counter": 814,
   "major": 1,
-  "date": "12 November 2026",
+  "date": "18 November 2026",
   "notes": [
-    "The page after a Google or Apple sign-in has a new look.",
-    "The Workbooks menu is removed."
+    "Your Wingman administrator can now put your access on hold or end it; Wingman always saves your work first",
+    "Address lookups now use Mapbox (when your administrator enables Maps for your account)",
+    "Sign-in screen: Wingman records this computer's name, network adapter (MAC) address, app version and when the app is in use, for licence control"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00811.111226/Wingman-Setup-1.00811.111226.exe",
-  "sha256": "d484122ef615058081df3d24f3a771fe6e2898a05ea05b78c0b7d411a37db8a3",
-  "sizeBytes": 302788644,
+  "installerUrl": "https://github.com/wifi-consultant/wingman-downloads/releases/download/v1.00814.111826/Wingman-Setup-1.00814.111826.exe",
+  "sha256": "16ff9bf6b966be0fc2f1cb48f3ca7c372a160e669dfab23c9ac889e011e7a7ef",
+  "sizeBytes": 302788684,
   "mandatory": false
 }
