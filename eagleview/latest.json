@@ -1,21 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.00",
+  "version": "6.01",
   "major": 6,
-  "minor": 0,
-  "counter": 600,
+  "minor": 1,
+  "counter": 601,
   "date": "18 November 2026",
   "notes": [
-    "One site: buildings that share a key plan show together in the 3D view, their shared floor at one height",
-    "3D objects: furniture, seats, cabins, tents, trucks and vehicles stand at their heights (Heights...)",
-    "Tribunes step up row by row; stairs climb from their UP / DN label; lift shafts run through the floors",
-    "Below grade: hatched ground is solid ground, walls against it are retaining walls, tunnels are named",
-    "Risers labelled with their cable count and rack",
-    "Preferences in two columns; Access Points tab shows Related Objects Found after Placements"
+    "Sharper 3D walls on picture plans: they follow the drawing to a few centimetres, with outlined tops",
+    "Legend panels are never drawn as walls",
+    "Plain, simpler icons on the 3D gesture bar"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.00/Eagleview-Setup-6.00.exe",
-  "sha256": "97ca7d6c8e3bd3334ea2cb7d2702739684718e59a2911fd631efa82c84e17230",
-  "sizeBytes": 154053165,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.01/Eagleview-Setup-6.01.exe",
+  "sha256": "423ee60221d6c671cff2f080bfa2042bcff1cc905cac36a945a561d8aec8e669",
+  "sizeBytes": 154103981,
   "mandatory": false
 }
