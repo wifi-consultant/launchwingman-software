@@ -1,20 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.93",
+  "version": "5.94",
   "major": 5,
-  "minor": 93,
-  "counter": 593,
+  "minor": 94,
+  "counter": 594,
   "date": "18 November 2026",
   "notes": [
-    "Buildings: a Building selector at the top of the Building panel; add, rename and delete buildings (a deleted building's sheets move to the one you choose, Undo brings it back)",
-    "Assign Level picks the sheet's building from the list",
-    "Site and building locations by address or coordinates, with altitude and a map",
-    "Building 1 follows the location in Preferences",
-    "Excel adds a Building column for projects with two or more buildings"
+    "Object connectivity: every networked object (Access Point, IP Telephone, Printer, TV, IP Camera, Access Controller, UPS) has the same Network section: Interface, Port speed and Connected to",
+    "Access Points: 1G, 2.5G, 5G or 10G; every object defaults to Ethernet RJ45 at Gigabit (1G)",
+    "Connected to names the switch port and warns about speed or copper / fiber mismatches",
+    "Printer, TV and IP Camera: Wired or Wireless; the cable fields show only when Wired",
+    "Excel adds Interface and Port Speed columns"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.93/Eagleview-Setup-5.93.exe",
-  "sha256": "d295a89e9e187548788407142dabc2bd031135b9a0e5f6e4ccfd09e9e070113b",
-  "sizeBytes": 154001512,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.94/Eagleview-Setup-5.94.exe",
+  "sha256": "c20a502c53291c355f62481449728998468167cc1cd7223392bcb6524bc6213e",
+  "sizeBytes": 153948293,
   "mandatory": false
 }
