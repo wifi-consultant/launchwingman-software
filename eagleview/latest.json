@@ -1,19 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "5.92",
+  "version": "5.93",
   "major": 5,
-  "minor": 92,
-  "counter": 592,
+  "minor": 93,
+  "counter": 593,
   "date": "18 November 2026",
   "notes": [
-    "3D view never stops responding: the hover loop that froze the window is gone, floors and floor pictures are prepared in the background",
-    "A click on a 3D marker opens its sheet; a drag that starts on a marker turns the stack",
-    "View menu: Display All Labels, Do Not Display All Labels, Display All Names, Do Not Display All Names",
-    "3D buttons centred on top, gesture bar centred at the bottom with Eagleview icons"
+    "Buildings: a Building selector at the top of the Building panel; add, rename and delete buildings (a deleted building's sheets move to the one you choose, Undo brings it back)",
+    "Assign Level picks the sheet's building from the list",
+    "Site and building locations by address or coordinates, with altitude and a map",
+    "Building 1 follows the location in Preferences",
+    "Excel adds a Building column for projects with two or more buildings"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.92/Eagleview-Setup-5.92.exe",
-  "sha256": "053a00216a2714c180f5f3cdacdd917e05727943a03b4229435ffc6547ad789f",
-  "sizeBytes": 153873281,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v5.93/Eagleview-Setup-5.93.exe",
+  "sha256": "d295a89e9e187548788407142dabc2bd031135b9a0e5f6e4ccfd09e9e070113b",
+  "sizeBytes": 154001512,
   "mandatory": false
 }
