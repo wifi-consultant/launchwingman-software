@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.11",
+  "version": "6.12",
   "major": 6,
-  "minor": 11,
-  "counter": 611,
+  "minor": 12,
+  "counter": 612,
   "date": "19 November 2026",
   "notes": [
-    "Eagleview no longer uses most of the computer's memory while it prepares the 3D view",
-    "Reopening a project shows the 3D floors at once instead of drawing them again"
+    "The automatic satellite match is applied only at the project's address and only on a real building outline"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.11/Eagleview-Setup-6.11.exe",
-  "sha256": "1daf59ce3b928f80daa6f477559c39da79b221a4458aec0e543c20161afb484e",
-  "sizeBytes": 155213172,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.12/Eagleview-Setup-6.12.exe",
+  "sha256": "7d7620b9e469744e175c40280208096f67595cfac80c2b7be9fe21d262ed8acf",
+  "sizeBytes": 155177626,
   "mandatory": false
 }
