@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.12",
+  "version": "6.13",
   "major": 6,
-  "minor": 12,
-  "counter": 612,
+  "minor": 13,
+  "counter": 613,
   "date": "19 November 2026",
   "notes": [
-    "The automatic satellite match is applied only at the project's address and only on a real building outline"
+    "New Router and Firewall objects with interface groups, vendor interface names, front and back panels and port connections like the Network Switch"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.12/Eagleview-Setup-6.12.exe",
-  "sha256": "7d7620b9e469744e175c40280208096f67595cfac80c2b7be9fe21d262ed8acf",
-  "sizeBytes": 155177626,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.13/Eagleview-Setup-6.13.exe",
+  "sha256": "5d6cdb763ec966e28c7b3da0c3dc6ce08eb6d283a9eb983a26e8f7ed161ef50c",
+  "sizeBytes": 155246900,
   "mandatory": false
 }
