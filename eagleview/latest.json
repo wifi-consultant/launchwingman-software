@@ -1,19 +1,22 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.05",
+  "version": "6.06",
   "major": 6,
-  "minor": 5,
-  "counter": 605,
+  "minor": 6,
+  "counter": 606,
   "date": "19 November 2026",
   "notes": [
-    "New Network Switch Roster: keep your switch models once, pick one when you drop a switch (or enter it by hand)",
-    "Editing a roster switch updates every switch that uses it; the Excel export shows the roster switch and a roster tab",
-    "Key plans drawn loosely are now read, so more sheets line up and Auto Cable reaches racks on neighbouring sheets",
-    "The 3D window's engaged Maximize button now reads Minimize"
+    "3D desks, workstations, cubicles and chairs now look like furniture, in their own colours",
+    "Every lift becomes a shaft through the floors, even when the floors' scales differ a little",
+    "A picture plan's legend frame no longer stands up as walls in 3D",
+    "A cable drawn onto an object's icon now connects to it, and a switch end asks its port",
+    "Objects can have up to four network interfaces; a cable asks which one and shows the link speed",
+    "The switch screen shows its front and back panels at the top right",
+    "Match to Satellite: rotate, zoom and move the plan and the satellite; North up"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.05/Eagleview-Setup-6.05.exe",
-  "sha256": "f9568ea530981ed3ba4ce2840ff1f9a9f5d3e23aa0153b224231e2e4211b93c3",
-  "sizeBytes": 155125670,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.06/Eagleview-Setup-6.06.exe",
+  "sha256": "d30a194497a00a8d2fa3bb37e9c7f56bbf3a9fd17db79f5db5669a9c6448c2c2",
+  "sizeBytes": 155158500,
   "mandatory": false
 }
