@@ -1,21 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.04",
+  "version": "6.05",
   "major": 6,
-  "minor": 4,
-  "counter": 604,
+  "minor": 5,
+  "counter": 605,
   "date": "19 November 2026",
   "notes": [
-    "3D walls and objects read in the background and kept on the computer: the 3D view opens ready",
-    "View titles and grid bubbles are no longer taken for walls",
-    "Match to Satellite: checks a plan's scale and gives every object latitude, longitude and altitude",
-    "Rulers always on, live position readout at the bottom right (click to copy)",
-    "Map pictures kept on the computer",
-    "Rack Roster beside the naming prefixes, Network Switch screen in two columns"
+    "New Network Switch Roster: keep your switch models once, pick one when you drop a switch (or enter it by hand)",
+    "Editing a roster switch updates every switch that uses it; the Excel export shows the roster switch and a roster tab",
+    "Key plans drawn loosely are now read, so more sheets line up and Auto Cable reaches racks on neighbouring sheets",
+    "The 3D window's engaged Maximize button now reads Minimize"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.04/Eagleview-Setup-6.04.exe",
-  "sha256": "212080860b73ba4998109fc244964a6a0bb63ce9163ca4bebe73ed6c99b3f611",
-  "sizeBytes": 155073496,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.05/Eagleview-Setup-6.05.exe",
+  "sha256": "f9568ea530981ed3ba4ce2840ff1f9a9f5d3e23aa0153b224231e2e4211b93c3",
+  "sizeBytes": 155125670,
   "mandatory": false
 }
