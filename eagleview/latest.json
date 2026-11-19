@@ -1,21 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.03",
+  "version": "6.04",
   "major": 6,
-  "minor": 3,
-  "counter": 603,
+  "minor": 4,
+  "counter": 604,
   "date": "19 November 2026",
   "notes": [
-    "3D view drawn on the graphics card: five to six times faster on big stacks, crossing walls drawn right, sharp drawings when you zoom in",
-    "Barriers, camera and photographer positions, speakers, poles, trees, booths and more now stand up in 3D",
-    "Satellite view beside the street map in Project preferences",
-    "Auto Cable picks the nearer rack when the walls in the way are ones its cables already pass",
-    "Stadium sheets with a field of play get their wall map and Auto Cable back (broken since 5.98)",
-    "3D background work never slows the window"
+    "3D walls and objects read in the background and kept on the computer: the 3D view opens ready",
+    "View titles and grid bubbles are no longer taken for walls",
+    "Match to Satellite: checks a plan's scale and gives every object latitude, longitude and altitude",
+    "Rulers always on, live position readout at the bottom right (click to copy)",
+    "Map pictures kept on the computer",
+    "Rack Roster beside the naming prefixes, Network Switch screen in two columns"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.03/Eagleview-Setup-6.03.exe",
-  "sha256": "121be3e5283a5951076a05d6cced6f358845f5a0cfff1c1fe0d6c57e72aac0ec",
-  "sizeBytes": 155033286,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.04/Eagleview-Setup-6.04.exe",
+  "sha256": "212080860b73ba4998109fc244964a6a0bb63ce9163ca4bebe73ed6c99b3f611",
+  "sizeBytes": 155073496,
   "mandatory": false
 }
