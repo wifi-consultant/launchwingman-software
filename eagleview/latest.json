@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.10",
+  "version": "6.11",
   "major": 6,
-  "minor": 10,
-  "counter": 610,
+  "minor": 11,
+  "counter": 611,
   "date": "19 November 2026",
   "notes": [
-    "The address is matched to the satellite in the background within seconds, not minutes",
-    "Matched buildings show the satellite ground under them in the 3D view"
+    "Eagleview no longer uses most of the computer's memory while it prepares the 3D view",
+    "Reopening a project shows the 3D floors at once instead of drawing them again"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.10/Eagleview-Setup-6.10.exe",
-  "sha256": "f556c0623ec12a41a8196145d20164acca1c82e58e3149b92bd5a05882cd9791",
-  "sizeBytes": 155198343,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.11/Eagleview-Setup-6.11.exe",
+  "sha256": "1daf59ce3b928f80daa6f477559c39da79b221a4458aec0e543c20161afb484e",
+  "sizeBytes": 155213172,
   "mandatory": false
 }
