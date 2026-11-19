@@ -1,16 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.07",
+  "version": "6.09",
   "major": 6,
-  "minor": 7,
-  "counter": 607,
+  "minor": 9,
+  "counter": 609,
   "date": "19 November 2026",
   "notes": [
-    "Match to Satellite: zooming and moving the satellite is instant and never stuck on loading"
+    "On opening, the status line names hand calibrations that disagree with the sheet's printed scale",
+    "Buildings are matched to the satellite automatically when the OpenStreetMap outline fits for certain",
+    "Auto Cable picks the object's interface; the Excel object tabs list every interface",
+    "The 3D view uses the computer's fast graphics card and opens without freezing",
+    "3D walls are read much faster in the background and are kept across updates"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.07/Eagleview-Setup-6.07.exe",
-  "sha256": "fccd751cb068f5337475cab28824d00ee6cfb996ed516fdd8ba8313ae096794c",
-  "sizeBytes": 155157293,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.09/Eagleview-Setup-6.09.exe",
+  "sha256": "9a7607c04fc932f98f4e251e8c547e4a3c8e0950fd503a31fd824516faca3bbb",
+  "sizeBytes": 155238773,
   "mandatory": false
 }
