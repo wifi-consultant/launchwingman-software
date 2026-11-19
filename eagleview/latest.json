@@ -1,19 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.02",
+  "version": "6.03",
   "major": 6,
-  "minor": 2,
-  "counter": 602,
-  "date": "18 November 2026",
+  "minor": 3,
+  "counter": 603,
+  "date": "19 November 2026",
   "notes": [
-    "Fixed: the 3D Heights... and objects error in the installed 6.00-6.01 (a data file was missing from the installer)",
-    "Sharper 3D walls on drawings",
-    "PDF Layers export and Access Point windows laid out in columns",
-    "Smoother 3D while walls are still loading"
+    "3D view drawn on the graphics card: five to six times faster on big stacks, crossing walls drawn right, sharp drawings when you zoom in",
+    "Barriers, camera and photographer positions, speakers, poles, trees, booths and more now stand up in 3D",
+    "Satellite view beside the street map in Project preferences",
+    "Auto Cable picks the nearer rack when the walls in the way are ones its cables already pass",
+    "Stadium sheets with a field of play get their wall map and Auto Cable back (broken since 5.98)",
+    "3D background work never slows the window"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.02/Eagleview-Setup-6.02.exe",
-  "sha256": "b61394dd9e69a596c0d3ffa3c3bb49467c1d0617db27ea51f159281a8613f652",
-  "sizeBytes": 154067350,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.03/Eagleview-Setup-6.03.exe",
+  "sha256": "121be3e5283a5951076a05d6cced6f358845f5a0cfff1c1fe0d6c57e72aac0ec",
+  "sizeBytes": 155033286,
   "mandatory": false
 }
