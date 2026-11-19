@@ -1,22 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.06",
+  "version": "6.07",
   "major": 6,
-  "minor": 6,
-  "counter": 606,
+  "minor": 7,
+  "counter": 607,
   "date": "19 November 2026",
   "notes": [
-    "3D desks, workstations, cubicles and chairs now look like furniture, in their own colours",
-    "Every lift becomes a shaft through the floors, even when the floors' scales differ a little",
-    "A picture plan's legend frame no longer stands up as walls in 3D",
-    "A cable drawn onto an object's icon now connects to it, and a switch end asks its port",
-    "Objects can have up to four network interfaces; a cable asks which one and shows the link speed",
-    "The switch screen shows its front and back panels at the top right",
-    "Match to Satellite: rotate, zoom and move the plan and the satellite; North up"
+    "Match to Satellite: zooming and moving the satellite is instant and never stuck on loading"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.06/Eagleview-Setup-6.06.exe",
-  "sha256": "d30a194497a00a8d2fa3bb37e9c7f56bbf3a9fd17db79f5db5669a9c6448c2c2",
-  "sizeBytes": 155158500,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.07/Eagleview-Setup-6.07.exe",
+  "sha256": "fccd751cb068f5337475cab28824d00ee6cfb996ed516fdd8ba8313ae096794c",
+  "sizeBytes": 155157293,
   "mandatory": false
 }
