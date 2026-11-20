@@ -1,18 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.14",
+  "version": "6.15",
   "major": 6,
-  "minor": 14,
-  "counter": 614,
+  "minor": 15,
+  "counter": 615,
   "date": "20 November 2026",
   "notes": [
-    "Every object now has Related with object 1 and 2, like Access Points: one found marker belongs to one object, with dashed links, the info line and Excel columns",
-    "Access Point, Router, Firewall and UPS Rosters like the Network Switch Roster: pick a model on the object's screen and every field fills in",
-    "Drop an Object lists the objects in ABC order"
+    "New Controller object (wireless LAN controller): SFP and Ethernet interface groups with any vendor's interface names, front and back panels, ports, rack mount, Controller Roster and Excel tabs"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.14/Eagleview-Setup-6.14.exe",
-  "sha256": "4d1620b995fa10e707970e35d9d1b36f0b93817de551cd39cf01ee31bde24907",
-  "sizeBytes": 155271063,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.15/Eagleview-Setup-6.15.exe",
+  "sha256": "1783e16a7b3d567c16a0608e0a4812712bbd61e6f55a2ba120f98d1cb7772f71",
+  "sizeBytes": 155290814,
   "mandatory": false
 }
