@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.16",
+  "version": "6.17",
   "major": 6,
-  "minor": 16,
-  "counter": 616,
+  "minor": 17,
+  "counter": 617,
   "date": "20 November 2026",
   "notes": [
-    "3D: stairs are drawn; stairwells at the same place on consecutive floors climb from slab to slab",
-    "3D: drag a raised floor's corner up or down to bring the floors closer or further apart",
-    "3D: the controls at the bottom stay visible when the window is maximized"
+    "3D reads the drawing's own labels: named golf carts, toilet cabins, light poles, video boards, booths and cabins stand up; sport field markings are no longer walls",
+    "Enlarged sheets join the floor more often: overlapping key-plan tiles and sheets calibrated off-scale are now stitched",
+    "Detailed Rack: the back of every device shows its power supplies (a UPS its outlets), following its settings"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.16/Eagleview-Setup-6.16.exe",
-  "sha256": "bc093ab1309490126d416f8766aabbfd2d2871fcd40b440050df4bc65c9d8ec0",
-  "sizeBytes": 155340269,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.17/Eagleview-Setup-6.17.exe",
+  "sha256": "114311abb85a5c580471d42a68731cdcdfe512fe19f0a921e21d1fef322545b4",
+  "sizeBytes": 155328414,
   "mandatory": false
 }
