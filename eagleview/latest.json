@@ -1,16 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.15",
+  "version": "6.16",
   "major": 6,
-  "minor": 15,
-  "counter": 615,
+  "minor": 16,
+  "counter": 616,
   "date": "20 November 2026",
   "notes": [
-    "New Controller object (wireless LAN controller): SFP and Ethernet interface groups with any vendor's interface names, front and back panels, ports, rack mount, Controller Roster and Excel tabs"
+    "3D: stairs are drawn; stairwells at the same place on consecutive floors climb from slab to slab",
+    "3D: drag a raised floor's corner up or down to bring the floors closer or further apart",
+    "3D: the controls at the bottom stay visible when the window is maximized"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.15/Eagleview-Setup-6.15.exe",
-  "sha256": "1783e16a7b3d567c16a0608e0a4812712bbd61e6f55a2ba120f98d1cb7772f71",
-  "sizeBytes": 155290814,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.16/Eagleview-Setup-6.16.exe",
+  "sha256": "bc093ab1309490126d416f8766aabbfd2d2871fcd40b440050df4bc65c9d8ec0",
+  "sizeBytes": 155340269,
   "mandatory": false
 }
