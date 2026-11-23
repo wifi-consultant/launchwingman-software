@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.21",
+  "version": "6.22",
   "major": 6,
-  "minor": 21,
-  "counter": 621,
+  "minor": 22,
+  "counter": 622,
   "date": "23 November 2026",
   "notes": [
-    "3D opens at once on big venues (the window froze for many seconds before) and uses far less memory",
-    "3D looks better: soft shading where walls meet the floor, smoother edges, sharper drawings at a slant, floors drawn as plates",
-    "Picture-plan projects use about 1 GB less memory; leftover temporary files are cleaned up",
+    "A reopened project shows its 3D view from what was saved, without building it again",
+    "Sporting venues in 3D: nothing stands on a field of play, seating rises in rows, seats take their drawn colours",
+    "3D view works with a touchpad: pinch to zoom, Shift+drag to move, arrow keys to turn",
     "The first open reads every sheet's 3D data again once"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.21/Eagleview-Setup-6.21.exe",
-  "sha256": "424d43b86fb77cd057cf232b27282baf223926d4174a547829e7f87a429e9a56",
-  "sizeBytes": 155408012,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.22/Eagleview-Setup-6.22.exe",
+  "sha256": "ebc4afb0912d10ea79cab22493c3852faefbcaa72401e67236c2531314e4bd8e",
+  "sizeBytes": 155536710,
   "mandatory": false
 }
