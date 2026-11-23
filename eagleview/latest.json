@@ -1,21 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.23",
+  "version": "6.24",
   "major": 6,
-  "minor": 23,
-  "counter": 623,
+  "minor": 24,
+  "counter": 624,
   "date": "23 November 2026",
   "notes": [
-    "3D view: stairs and elevators / lifts are labelled, always readable from any angle",
-    "Big venue sheets are read about three times faster in the background",
-    "The 3D view of a large venue opens faster",
-    "Connect to Switchport: the suggested port is framed in red, and the mark follows your own choice",
-    "3D view: objects, cables and labels of one floor no longer show through a floor in front of them",
-    "Seating bowls are built once across floors instead of repeating on every level"
+    "Brand is now a dropdown of the major brands for each object type; type your own and it is remembered for that type",
+    "Access Points, Racks, IP Telephones, Printers and TVs gain a Brand field, also in their Excel tabs",
+    "Rosters and the Access Point template use the same brand lists",
+    "New Project now looks like Project preferences: two columns, with Logo and Auto Naming Convention, and it fits the screen"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.23/Eagleview-Setup-6.23.exe",
-  "sha256": "032b6fe0fc51308b27c1f7717f651a5dbbfab4c28703915771bc0818030f8f14",
-  "sizeBytes": 155558509,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.24/Eagleview-Setup-6.24.exe",
+  "sha256": "0fcde5ad4aeaf046162a6e67064a68fdcb48de208656857a9653436e4651ad86",
+  "sizeBytes": 155635283,
   "mandatory": false
 }
