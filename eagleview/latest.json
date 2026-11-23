@@ -1,19 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.19",
+  "version": "6.20",
   "major": 6,
-  "minor": 19,
-  "counter": 619,
+  "minor": 20,
+  "counter": 620,
   "date": "23 November 2026",
   "notes": [
-    "3D: stairs look like real stairs (concrete flights, landings, glass rails) with a light stair tower to the floor above",
-    "3D: lift shafts with landing doors and a see-through shaft between floors; doors (wood, metal, glass) and windows with frames, sills and panes",
-    "3D: dragging a floor's corner keeps walls, stairs and lifts on screen, following the new spacing",
-    "Cables through a riser now know the object they end on on the other floor: its switch port or interface is asked, Excel names it, and moving it brings the cable along"
+    "New objects: Workstation and Projector, Wired (Ethernet at 10M, 100M or 1G) or Wireless (SSID, Wi-Fi standard)",
+    "They connect like every networked object: switch ports, link speed, Nearest Net Rack, Auto Cable, Related objects",
+    "Excel: a Workstations tab and a Projectors tab"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.19/Eagleview-Setup-6.19.exe",
-  "sha256": "d24ad6bd5cd49bd43290a66db9ef188c37c94bed983b5bcaafc3f4c9c62ed2be",
-  "sizeBytes": 155333225,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.20/Eagleview-Setup-6.20.exe",
+  "sha256": "143b496026784220df7e431f9fa1f2ff005ff5977fee0c7b1d1a4b51ce6f43c0",
+  "sizeBytes": 155391715,
   "mandatory": false
 }
