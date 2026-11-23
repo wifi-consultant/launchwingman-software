@@ -1,18 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.20",
+  "version": "6.21",
   "major": 6,
-  "minor": 20,
-  "counter": 620,
+  "minor": 21,
+  "counter": 621,
   "date": "23 November 2026",
   "notes": [
-    "New objects: Workstation and Projector, Wired (Ethernet at 10M, 100M or 1G) or Wireless (SSID, Wi-Fi standard)",
-    "They connect like every networked object: switch ports, link speed, Nearest Net Rack, Auto Cable, Related objects",
-    "Excel: a Workstations tab and a Projectors tab"
+    "3D opens at once on big venues (the window froze for many seconds before) and uses far less memory",
+    "3D looks better: soft shading where walls meet the floor, smoother edges, sharper drawings at a slant, floors drawn as plates",
+    "Picture-plan projects use about 1 GB less memory; leftover temporary files are cleaned up",
+    "The first open reads every sheet's 3D data again once"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.20/Eagleview-Setup-6.20.exe",
-  "sha256": "143b496026784220df7e431f9fa1f2ff005ff5977fee0c7b1d1a4b51ce6f43c0",
-  "sizeBytes": 155391715,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.21/Eagleview-Setup-6.21.exe",
+  "sha256": "424d43b86fb77cd057cf232b27282baf223926d4174a547829e7f87a429e9a56",
+  "sizeBytes": 155408012,
   "mandatory": false
 }
