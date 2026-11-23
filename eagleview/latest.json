@@ -1,19 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.22",
+  "version": "6.23",
   "major": 6,
-  "minor": 22,
-  "counter": 622,
+  "minor": 23,
+  "counter": 623,
   "date": "23 November 2026",
   "notes": [
-    "A reopened project shows its 3D view from what was saved, without building it again",
-    "Sporting venues in 3D: nothing stands on a field of play, seating rises in rows, seats take their drawn colours",
-    "3D view works with a touchpad: pinch to zoom, Shift+drag to move, arrow keys to turn",
-    "The first open reads every sheet's 3D data again once"
+    "3D view: stairs and elevators / lifts are labelled, always readable from any angle",
+    "Big venue sheets are read about three times faster in the background",
+    "The 3D view of a large venue opens faster",
+    "Connect to Switchport: the suggested port is framed in red, and the mark follows your own choice",
+    "3D view: objects, cables and labels of one floor no longer show through a floor in front of them",
+    "Seating bowls are built once across floors instead of repeating on every level"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.22/Eagleview-Setup-6.22.exe",
-  "sha256": "ebc4afb0912d10ea79cab22493c3852faefbcaa72401e67236c2531314e4bd8e",
-  "sizeBytes": 155536710,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.23/Eagleview-Setup-6.23.exe",
+  "sha256": "032b6fe0fc51308b27c1f7717f651a5dbbfab4c28703915771bc0818030f8f14",
+  "sizeBytes": 155558509,
   "mandatory": false
 }
