@@ -1,19 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.24",
+  "version": "6.25",
   "major": 6,
-  "minor": 24,
-  "counter": 624,
+  "minor": 25,
+  "counter": 625,
   "date": "23 November 2026",
   "notes": [
-    "Brand is now a dropdown of the major brands for each object type; type your own and it is remembered for that type",
-    "Access Points, Racks, IP Telephones, Printers and TVs gain a Brand field, also in their Excel tabs",
-    "Rosters and the Access Point template use the same brand lists",
-    "New Project now looks like Project preferences: two columns, with Logo and Auto Naming Convention, and it fits the screen"
+    "Background reading of big venue sheets uses up to 40 percent less memory"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.24/Eagleview-Setup-6.24.exe",
-  "sha256": "0fcde5ad4aeaf046162a6e67064a68fdcb48de208656857a9653436e4651ad86",
-  "sizeBytes": 155635283,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.25/Eagleview-Setup-6.25.exe",
+  "sha256": "9e9dc244b522936d300d5a3dedc38a8f257af5a6d14c12b0316b03dc6d13e9b5",
+  "sizeBytes": 155584448,
   "mandatory": false
 }
