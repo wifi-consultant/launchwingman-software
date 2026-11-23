@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.25",
+  "version": "6.26",
   "major": 6,
-  "minor": 25,
-  "counter": 625,
+  "minor": 26,
+  "counter": 626,
   "date": "23 November 2026",
   "notes": [
-    "Background reading of big venue sheets uses up to 40 percent less memory"
+    "A stairwell is now shown between two floors even when their drawings do not line up exactly",
+    "Background reading of the largest venue sheets stays under 1 GB"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.25/Eagleview-Setup-6.25.exe",
-  "sha256": "9e9dc244b522936d300d5a3dedc38a8f257af5a6d14c12b0316b03dc6d13e9b5",
-  "sizeBytes": 155584448,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.26/Eagleview-Setup-6.26.exe",
+  "sha256": "137ea6b8f3aec9ec232d274cc8c221b6e9ca978ed094f1ff73f4c356d494f0b1",
+  "sizeBytes": 155609875,
   "mandatory": false
 }
