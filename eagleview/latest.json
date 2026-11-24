@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.33",
+  "version": "6.34",
   "major": 6,
-  "minor": 33,
-  "counter": 633,
+  "minor": 34,
+  "counter": 634,
   "date": "24 November 2026",
   "notes": [
-    "3D: exclusion areas keep the colour they were drawn in and stand behind a low barrier along their outline"
+    "3D: nothing of the plan stands inside an exclusion area, and \"Excluded Areas\" is written across it"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.33/Eagleview-Setup-6.33.exe",
-  "sha256": "b01030591c31861f5fcb4e257dae95f234d7ae61344ba9e8f3a0985046440eb3",
-  "sizeBytes": 155886346,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.34/Eagleview-Setup-6.34.exe",
+  "sha256": "a4ee54aa6bf350087010bdf74da4078b88423ac04c160d95f4935b592b91d1da",
+  "sizeBytes": 155924206,
   "mandatory": false
 }
