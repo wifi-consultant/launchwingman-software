@@ -1,19 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.27",
+  "version": "6.28",
   "major": 6,
-  "minor": 27,
-  "counter": 627,
+  "minor": 28,
+  "counter": 628,
   "date": "24 November 2026",
   "notes": [
-    "Every object now has a Height from ground (Access Points default to 7 ft), with project defaults and combined elevation",
-    "3D: cables are part of the scene, run at the ceiling line and are hidden by what stands in front of them",
-    "3D: fields of play, courts, golf courses, pools, lakes and the sea are drawn as their own surfaces",
+    "3D: cables are easier to read: a dark edge, a rounded body and a soft shadow on the floor under each run",
+    "3D: a cable ends at its object's height, and every object marker stands on a stem from the floor",
+    "Cable lengths now add the vertical drop at each end when the object has a height (Excel shows both drops)",
+    "Named fields of play, pools and lakes are found on picture plans and on drawings made of plain outlines",
+    "3D: objects of another sheet no longer cross a field of play; rink and pitch boards stand where the drawing names them",
     "The first open reads every sheet's 3D data again once"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.27/Eagleview-Setup-6.27.exe",
-  "sha256": "c7017eccbc860b6333e3d4820287b28ca5c785de923ae5d44ba9ff1a7542eaed",
-  "sizeBytes": 155768232,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.28/Eagleview-Setup-6.28.exe",
+  "sha256": "b3f89f98c0d66d1f1619c999b6491ebe4820776fdf3a010fdf0ba524391105ea",
+  "sizeBytes": 155826558,
   "mandatory": false
 }
