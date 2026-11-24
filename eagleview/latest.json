@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.29",
+  "version": "6.30",
   "major": 6,
-  "minor": 29,
-  "counter": 629,
+  "minor": 30,
+  "counter": 630,
   "date": "24 November 2026",
   "notes": [
-    "New cable kind: Power Cable, black by default, with its own colours and its own Excel tab",
-    "Power cable types follow the project's country: branch wiring, rack and PDU cords, feeders, outdoor, between buildings, medium voltage",
-    "3D: cables are easier to read, end at their object's height, and every marker stands on a stem from the floor",
-    "Cable lengths add the vertical drop at each end when the object has a height"
+    "Small-scale floor plans: walls drawn as grey fills, stairwells and desk rows are now recognised",
+    "Eagleview no longer assumes a scale: a sheet is read in metres only once its scale is calibrated or confirmed",
+    "A sheet without a level/floor is asked once (Assign now or Later)",
+    "The first open reads every sheet's 3D data again once"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.29/Eagleview-Setup-6.29.exe",
-  "sha256": "b9866211380ba983d566b3533b474d636dd1d7496cb94c2603c89b8360018dd2",
-  "sizeBytes": 155870328,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.30/Eagleview-Setup-6.30.exe",
+  "sha256": "0021526365078d52419e905e808feadd242aaed4ce12bd5c3fe77d347fb9aa2d",
+  "sizeBytes": 155922248,
   "mandatory": false
 }
