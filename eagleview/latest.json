@@ -1,21 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.28",
+  "version": "6.29",
   "major": 6,
-  "minor": 28,
-  "counter": 628,
+  "minor": 29,
+  "counter": 629,
   "date": "24 November 2026",
   "notes": [
-    "3D: cables are easier to read: a dark edge, a rounded body and a soft shadow on the floor under each run",
-    "3D: a cable ends at its object's height, and every object marker stands on a stem from the floor",
-    "Cable lengths now add the vertical drop at each end when the object has a height (Excel shows both drops)",
-    "Named fields of play, pools and lakes are found on picture plans and on drawings made of plain outlines",
-    "3D: objects of another sheet no longer cross a field of play; rink and pitch boards stand where the drawing names them",
-    "The first open reads every sheet's 3D data again once"
+    "New cable kind: Power Cable, black by default, with its own colours and its own Excel tab",
+    "Power cable types follow the project's country: branch wiring, rack and PDU cords, feeders, outdoor, between buildings, medium voltage",
+    "3D: cables are easier to read, end at their object's height, and every marker stands on a stem from the floor",
+    "Cable lengths add the vertical drop at each end when the object has a height"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.28/Eagleview-Setup-6.28.exe",
-  "sha256": "b3f89f98c0d66d1f1619c999b6491ebe4820776fdf3a010fdf0ba524391105ea",
-  "sizeBytes": 155826558,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.29/Eagleview-Setup-6.29.exe",
+  "sha256": "b9866211380ba983d566b3533b474d636dd1d7496cb94c2603c89b8360018dd2",
+  "sizeBytes": 155870328,
   "mandatory": false
 }
