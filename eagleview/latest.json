@@ -1,19 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.30",
+  "version": "6.31",
   "major": 6,
-  "minor": 30,
-  "counter": 630,
+  "minor": 31,
+  "counter": 631,
   "date": "24 November 2026",
   "notes": [
-    "Small-scale floor plans: walls drawn as grey fills, stairwells and desk rows are now recognised",
-    "Eagleview no longer assumes a scale: a sheet is read in metres only once its scale is calibrated or confirmed",
-    "A sheet without a level/floor is asked once (Assign now or Later)",
-    "The first open reads every sheet's 3D data again once"
+    "Access Point names follow the naming convention when a cable links them to a rack or the template sets their model",
+    "A rack link removed with its cable returns the Access Point to its plain name"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.30/Eagleview-Setup-6.30.exe",
-  "sha256": "0021526365078d52419e905e808feadd242aaed4ce12bd5c3fe77d347fb9aa2d",
-  "sizeBytes": 155922248,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.31/Eagleview-Setup-6.31.exe",
+  "sha256": "45d47b17c1b742daed1760cbbb7e557fbfb069b27172204ac2196d64930cc401",
+  "sizeBytes": 155889134,
   "mandatory": false
 }
