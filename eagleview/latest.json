@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.31",
+  "version": "6.32",
   "major": 6,
-  "minor": 31,
-  "counter": 631,
+  "minor": 32,
+  "counter": 632,
   "date": "24 November 2026",
   "notes": [
-    "Access Point names follow the naming convention when a cable links them to a rack or the template sets their model",
-    "A rack link removed with its cable returns the Access Point to its plain name"
+    "3D: exclusion areas are drawn on their floor, hatched exactly as in the plan"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.31/Eagleview-Setup-6.31.exe",
-  "sha256": "45d47b17c1b742daed1760cbbb7e557fbfb069b27172204ac2196d64930cc401",
-  "sizeBytes": 155889134,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.32/Eagleview-Setup-6.32.exe",
+  "sha256": "02572089ecd55eff493833fe0c1e04bc9df6bf15b23ddbf0feb87266baec8386",
+  "sizeBytes": 155885026,
   "mandatory": false
 }
