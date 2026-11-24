@@ -1,16 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.34",
+  "version": "6.35",
   "major": 6,
-  "minor": 34,
-  "counter": 634,
+  "minor": 35,
+  "counter": 635,
   "date": "24 November 2026",
   "notes": [
-    "3D: nothing of the plan stands inside an exclusion area, and \"Excluded Areas\" is written across it"
+    "New object: MiFi hotspot (MFI), with cellular, 2.4 / 5 / 6 GHz radios, SSID, its own roster, Excel tab and PDF layer",
+    "Racks are power aware: Circuit A and B per rack, each device's power supplies on a circuit, normal and failover totals",
+    "A rack's UPS protects the circuit it feeds: load against its capacity, shown in the Detailed Rack, Excel and PDF"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.34/Eagleview-Setup-6.34.exe",
-  "sha256": "a4ee54aa6bf350087010bdf74da4078b88423ac04c160d95f4935b592b91d1da",
-  "sizeBytes": 155924206,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.35/Eagleview-Setup-6.35.exe",
+  "sha256": "490ed412399097220e78753dd95ea6905875f9f8651da725271853ecd48a1cec",
+  "sizeBytes": 155931878,
   "mandatory": false
 }
