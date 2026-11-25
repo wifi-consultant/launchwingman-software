@@ -1,21 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.40",
+  "version": "6.41",
   "major": 6,
-  "minor": 40,
-  "counter": 640,
+  "minor": 41,
+  "counter": 641,
   "date": "25 November 2026",
   "notes": [
-    "The project address prints on 2 or 3 lines on the PDF cover (street, city, country)",
-    "New PDF layers Rack Elevations and Rack Slots: with Network Rack Detailed View, three pages per rack (rack information and devices connected, the elevation, every unit)",
-    "Rack Slots page now lists every unit, coloured by item, with front, back and notes",
-    "Rack elevation: Circuit B sits as far from the rack as Circuit A",
-    "New PDF layer 3D Floorplans: a 3D page of each floor plan, as the Stacked View draws it (off until checked)",
-    "Every PDF page carries a small Confidential mark at the bottom right"
+    "New Auto AP Placement: right-click an area (or Auto > Auto AP Placement) and Eagleview places the Access Points it needs, from coverage and capacity, around the APs you already have",
+    "The placed APs come from your AP Template with Tx Power and channels planned; one Undo takes them back",
+    "Every placement rule is a setting you can adjust (autoplace.json)",
+    "Draw a Wall > Wall Type > Edit dB Values: set this project's own dB for any wall type (used by drawn walls, Export Ekahau and Auto AP Placement)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.40/Eagleview-Setup-6.40.exe",
-  "sha256": "bad7c4161b4da79f6960c4989541bb1a4245d86a33fd83e47d4214c6105afa60",
-  "sizeBytes": 156106499,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.41/Eagleview-Setup-6.41.exe",
+  "sha256": "96c018110a0f1c1c93857417c00497ec57f8af9bb107520cb4252bbe7459e7bf",
+  "sizeBytes": 156129845,
   "mandatory": false
 }
