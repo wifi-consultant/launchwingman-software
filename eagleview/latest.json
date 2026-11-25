@@ -1,18 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.35",
+  "version": "6.36",
   "major": 6,
-  "minor": 35,
-  "counter": 635,
-  "date": "24 November 2026",
+  "minor": 36,
+  "counter": 636,
+  "date": "25 November 2026",
   "notes": [
-    "New object: MiFi hotspot (MFI), with cellular, 2.4 / 5 / 6 GHz radios, SSID, its own roster, Excel tab and PDF layer",
-    "Racks are power aware: Circuit A and B per rack, each device's power supplies on a circuit, normal and failover totals",
-    "A rack's UPS protects the circuit it feeds: load against its capacity, shown in the Detailed Rack, Excel and PDF"
+    "Excel rack sheets now show the PDU B FEED bar (when Circuit B carries load) and the GROUND BAR band, like the engineer's own rack sheets",
+    "A page turn pressed while \"Rendering page...\" appears no longer slips through"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.35/Eagleview-Setup-6.35.exe",
-  "sha256": "490ed412399097220e78753dd95ea6905875f9f8651da725271853ecd48a1cec",
-  "sizeBytes": 155931878,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.36/Eagleview-Setup-6.36.exe",
+  "sha256": "40ff57bec9fd92dd2384374ad2e58d85d9ba0a733570a56e746559446842fbed",
+  "sizeBytes": 155940087,
   "mandatory": false
 }
