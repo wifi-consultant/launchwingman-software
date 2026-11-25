@@ -1,18 +1,21 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.38",
+  "version": "6.39",
   "major": 6,
-  "minor": 38,
-  "counter": 638,
+  "minor": 39,
+  "counter": 639,
   "date": "25 November 2026",
   "notes": [
-    "Match to Satellite: the satellite picture now turns too, with the same Rotate and North up buttons as the plan",
-    "New Export Ekahau: the project as an Ekahau file, with your AP names, radios by band, Tx Power, channels, heights, areas, exclusion areas and drawn walls",
-    "New File > Import Ekahau: a file worked in Ekahau comes back into the project (moved and new APs, Tx Power, channels, heights, areas, walls), one Undo"
+    "Areas get a Wi-Fi Design section: requirement (Eagleview Proven Practices by default) and device rows (device type, usage, count) with Fill from category mix",
+    "Export / Import Ekahau carry each area's devices and requirement; an area without rows goes over with its category's device mix",
+    "Excel Areas tab: Wi-Fi Requirement and Device Mix columns",
+    "Excel rack tabs: the Rack Elevation and its drawing now sit beside Rack Power, at the top right",
+    "Export Ekahau plans a channel for radios still TBD (in the file only, listed in the report), so Ekahau can draw the heatmap",
+    "Preferences and New Project are wider, with larger street and satellite pictures"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.38/Eagleview-Setup-6.38.exe",
-  "sha256": "08227bf979a308bfa40cf2debca4e29bfe0955e77de4de9c56af478eff8865ff",
-  "sizeBytes": 156053866,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.39/Eagleview-Setup-6.39.exe",
+  "sha256": "7fa74a3362a360998b9447bb2b44ff9ff9cdf75c00f12d004fcc6c8ac14844e0",
+  "sizeBytes": 156040755,
   "mandatory": false
 }
