@@ -1,17 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.36",
+  "version": "6.37",
   "major": 6,
-  "minor": 36,
-  "counter": 636,
+  "minor": 37,
+  "counter": 637,
   "date": "25 November 2026",
   "notes": [
-    "Excel rack sheets now show the PDU B FEED bar (when Circuit B carries load) and the GROUND BAR band, like the engineer's own rack sheets",
-    "A page turn pressed while \"Rendering page...\" appears no longer slips through"
+    "Each Access Point radio has its own Tx Power, Antenna and Height (Ekahau style)",
+    "New Draw a Wall button: straight walls, rectangular rooms and pre-built rooms, doors and windows, in any wall type",
+    "Nine more wall types from Ekahau's library (cinder block, marble, shelves, solid wood and roll-up doors and more)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.36/Eagleview-Setup-6.36.exe",
-  "sha256": "40ff57bec9fd92dd2384374ad2e58d85d9ba0a733570a56e746559446842fbed",
-  "sizeBytes": 155940087,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.37/Eagleview-Setup-6.37.exe",
+  "sha256": "b5d1c90f14721f7a2ba44d1709050970282790c26925a2b0bff215cd67440f51",
+  "sizeBytes": 156011816,
   "mandatory": false
 }
