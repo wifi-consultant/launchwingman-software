@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.45",
+  "version": "6.46",
   "major": 6,
-  "minor": 45,
-  "counter": 645,
+  "minor": 46,
+  "counter": 646,
   "date": "26 November 2026",
   "notes": [
-    "Auto Channel Planner shows only the bands your chosen Access Points have a radio on",
-    "A rack with nothing mounted no longer shows Circuit A / B figures (the 1920 W was the default circuit); its Connected Power stays",
-    "Code audit fixes: the 3D web page handles any project name, the 3D window frees its memory on close, background 3D readers clean up after themselves",
-    "Documentation brought up to date with the code"
+    "The RF view now shows coverage through walls and detected objects (cubicles, seats, racks, lifts, vehicles and more), on screen, in the PDF and the JPEG",
+    "Every wall type and object has a dB loss at 2.4, 5 and 6 GHz from published sources; edit them per project in Edit dB Values (Walls and Objects tabs)",
+    "New wall types: Low-E glass, curtain wall, stucco, metal stud, fire door, timber, metal cladding",
+    "Auto AP Placement and the Auto Channel Planner use the same wall and object losses; exclusion areas no longer count as walls"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.45/Eagleview-Setup-6.45.exe",
-  "sha256": "57689ff65f19a3aa05be5fbc07baafba51e0172d3ab58d00c5545cf9dbc8da2d",
-  "sizeBytes": 156225506,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.46/Eagleview-Setup-6.46.exe",
+  "sha256": "c8cb98e63be121464e0aa3f42cf3244210d5c17c11884850d35fd10c34ed1909",
+  "sizeBytes": 156280276,
   "mandatory": false
 }
