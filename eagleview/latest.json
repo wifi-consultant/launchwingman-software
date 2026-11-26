@@ -1,28 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.44",
+  "version": "6.45",
   "major": 6,
-  "minor": 44,
-  "counter": 644,
+  "minor": 45,
+  "counter": 645,
   "date": "26 November 2026",
   "notes": [
-    "New Auto AP Placement: right-click an area (or Auto > Auto AP Placement) and Eagleview places the Access Points it needs, from coverage and capacity, around the APs you already have",
-    "The placed APs come from your AP Template with Tx Power and channels planned; one Undo takes them back",
-    "Every placement rule is a setting you can adjust (autoplace.json)",
-    "Draw a Wall > Wall Type > Edit dB Values: set this project's own dB for any wall type (used by drawn walls, Export Ekahau and Auto AP Placement)",
-    "New Auto Channel Planner (Auto menu, or right-click an Access Point or an area): channels and widths for the 2.4, 5 and 6 GHz radios, from the channels legal in the project's country",
-    "Pick the APs or the areas, tick the channels each band may use, choose a width or Auto; see the result before you Apply, one Undo takes it back",
-    "Mount in Rack now shows the rack's Circuit A and B and asks where each power supply plugs in (and, for a UPS, its inlet and what it feeds)",
-    "A power supply can now plug into a UPS's outlet or an automatic transfer switch (ATS); Eagleview shows what runs on battery when a circuit is lost",
-    "A switch's PoE budget now follows its powered supplies: Eagleview warns when losing a circuit leaves too little PoE",
-    "New PoE Class on Access Points, IP Telephones and IP Cameras, checked against their Power Consumption",
-    "Channel tables corrected: Australia 6 GHz up to channel 125, New Zealand separate, India 6 GHz opened, Brazil's March 2027 change noted",
-    "Network Switches, Routers, Firewalls and Controllers now have a PoE Standard (802.3af, at or bt): Eagleview warns when a cabled device needs more",
-    "PoE Class and PoE Standard are now in the Excel export"
+    "Auto Channel Planner shows only the bands your chosen Access Points have a radio on",
+    "A rack with nothing mounted no longer shows Circuit A / B figures (the 1920 W was the default circuit); its Connected Power stays",
+    "Code audit fixes: the 3D web page handles any project name, the 3D window frees its memory on close, background 3D readers clean up after themselves",
+    "Documentation brought up to date with the code"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.44/Eagleview-Setup-6.44.exe",
-  "sha256": "e1abd599bd2ee195a04f42f1767fbe7c4e654a398ac7556ba595f7bb53d2dd93",
-  "sizeBytes": 156243878,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.45/Eagleview-Setup-6.45.exe",
+  "sha256": "57689ff65f19a3aa05be5fbc07baafba51e0172d3ab58d00c5545cf9dbc8da2d",
+  "sizeBytes": 156225506,
   "mandatory": false
 }
