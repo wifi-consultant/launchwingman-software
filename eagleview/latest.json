@@ -1,19 +1,28 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.41",
+  "version": "6.44",
   "major": 6,
-  "minor": 41,
-  "counter": 641,
-  "date": "25 November 2026",
+  "minor": 44,
+  "counter": 644,
+  "date": "26 November 2026",
   "notes": [
     "New Auto AP Placement: right-click an area (or Auto > Auto AP Placement) and Eagleview places the Access Points it needs, from coverage and capacity, around the APs you already have",
     "The placed APs come from your AP Template with Tx Power and channels planned; one Undo takes them back",
     "Every placement rule is a setting you can adjust (autoplace.json)",
-    "Draw a Wall > Wall Type > Edit dB Values: set this project's own dB for any wall type (used by drawn walls, Export Ekahau and Auto AP Placement)"
+    "Draw a Wall > Wall Type > Edit dB Values: set this project's own dB for any wall type (used by drawn walls, Export Ekahau and Auto AP Placement)",
+    "New Auto Channel Planner (Auto menu, or right-click an Access Point or an area): channels and widths for the 2.4, 5 and 6 GHz radios, from the channels legal in the project's country",
+    "Pick the APs or the areas, tick the channels each band may use, choose a width or Auto; see the result before you Apply, one Undo takes it back",
+    "Mount in Rack now shows the rack's Circuit A and B and asks where each power supply plugs in (and, for a UPS, its inlet and what it feeds)",
+    "A power supply can now plug into a UPS's outlet or an automatic transfer switch (ATS); Eagleview shows what runs on battery when a circuit is lost",
+    "A switch's PoE budget now follows its powered supplies: Eagleview warns when losing a circuit leaves too little PoE",
+    "New PoE Class on Access Points, IP Telephones and IP Cameras, checked against their Power Consumption",
+    "Channel tables corrected: Australia 6 GHz up to channel 125, New Zealand separate, India 6 GHz opened, Brazil's March 2027 change noted",
+    "Network Switches, Routers, Firewalls and Controllers now have a PoE Standard (802.3af, at or bt): Eagleview warns when a cabled device needs more",
+    "PoE Class and PoE Standard are now in the Excel export"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.41/Eagleview-Setup-6.41.exe",
-  "sha256": "96c018110a0f1c1c93857417c00497ec57f8af9bb107520cb4252bbe7459e7bf",
-  "sizeBytes": 156129845,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.44/Eagleview-Setup-6.44.exe",
+  "sha256": "e1abd599bd2ee195a04f42f1767fbe7c4e654a398ac7556ba595f7bb53d2dd93",
+  "sizeBytes": 156243878,
   "mandatory": false
 }
