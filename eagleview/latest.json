@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.51",
+  "version": "6.52",
   "major": 6,
-  "minor": 51,
-  "counter": 651,
+  "minor": 52,
+  "counter": 652,
   "date": "27 November 2026",
   "notes": [
-    "New bottom panel (View > Bottom Panel) with the RF display: Hexagons, Signal Heatmap or Pass / Fail against a requirement, the band and a colour legend",
-    "The heatmap counts walls, objects and the floors above and below; the PDF and JPEG print it"
+    "The bottom panel now sits under the drawing only, so the Objects Found and Objects Placed lists use the full height",
+    "Hexagons mode no longer shows an explanation line in the RF tab"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.51/Eagleview-Setup-6.51.exe",
-  "sha256": "f8717a98ca995c46c5e69d3060b75c1d58166b3fd0617daa84221040300a6a56",
-  "sizeBytes": 156419164,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.52/Eagleview-Setup-6.52.exe",
+  "sha256": "5f5240cae83c087a5881a86eae7dc725f89ec7e982392df3be2491cba05135e8",
+  "sizeBytes": 156361845,
   "mandatory": false
 }
