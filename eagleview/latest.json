@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.48",
+  "version": "6.49",
   "major": 6,
-  "minor": 48,
-  "counter": 648,
+  "minor": 49,
+  "counter": 649,
   "date": "27 November 2026",
   "notes": [
-    "Beta: Auto > Review Walls and Objects checks the detected walls and objects of the sheet and proposes corrections you can apply (needs reviews turned on for your Wingman account)"
+    "New Draw a Hole button (between Draw a Line and Measure): draw openings in the floor such as atriums; shown in green with crossed lines",
+    "Holes print in the PDF and JPEG, list in Excel and export to and import from Ekahau; detected stairs and escalators count as holes"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.48/Eagleview-Setup-6.48.exe",
-  "sha256": "dc3657218b7f53eefa09b81d8fb648fb526b3ca99ad6420904a05dab98e39ede",
-  "sizeBytes": 156351573,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.49/Eagleview-Setup-6.49.exe",
+  "sha256": "6b06e066242df034c6622722577c0cd9045b4ebae8de7cf80feb47f48337a7e3",
+  "sizeBytes": 156348232,
   "mandatory": false
 }
