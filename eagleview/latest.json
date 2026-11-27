@@ -1,19 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.47",
+  "version": "6.48",
   "major": 6,
-  "minor": 47,
-  "counter": 647,
+  "minor": 48,
+  "counter": 648,
   "date": "27 November 2026",
   "notes": [
-    "New Edit menu between File and View: Undo, Redo, Cut, Copy, Paste, Delete, Select All, Select All of a Kind, Deselect All",
-    "Click an object to select it, Ctrl+click to select several, Ctrl+A to select everything on the sheet; Delete removes them all in one step",
-    "Copy and paste objects, cables, areas and walls on the same sheet or onto another sheet",
-    "Drag a selected item to move the whole selection; Shift+drag draws a box to select (Ctrl+Shift+drag adds)"
+    "Beta: Auto > Review Walls and Objects checks the detected walls and objects of the sheet and proposes corrections you can apply (needs reviews turned on for your Wingman account)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.47/Eagleview-Setup-6.47.exe",
-  "sha256": "d47e6eb1782b72c51ee1cca3eb692309a59869730594b553dcea7d64e2a78a3a",
-  "sizeBytes": 156280402,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.48/Eagleview-Setup-6.48.exe",
+  "sha256": "dc3657218b7f53eefa09b81d8fb648fb526b3ca99ad6420904a05dab98e39ede",
+  "sizeBytes": 156351573,
   "mandatory": false
 }
