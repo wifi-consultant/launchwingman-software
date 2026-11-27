@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.49",
+  "version": "6.50",
   "major": 6,
-  "minor": 49,
-  "counter": 649,
+  "minor": 50,
+  "counter": 650,
   "date": "27 November 2026",
   "notes": [
-    "New Draw a Hole button (between Draw a Line and Measure): draw openings in the floor such as atriums; shown in green with crossed lines",
-    "Holes print in the PDF and JPEG, list in Excel and export to and import from Ekahau; detected stairs and escalators count as holes"
+    "RF in 3D: the Stacked View's RF button shows the coverage on every floor, for all Access Points or one you click",
+    "Signal now crosses floors: each floor slab costs its dB, holes and stair openings let it through, and every AP counts its mount height"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.49/Eagleview-Setup-6.49.exe",
-  "sha256": "6b06e066242df034c6622722577c0cd9045b4ebae8de7cf80feb47f48337a7e3",
-  "sizeBytes": 156348232,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.50/Eagleview-Setup-6.50.exe",
+  "sha256": "e4c50d28a5f38f66fbdfb3be0423b70d3f52375adde6655c0a9512d0f6d7c6f0",
+  "sizeBytes": 156373404,
   "mandatory": false
 }
