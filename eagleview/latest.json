@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.46",
+  "version": "6.47",
   "major": 6,
-  "minor": 46,
-  "counter": 646,
-  "date": "26 November 2026",
+  "minor": 47,
+  "counter": 647,
+  "date": "27 November 2026",
   "notes": [
-    "The RF view now shows coverage through walls and detected objects (cubicles, seats, racks, lifts, vehicles and more), on screen, in the PDF and the JPEG",
-    "Every wall type and object has a dB loss at 2.4, 5 and 6 GHz from published sources; edit them per project in Edit dB Values (Walls and Objects tabs)",
-    "New wall types: Low-E glass, curtain wall, stucco, metal stud, fire door, timber, metal cladding",
-    "Auto AP Placement and the Auto Channel Planner use the same wall and object losses; exclusion areas no longer count as walls"
+    "New Edit menu between File and View: Undo, Redo, Cut, Copy, Paste, Delete, Select All, Select All of a Kind, Deselect All",
+    "Click an object to select it, Ctrl+click to select several, Ctrl+A to select everything on the sheet; Delete removes them all in one step",
+    "Copy and paste objects, cables, areas and walls on the same sheet or onto another sheet",
+    "Drag a selected item to move the whole selection; Shift+drag draws a box to select (Ctrl+Shift+drag adds)"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.46/Eagleview-Setup-6.46.exe",
-  "sha256": "c8cb98e63be121464e0aa3f42cf3244210d5c17c11884850d35fd10c34ed1909",
-  "sizeBytes": 156280276,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.47/Eagleview-Setup-6.47.exe",
+  "sha256": "d47e6eb1782b72c51ee1cca3eb692309a59869730594b553dcea7d64e2a78a3a",
+  "sizeBytes": 156280402,
   "mandatory": false
 }
