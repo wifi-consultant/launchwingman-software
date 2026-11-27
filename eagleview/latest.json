@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.50",
+  "version": "6.51",
   "major": 6,
-  "minor": 50,
-  "counter": 650,
+  "minor": 51,
+  "counter": 651,
   "date": "27 November 2026",
   "notes": [
-    "RF in 3D: the Stacked View's RF button shows the coverage on every floor, for all Access Points or one you click",
-    "Signal now crosses floors: each floor slab costs its dB, holes and stair openings let it through, and every AP counts its mount height"
+    "New bottom panel (View > Bottom Panel) with the RF display: Hexagons, Signal Heatmap or Pass / Fail against a requirement, the band and a colour legend",
+    "The heatmap counts walls, objects and the floors above and below; the PDF and JPEG print it"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.50/Eagleview-Setup-6.50.exe",
-  "sha256": "e4c50d28a5f38f66fbdfb3be0423b70d3f52375adde6655c0a9512d0f6d7c6f0",
-  "sizeBytes": 156373404,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.51/Eagleview-Setup-6.51.exe",
+  "sha256": "f8717a98ca995c46c5e69d3060b75c1d58166b3fd0617daa84221040300a6a56",
+  "sizeBytes": 156419164,
   "mandatory": false
 }
