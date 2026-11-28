@@ -1,16 +1,18 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.56",
+  "version": "6.57",
   "major": 6,
-  "minor": 56,
-  "counter": 656,
+  "minor": 57,
+  "counter": 657,
   "date": "28 November 2026",
   "notes": [
-    "Running Detect again no longer clears the notes, highlights and flags you set on found objects"
+    "The Apply RF Ruler button now sits between Draw and Notes",
+    "The left page arrow no longer sits on the measurement ruler",
+    "Auto Align recognises sheets drawn on the same base and places them together"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.56/Eagleview-Setup-6.56.exe",
-  "sha256": "a035427d0fe9cae9312034fd598b21fbb0a4285073d11d1b82459248fdbdbb39",
-  "sizeBytes": 156399835,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.57/Eagleview-Setup-6.57.exe",
+  "sha256": "022369e5779adf38db5523fc76ada08dda18b7330fbabc5045d48cecba008590",
+  "sizeBytes": 156406775,
   "mandatory": false
 }
