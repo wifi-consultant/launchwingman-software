@@ -1,17 +1,20 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.52",
+  "version": "6.55",
   "major": 6,
-  "minor": 52,
-  "counter": 652,
-  "date": "27 November 2026",
+  "minor": 55,
+  "counter": 655,
+  "date": "28 November 2026",
   "notes": [
-    "The bottom panel now sits under the drawing only, so the Objects Found and Objects Placed lists use the full height",
-    "Hexagons mode no longer shows an explanation line in the RF tab"
+    "Level Order & Heights (Building pane): put a building's levels in order and type a height above the ground, so lettered levels like A to F appear in 3D",
+    "A building with no 3D floor now says why under its row",
+    "The RF tab fits on one row, giving the plan more room",
+    "Auto Align places more sheets by themselves (sheets that show only part of their key-plan tile) and reads a book about three times faster",
+    "Auto Align also stitches the sheets of other levels by the structure they share with the sheets already aligned"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.52/Eagleview-Setup-6.52.exe",
-  "sha256": "5f5240cae83c087a5881a86eae7dc725f89ec7e982392df3be2491cba05135e8",
-  "sizeBytes": 156361845,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.55/Eagleview-Setup-6.55.exe",
+  "sha256": "bcc90a91ac425b737214593f36631f9ceedcf6562a264d47876e421fa064d9a1",
+  "sizeBytes": 156412223,
   "mandatory": false
 }
