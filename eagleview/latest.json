@@ -1,18 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.57",
+  "version": "6.58",
   "major": 6,
-  "minor": 57,
-  "counter": 657,
+  "minor": 58,
+  "counter": 658,
   "date": "28 November 2026",
   "notes": [
-    "The Apply RF Ruler button now sits between Draw and Notes",
-    "The left page arrow no longer sits on the measurement ruler",
-    "Auto Align recognises sheets drawn on the same base and places them together"
+    "Fixed: a project could not be saved after Auto Align had placed sheets of other levels or twin sheets"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.57/Eagleview-Setup-6.57.exe",
-  "sha256": "022369e5779adf38db5523fc76ada08dda18b7330fbabc5045d48cecba008590",
-  "sizeBytes": 156406775,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.58/Eagleview-Setup-6.58.exe",
+  "sha256": "82c51a21d605defc181f52cea4017171a771859fc38605af042a4968645883f8",
+  "sizeBytes": 156409451,
   "mandatory": false
 }
