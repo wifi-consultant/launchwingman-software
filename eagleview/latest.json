@@ -1,20 +1,16 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "6.55",
+  "version": "6.56",
   "major": 6,
-  "minor": 55,
-  "counter": 655,
+  "minor": 56,
+  "counter": 656,
   "date": "28 November 2026",
   "notes": [
-    "Level Order & Heights (Building pane): put a building's levels in order and type a height above the ground, so lettered levels like A to F appear in 3D",
-    "A building with no 3D floor now says why under its row",
-    "The RF tab fits on one row, giving the plan more room",
-    "Auto Align places more sheets by themselves (sheets that show only part of their key-plan tile) and reads a book about three times faster",
-    "Auto Align also stitches the sheets of other levels by the structure they share with the sheets already aligned"
+    "Running Detect again no longer clears the notes, highlights and flags you set on found objects"
   ],
-  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.55/Eagleview-Setup-6.55.exe",
-  "sha256": "bcc90a91ac425b737214593f36631f9ceedcf6562a264d47876e421fa064d9a1",
-  "sizeBytes": 156412223,
+  "installerUrl": "https://github.com/wifi-consultant/eagleview-downloads/releases/download/v6.56/Eagleview-Setup-6.56.exe",
+  "sha256": "a035427d0fe9cae9312034fd598b21fbb0a4285073d11d1b82459248fdbdbb39",
+  "sizeBytes": 156399835,
   "mandatory": false
 }
